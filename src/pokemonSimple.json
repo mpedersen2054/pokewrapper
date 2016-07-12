@@ -1,0 +1,11935 @@
+[
+  {
+    "natNum": 1,
+    "name": "bulbasaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 45,
+    "atk": 49,
+    "def": 49,
+    "sAt": 65,
+    "sDf": 65,
+    "spd": 45,
+    "bst": 318
+  },
+  {
+    "natNum": 2,
+    "name": "ivysaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 60,
+    "atk": 62,
+    "def": 63,
+    "sAt": 80,
+    "sDf": 80,
+    "spd": 60,
+    "bst": 405
+  },
+  {
+    "natNum": 3,
+    "name": "venusaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 80,
+    "atk": 82,
+    "def": 83,
+    "sAt": 100,
+    "sDf": 100,
+    "spd": 80,
+    "bst": 525
+  },
+  {
+    "natNum": 3,
+    "name": "mega venusaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 80,
+    "atk": 100,
+    "def": 123,
+    "sAt": 122,
+    "sDf": 120,
+    "spd": 80,
+    "bst": 625
+  },
+  {
+    "natNum": 4,
+    "name": "charmander",
+    "types": [
+      "fire"
+    ],
+    "hp": 39,
+    "atk": 52,
+    "def": 43,
+    "sAt": 60,
+    "sDf": 50,
+    "spd": 65,
+    "bst": 309
+  },
+  {
+    "natNum": 5,
+    "name": "charmeleon",
+    "types": [
+      "fire"
+    ],
+    "hp": 58,
+    "atk": 64,
+    "def": 58,
+    "sAt": 80,
+    "sDf": 65,
+    "spd": 80,
+    "bst": 405
+  },
+  {
+    "natNum": 6,
+    "name": "charizard",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "hp": 78,
+    "atk": 84,
+    "def": 78,
+    "sAt": 109,
+    "sDf": 85,
+    "spd": 100,
+    "bst": 534
+  },
+  {
+    "natNum": 6,
+    "name": "mega charizard x",
+    "types": [
+      "fire",
+      "dragon"
+    ],
+    "hp": 78,
+    "atk": 120,
+    "def": 78,
+    "sAt": 100,
+    "sDf": 85,
+    "spd": 100,
+    "bst": 561
+  },
+  {
+    "natNum": 6,
+    "name": "mega charizard y",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "hp": 78,
+    "atk": 104,
+    "def": 78,
+    "sAt": 159,
+    "sDf": 115,
+    "spd": 100,
+    "bst": 634
+  },
+  {
+    "natNum": 7,
+    "name": "squirtle",
+    "types": [
+      "water"
+    ],
+    "hp": 44,
+    "atk": 48,
+    "def": 65,
+    "sAt": 50,
+    "sDf": 64,
+    "spd": 43,
+    "bst": 314
+  },
+  {
+    "natNum": 8,
+    "name": "wartortle",
+    "types": [
+      "water"
+    ],
+    "hp": 59,
+    "atk": 63,
+    "def": 80,
+    "sAt": 65,
+    "sDf": 80,
+    "spd": 58,
+    "bst": 405
+  },
+  {
+    "natNum": 9,
+    "name": "blastoise",
+    "types": [
+      "water"
+    ],
+    "hp": 79,
+    "atk": 83,
+    "def": 100,
+    "sAt": 85,
+    "sDf": 105,
+    "spd": 78,
+    "bst": 530
+  },
+  {
+    "natNum": 9,
+    "name": "mega blastoise",
+    "types": [
+      "water"
+    ],
+    "hp": 79,
+    "atk": 83,
+    "def": 100,
+    "sAt": 85,
+    "sDf": 105,
+    "spd": 78,
+    "bst": 530
+  },
+  {
+    "natNum": 10,
+    "name": "caterpie",
+    "types": [
+      "bug"
+    ],
+    "hp": 45,
+    "atk": 30,
+    "def": 35,
+    "sAt": 20,
+    "sDf": 20,
+    "spd": 45,
+    "bst": 195
+  },
+  {
+    "natNum": 11,
+    "name": "metapod",
+    "types": [
+      "bug"
+    ],
+    "hp": 50,
+    "atk": 20,
+    "def": 55,
+    "sAt": 25,
+    "sDf": 25,
+    "spd": 30,
+    "bst": 205
+  },
+  {
+    "natNum": 12,
+    "name": "butterfree",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 60,
+    "atk": 45,
+    "def": 50,
+    "sAt": 90,
+    "sDf": 80,
+    "spd": 70,
+    "bst": 395
+  },
+  {
+    "natNum": 13,
+    "name": "weedle",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hp": 40,
+    "atk": 35,
+    "def": 30,
+    "sAt": 20,
+    "sDf": 20,
+    "spd": 50,
+    "bst": 195
+  },
+  {
+    "natNum": 14,
+    "name": "kakuna",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hp": 45,
+    "atk": 25,
+    "def": 50,
+    "sAt": 25,
+    "sDf": 25,
+    "spd": 35,
+    "bst": 205
+  },
+  {
+    "natNum": 15,
+    "name": "beedrill",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hp": 65,
+    "atk": 90,
+    "def": 40,
+    "sAt": 45,
+    "sDf": 80,
+    "spd": 75,
+    "bst": 395
+  },
+  {
+    "natNum": 15,
+    "name": "mega beedrill",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hp": 65,
+    "atk": 150,
+    "def": 40,
+    "sAt": 15,
+    "sDf": 80,
+    "spd": 145,
+    "bst": 495
+  },
+  {
+    "natNum": 16,
+    "name": "pidgey",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 40,
+    "atk": 45,
+    "def": 40,
+    "sAt": 35,
+    "sDf": 35,
+    "spd": 56,
+    "bst": 251
+  },
+  {
+    "natNum": 17,
+    "name": "pidgeotto",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 63,
+    "atk": 60,
+    "def": 55,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 71,
+    "bst": 349
+  },
+  {
+    "natNum": 18,
+    "name": "pidgeot",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 83,
+    "atk": 80,
+    "def": 75,
+    "sAt": 70,
+    "sDf": 70,
+    "spd": 101,
+    "bst": 479
+  },
+  {
+    "natNum": 18,
+    "name": "mega pidgeot",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 83,
+    "atk": 80,
+    "def": 80,
+    "sAt": 135,
+    "sDf": 80,
+    "spd": 121,
+    "bst": 579
+  },
+  {
+    "natNum": 19,
+    "name": "rattata",
+    "types": [
+      "normal"
+    ],
+    "hp": 30,
+    "atk": 56,
+    "def": 35,
+    "sAt": 25,
+    "sDf": 35,
+    "spd": 72,
+    "bst": 253
+  },
+  {
+    "natNum": 20,
+    "name": "raticate",
+    "types": [
+      "normal"
+    ],
+    "hp": 55,
+    "atk": 81,
+    "def": 60,
+    "sAt": 50,
+    "sDf": 70,
+    "spd": 97,
+    "bst": 413
+  },
+  {
+    "natNum": 21,
+    "name": "spearow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 40,
+    "atk": 60,
+    "def": 30,
+    "sAt": 31,
+    "sDf": 31,
+    "spd": 70,
+    "bst": 262
+  },
+  {
+    "natNum": 22,
+    "name": "fearow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 65,
+    "atk": 90,
+    "def": 65,
+    "sAt": 61,
+    "sDf": 61,
+    "spd": 100,
+    "bst": 442
+  },
+  {
+    "natNum": 23,
+    "name": "ekans",
+    "types": [
+      "poison"
+    ],
+    "hp": 35,
+    "atk": 60,
+    "def": 44,
+    "sAt": 40,
+    "sDf": 54,
+    "spd": 55,
+    "bst": 288
+  },
+  {
+    "natNum": 24,
+    "name": "arbok",
+    "types": [
+      "poison"
+    ],
+    "hp": 60,
+    "atk": 85,
+    "def": 69,
+    "sAt": 65,
+    "sDf": 79,
+    "spd": 80,
+    "bst": 438
+  },
+  {
+    "natNum": 25,
+    "name": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 90,
+    "bst": 320
+  },
+  {
+    "natNum": 25,
+    "name": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 90,
+    "bst": 320
+  },
+  {
+    "natNum": 25,
+    "name": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 90,
+    "bst": 320
+  },
+  {
+    "natNum": 25,
+    "name": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 90,
+    "bst": 320
+  },
+  {
+    "natNum": 25,
+    "name": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 90,
+    "bst": 320
+  },
+  {
+    "natNum": 25,
+    "name": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 90,
+    "bst": 320
+  },
+  {
+    "natNum": 25,
+    "name": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 90,
+    "bst": 320
+  },
+  {
+    "natNum": 26,
+    "name": "raichu",
+    "types": [
+      "electric"
+    ],
+    "hp": 60,
+    "atk": 90,
+    "def": 55,
+    "sAt": 90,
+    "sDf": 80,
+    "spd": 110,
+    "bst": 485
+  },
+  {
+    "natNum": 27,
+    "name": "sandshrew",
+    "types": [
+      "ground"
+    ],
+    "hp": 50,
+    "atk": 75,
+    "def": 85,
+    "sAt": 20,
+    "sDf": 30,
+    "spd": 40,
+    "bst": 300
+  },
+  {
+    "natNum": 28,
+    "name": "sandslash",
+    "types": [
+      "ground"
+    ],
+    "hp": 75,
+    "atk": 100,
+    "def": 110,
+    "sAt": 45,
+    "sDf": 55,
+    "spd": 65,
+    "bst": 450
+  },
+  {
+    "natNum": 29,
+    "name": "nidoran♀",
+    "types": [
+      "poison"
+    ],
+    "hp": 55,
+    "atk": 47,
+    "def": 52,
+    "sAt": 40,
+    "sDf": 40,
+    "spd": 41,
+    "bst": 275
+  },
+  {
+    "natNum": 30,
+    "name": "nidorina",
+    "types": [
+      "poison"
+    ],
+    "hp": 70,
+    "atk": 62,
+    "def": 67,
+    "sAt": 55,
+    "sDf": 55,
+    "spd": 56,
+    "bst": 365
+  },
+  {
+    "natNum": 31,
+    "name": "nidoqueen",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "hp": 90,
+    "atk": 92,
+    "def": 87,
+    "sAt": 75,
+    "sDf": 85,
+    "spd": 76,
+    "bst": 505
+  },
+  {
+    "natNum": 32,
+    "name": "nidoran♂",
+    "types": [
+      "poison"
+    ],
+    "hp": 46,
+    "atk": 57,
+    "def": 40,
+    "sAt": 40,
+    "sDf": 40,
+    "spd": 50,
+    "bst": 273
+  },
+  {
+    "natNum": 33,
+    "name": "nidorino",
+    "types": [
+      "poison"
+    ],
+    "hp": 61,
+    "atk": 72,
+    "def": 57,
+    "sAt": 55,
+    "sDf": 55,
+    "spd": 65,
+    "bst": 365
+  },
+  {
+    "natNum": 34,
+    "name": "nidoking",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "hp": 81,
+    "atk": 102,
+    "def": 77,
+    "sAt": 85,
+    "sDf": 75,
+    "spd": 85,
+    "bst": 505
+  },
+  {
+    "natNum": 35,
+    "name": "clefairy",
+    "types": [
+      "fairy"
+    ],
+    "hp": 70,
+    "atk": 45,
+    "def": 48,
+    "sAt": 60,
+    "sDf": 65,
+    "spd": 35,
+    "bst": 323
+  },
+  {
+    "natNum": 36,
+    "name": "clefable",
+    "types": [
+      "fairy"
+    ],
+    "hp": 95,
+    "atk": 70,
+    "def": 73,
+    "sAt": 95,
+    "sDf": 90,
+    "spd": 60,
+    "bst": 483
+  },
+  {
+    "natNum": 37,
+    "name": "vulpix",
+    "types": [
+      "fire"
+    ],
+    "hp": 38,
+    "atk": 41,
+    "def": 40,
+    "sAt": 50,
+    "sDf": 65,
+    "spd": 65,
+    "bst": 299
+  },
+  {
+    "natNum": 38,
+    "name": "ninetales",
+    "types": [
+      "fire"
+    ],
+    "hp": 73,
+    "atk": 76,
+    "def": 75,
+    "sAt": 81,
+    "sDf": 100,
+    "spd": 100,
+    "bst": 505
+  },
+  {
+    "natNum": 39,
+    "name": "jigglypuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "hp": 115,
+    "atk": 45,
+    "def": 20,
+    "sAt": 45,
+    "sDf": 25,
+    "spd": 20,
+    "bst": 270
+  },
+  {
+    "natNum": 40,
+    "name": "wigglytuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "hp": 140,
+    "atk": 70,
+    "def": 45,
+    "sAt": 85,
+    "sDf": 50,
+    "spd": 45,
+    "bst": 435
+  },
+  {
+    "natNum": 41,
+    "name": "zubat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "hp": 40,
+    "atk": 45,
+    "def": 35,
+    "sAt": 30,
+    "sDf": 40,
+    "spd": 55,
+    "bst": 245
+  },
+  {
+    "natNum": 42,
+    "name": "golbat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 70,
+    "sAt": 65,
+    "sDf": 75,
+    "spd": 90,
+    "bst": 455
+  },
+  {
+    "natNum": 43,
+    "name": "oddish",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 45,
+    "atk": 50,
+    "def": 55,
+    "sAt": 75,
+    "sDf": 65,
+    "spd": 30,
+    "bst": 320
+  },
+  {
+    "natNum": 44,
+    "name": "gloom",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 60,
+    "atk": 65,
+    "def": 70,
+    "sAt": 85,
+    "sDf": 75,
+    "spd": 40,
+    "bst": 395
+  },
+  {
+    "natNum": 45,
+    "name": "vileplume",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 85,
+    "sAt": 110,
+    "sDf": 90,
+    "spd": 50,
+    "bst": 490
+  },
+  {
+    "natNum": 46,
+    "name": "paras",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "hp": 35,
+    "atk": 70,
+    "def": 55,
+    "sAt": 45,
+    "sDf": 55,
+    "spd": 25,
+    "bst": 285
+  },
+  {
+    "natNum": 47,
+    "name": "parasect",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "hp": 60,
+    "atk": 95,
+    "def": 80,
+    "sAt": 60,
+    "sDf": 80,
+    "spd": 30,
+    "bst": 405
+  },
+  {
+    "natNum": 48,
+    "name": "venonat",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hp": 60,
+    "atk": 55,
+    "def": 50,
+    "sAt": 40,
+    "sDf": 55,
+    "spd": 45,
+    "bst": 305
+  },
+  {
+    "natNum": 49,
+    "name": "venomoth",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hp": 70,
+    "atk": 65,
+    "def": 60,
+    "sAt": 90,
+    "sDf": 75,
+    "spd": 90,
+    "bst": 450
+  },
+  {
+    "natNum": 50,
+    "name": "diglett",
+    "types": [
+      "ground"
+    ],
+    "hp": 10,
+    "atk": 55,
+    "def": 25,
+    "sAt": 35,
+    "sDf": 45,
+    "spd": 95,
+    "bst": 265
+  },
+  {
+    "natNum": 51,
+    "name": "dugtrio",
+    "types": [
+      "ground"
+    ],
+    "hp": 35,
+    "atk": 80,
+    "def": 50,
+    "sAt": 50,
+    "sDf": 70,
+    "spd": 120,
+    "bst": 405
+  },
+  {
+    "natNum": 52,
+    "name": "meowth",
+    "types": [
+      "normal"
+    ],
+    "hp": 40,
+    "atk": 45,
+    "def": 35,
+    "sAt": 40,
+    "sDf": 40,
+    "spd": 90,
+    "bst": 290
+  },
+  {
+    "natNum": 53,
+    "name": "persian",
+    "types": [
+      "normal"
+    ],
+    "hp": 65,
+    "atk": 70,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 65,
+    "spd": 115,
+    "bst": 440
+  },
+  {
+    "natNum": 54,
+    "name": "psyduck",
+    "types": [
+      "water"
+    ],
+    "hp": 50,
+    "atk": 52,
+    "def": 48,
+    "sAt": 65,
+    "sDf": 50,
+    "spd": 55,
+    "bst": 320
+  },
+  {
+    "natNum": 55,
+    "name": "golduck",
+    "types": [
+      "water"
+    ],
+    "hp": 80,
+    "atk": 82,
+    "def": 78,
+    "sAt": 95,
+    "sDf": 80,
+    "spd": 85,
+    "bst": 500
+  },
+  {
+    "natNum": 56,
+    "name": "mankey",
+    "types": [
+      "fighting"
+    ],
+    "hp": 40,
+    "atk": 80,
+    "def": 35,
+    "sAt": 35,
+    "sDf": 45,
+    "spd": 70,
+    "bst": 305
+  },
+  {
+    "natNum": 57,
+    "name": "primeape",
+    "types": [
+      "fighting"
+    ],
+    "hp": 65,
+    "atk": 105,
+    "def": 60,
+    "sAt": 60,
+    "sDf": 70,
+    "spd": 95,
+    "bst": 455
+  },
+  {
+    "natNum": 58,
+    "name": "growlithe",
+    "types": [
+      "fire"
+    ],
+    "hp": 55,
+    "atk": 70,
+    "def": 45,
+    "sAt": 70,
+    "sDf": 50,
+    "spd": 60,
+    "bst": 350
+  },
+  {
+    "natNum": 59,
+    "name": "arcanine",
+    "types": [
+      "fire"
+    ],
+    "hp": 90,
+    "atk": 110,
+    "def": 80,
+    "sAt": 100,
+    "sDf": 80,
+    "spd": 95,
+    "bst": 555
+  },
+  {
+    "natNum": 60,
+    "name": "poliwag",
+    "types": [
+      "water"
+    ],
+    "hp": 40,
+    "atk": 50,
+    "def": 40,
+    "sAt": 40,
+    "sDf": 40,
+    "spd": 90,
+    "bst": 300
+  },
+  {
+    "natNum": 61,
+    "name": "poliwhirl",
+    "types": [
+      "water"
+    ],
+    "hp": 65,
+    "atk": 65,
+    "def": 65,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 90,
+    "bst": 385
+  },
+  {
+    "natNum": 62,
+    "name": "poliwrath",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "hp": 90,
+    "atk": 95,
+    "def": 95,
+    "sAt": 70,
+    "sDf": 90,
+    "spd": 70,
+    "bst": 510
+  },
+  {
+    "natNum": 63,
+    "name": "abra",
+    "types": [
+      "psychic"
+    ],
+    "hp": 25,
+    "atk": 20,
+    "def": 15,
+    "sAt": 105,
+    "sDf": 55,
+    "spd": 90,
+    "bst": 310
+  },
+  {
+    "natNum": 64,
+    "name": "kadabra",
+    "types": [
+      "psychic"
+    ],
+    "hp": 40,
+    "atk": 35,
+    "def": 30,
+    "sAt": 120,
+    "sDf": 70,
+    "spd": 105,
+    "bst": 400
+  },
+  {
+    "natNum": 65,
+    "name": "alakazam",
+    "types": [
+      "psychic"
+    ],
+    "hp": 55,
+    "atk": 50,
+    "def": 45,
+    "sAt": 135,
+    "sDf": 95,
+    "spd": 120,
+    "bst": 500
+  },
+  {
+    "natNum": 65,
+    "name": "mega alakazam",
+    "types": [
+      "psychic"
+    ],
+    "hp": 55,
+    "atk": 50,
+    "def": 65,
+    "sAt": 175,
+    "sDf": 95,
+    "spd": 150,
+    "bst": 590
+  },
+  {
+    "natNum": 66,
+    "name": "machop",
+    "types": [
+      "fighting"
+    ],
+    "hp": 70,
+    "atk": 80,
+    "def": 50,
+    "sAt": 35,
+    "sDf": 35,
+    "spd": 35,
+    "bst": 305
+  },
+  {
+    "natNum": 67,
+    "name": "machoke",
+    "types": [
+      "fighting"
+    ],
+    "hp": 80,
+    "atk": 100,
+    "def": 70,
+    "sAt": 50,
+    "sDf": 60,
+    "spd": 45,
+    "bst": 405
+  },
+  {
+    "natNum": 68,
+    "name": "machamp",
+    "types": [
+      "fighting"
+    ],
+    "hp": 90,
+    "atk": 130,
+    "def": 80,
+    "sAt": 65,
+    "sDf": 85,
+    "spd": 55,
+    "bst": 505
+  },
+  {
+    "natNum": 69,
+    "name": "bellsprout",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 50,
+    "atk": 75,
+    "def": 35,
+    "sAt": 70,
+    "sDf": 30,
+    "spd": 40,
+    "bst": 300
+  },
+  {
+    "natNum": 70,
+    "name": "weepinbell",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 65,
+    "atk": 90,
+    "def": 50,
+    "sAt": 85,
+    "sDf": 45,
+    "spd": 55,
+    "bst": 390
+  },
+  {
+    "natNum": 71,
+    "name": "victreebel",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 80,
+    "atk": 105,
+    "def": 65,
+    "sAt": 100,
+    "sDf": 70,
+    "spd": 70,
+    "bst": 490
+  },
+  {
+    "natNum": 72,
+    "name": "tentacool",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "hp": 40,
+    "atk": 40,
+    "def": 35,
+    "sAt": 50,
+    "sDf": 100,
+    "spd": 70,
+    "bst": 335
+  },
+  {
+    "natNum": 73,
+    "name": "tentacruel",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "hp": 80,
+    "atk": 70,
+    "def": 65,
+    "sAt": 80,
+    "sDf": 120,
+    "spd": 100,
+    "bst": 515
+  },
+  {
+    "natNum": 74,
+    "name": "geodude",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "hp": 40,
+    "atk": 80,
+    "def": 100,
+    "sAt": 30,
+    "sDf": 30,
+    "spd": 20,
+    "bst": 300
+  },
+  {
+    "natNum": 75,
+    "name": "graveler",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "hp": 55,
+    "atk": 95,
+    "def": 115,
+    "sAt": 45,
+    "sDf": 45,
+    "spd": 35,
+    "bst": 390
+  },
+  {
+    "natNum": 76,
+    "name": "golem",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "hp": 80,
+    "atk": 120,
+    "def": 130,
+    "sAt": 55,
+    "sDf": 65,
+    "spd": 45,
+    "bst": 495
+  },
+  {
+    "natNum": 77,
+    "name": "ponyta",
+    "types": [
+      "fire"
+    ],
+    "hp": 50,
+    "atk": 85,
+    "def": 55,
+    "sAt": 65,
+    "sDf": 65,
+    "spd": 90,
+    "bst": 410
+  },
+  {
+    "natNum": 78,
+    "name": "rapidash",
+    "types": [
+      "fire"
+    ],
+    "hp": 65,
+    "atk": 100,
+    "def": 70,
+    "sAt": 80,
+    "sDf": 80,
+    "spd": 105,
+    "bst": 500
+  },
+  {
+    "natNum": 79,
+    "name": "slowpoke",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "hp": 90,
+    "atk": 65,
+    "def": 65,
+    "sAt": 40,
+    "sDf": 40,
+    "spd": 15,
+    "bst": 315
+  },
+  {
+    "natNum": 80,
+    "name": "slowbro",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "hp": 95,
+    "atk": 75,
+    "def": 110,
+    "sAt": 100,
+    "sDf": 80,
+    "spd": 30,
+    "bst": 490
+  },
+  {
+    "natNum": 80,
+    "name": "mega slowbro",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "hp": 95,
+    "atk": 75,
+    "def": 180,
+    "sAt": 130,
+    "sDf": 80,
+    "spd": 30,
+    "bst": 590
+  },
+  {
+    "natNum": 81,
+    "name": "magnemite",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "hp": 25,
+    "atk": 35,
+    "def": 70,
+    "sAt": 95,
+    "sDf": 55,
+    "spd": 45,
+    "bst": 325
+  },
+  {
+    "natNum": 82,
+    "name": "magneton",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "hp": 50,
+    "atk": 60,
+    "def": 95,
+    "sAt": 120,
+    "sDf": 70,
+    "spd": 70,
+    "bst": 465
+  },
+  {
+    "natNum": 83,
+    "name": "farfetch’d",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 52,
+    "atk": 65,
+    "def": 55,
+    "sAt": 58,
+    "sDf": 62,
+    "spd": 60,
+    "bst": 352
+  },
+  {
+    "natNum": 84,
+    "name": "doduo",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 35,
+    "atk": 85,
+    "def": 45,
+    "sAt": 35,
+    "sDf": 35,
+    "spd": 75,
+    "bst": 310
+  },
+  {
+    "natNum": 85,
+    "name": "dodrio",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 60,
+    "atk": 110,
+    "def": 70,
+    "sAt": 60,
+    "sDf": 60,
+    "spd": 100,
+    "bst": 460
+  },
+  {
+    "natNum": 86,
+    "name": "seel",
+    "types": [
+      "water"
+    ],
+    "hp": 65,
+    "atk": 45,
+    "def": 55,
+    "sAt": 45,
+    "sDf": 70,
+    "spd": 45,
+    "bst": 325
+  },
+  {
+    "natNum": 87,
+    "name": "dewgong",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "hp": 90,
+    "atk": 70,
+    "def": 80,
+    "sAt": 70,
+    "sDf": 95,
+    "spd": 70,
+    "bst": 475
+  },
+  {
+    "natNum": 88,
+    "name": "grimer",
+    "types": [
+      "poison"
+    ],
+    "hp": 80,
+    "atk": 80,
+    "def": 50,
+    "sAt": 40,
+    "sDf": 50,
+    "spd": 25,
+    "bst": 325
+  },
+  {
+    "natNum": 89,
+    "name": "muk",
+    "types": [
+      "poison"
+    ],
+    "hp": 105,
+    "atk": 105,
+    "def": 75,
+    "sAt": 65,
+    "sDf": 100,
+    "spd": 50,
+    "bst": 500
+  },
+  {
+    "natNum": 90,
+    "name": "shellder",
+    "types": [
+      "water"
+    ],
+    "hp": 30,
+    "atk": 65,
+    "def": 100,
+    "sAt": 45,
+    "sDf": 25,
+    "spd": 40,
+    "bst": 305
+  },
+  {
+    "natNum": 91,
+    "name": "cloyster",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "hp": 50,
+    "atk": 95,
+    "def": 180,
+    "sAt": 85,
+    "sDf": 45,
+    "spd": 70,
+    "bst": 525
+  },
+  {
+    "natNum": 92,
+    "name": "gastly",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "hp": 30,
+    "atk": 35,
+    "def": 30,
+    "sAt": 100,
+    "sDf": 35,
+    "spd": 80,
+    "bst": 310
+  },
+  {
+    "natNum": 93,
+    "name": "haunter",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "hp": 45,
+    "atk": 50,
+    "def": 45,
+    "sAt": 115,
+    "sDf": 55,
+    "spd": 95,
+    "bst": 405
+  },
+  {
+    "natNum": 94,
+    "name": "gengar",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "hp": 60,
+    "atk": 65,
+    "def": 60,
+    "sAt": 130,
+    "sDf": 75,
+    "spd": 110,
+    "bst": 500
+  },
+  {
+    "natNum": 94,
+    "name": "mega gengar",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "hp": 60,
+    "atk": 65,
+    "def": 80,
+    "sAt": 170,
+    "sDf": 95,
+    "spd": 130,
+    "bst": 600
+  },
+  {
+    "natNum": 95,
+    "name": "onix",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "hp": 35,
+    "atk": 45,
+    "def": 160,
+    "sAt": 30,
+    "sDf": 45,
+    "spd": 70,
+    "bst": 385
+  },
+  {
+    "natNum": 96,
+    "name": "drowzee",
+    "types": [
+      "psychic"
+    ],
+    "hp": 60,
+    "atk": 48,
+    "def": 45,
+    "sAt": 43,
+    "sDf": 90,
+    "spd": 42,
+    "bst": 328
+  },
+  {
+    "natNum": 97,
+    "name": "hypno",
+    "types": [
+      "psychic"
+    ],
+    "hp": 85,
+    "atk": 73,
+    "def": 70,
+    "sAt": 73,
+    "sDf": 115,
+    "spd": 67,
+    "bst": 483
+  },
+  {
+    "natNum": 98,
+    "name": "krabby",
+    "types": [
+      "water"
+    ],
+    "hp": 30,
+    "atk": 105,
+    "def": 90,
+    "sAt": 25,
+    "sDf": 25,
+    "spd": 50,
+    "bst": 325
+  },
+  {
+    "natNum": 99,
+    "name": "kingler",
+    "types": [
+      "water"
+    ],
+    "hp": 55,
+    "atk": 130,
+    "def": 115,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 75,
+    "bst": 475
+  },
+  {
+    "natNum": 100,
+    "name": "voltorb",
+    "types": [
+      "electric"
+    ],
+    "hp": 40,
+    "atk": 30,
+    "def": 50,
+    "sAt": 55,
+    "sDf": 55,
+    "spd": 100,
+    "bst": 330
+  },
+  {
+    "natNum": 101,
+    "name": "electrode",
+    "types": [
+      "electric"
+    ],
+    "hp": 60,
+    "atk": 50,
+    "def": 70,
+    "sAt": 80,
+    "sDf": 80,
+    "spd": 140,
+    "bst": 480
+  },
+  {
+    "natNum": 102,
+    "name": "exeggcute",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "hp": 60,
+    "atk": 40,
+    "def": 80,
+    "sAt": 60,
+    "sDf": 45,
+    "spd": 40,
+    "bst": 325
+  },
+  {
+    "natNum": 103,
+    "name": "exeggutor",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "hp": 95,
+    "atk": 95,
+    "def": 85,
+    "sAt": 125,
+    "sDf": 65,
+    "spd": 55,
+    "bst": 520
+  },
+  {
+    "natNum": 104,
+    "name": "cubone",
+    "types": [
+      "ground"
+    ],
+    "hp": 50,
+    "atk": 50,
+    "def": 95,
+    "sAt": 40,
+    "sDf": 50,
+    "spd": 35,
+    "bst": 320
+  },
+  {
+    "natNum": 105,
+    "name": "marowak",
+    "types": [
+      "ground"
+    ],
+    "hp": 60,
+    "atk": 80,
+    "def": 110,
+    "sAt": 50,
+    "sDf": 80,
+    "spd": 45,
+    "bst": 425
+  },
+  {
+    "natNum": 106,
+    "name": "hitmonlee",
+    "types": [
+      "fighting"
+    ],
+    "hp": 50,
+    "atk": 120,
+    "def": 53,
+    "sAt": 35,
+    "sDf": 110,
+    "spd": 87,
+    "bst": 455
+  },
+  {
+    "natNum": 107,
+    "name": "hitmonchan",
+    "types": [
+      "fighting"
+    ],
+    "hp": 50,
+    "atk": 105,
+    "def": 79,
+    "sAt": 35,
+    "sDf": 110,
+    "spd": 76,
+    "bst": 455
+  },
+  {
+    "natNum": 108,
+    "name": "lickitung",
+    "types": [
+      "normal"
+    ],
+    "hp": 90,
+    "atk": 55,
+    "def": 75,
+    "sAt": 60,
+    "sDf": 75,
+    "spd": 30,
+    "bst": 385
+  },
+  {
+    "natNum": 109,
+    "name": "koffing",
+    "types": [
+      "poison"
+    ],
+    "hp": 40,
+    "atk": 65,
+    "def": 95,
+    "sAt": 60,
+    "sDf": 45,
+    "spd": 35,
+    "bst": 340
+  },
+  {
+    "natNum": 110,
+    "name": "weezing",
+    "types": [
+      "poison"
+    ],
+    "hp": 65,
+    "atk": 90,
+    "def": 120,
+    "sAt": 85,
+    "sDf": 70,
+    "spd": 60,
+    "bst": 490
+  },
+  {
+    "natNum": 111,
+    "name": "rhyhorn",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "hp": 80,
+    "atk": 85,
+    "def": 95,
+    "sAt": 30,
+    "sDf": 30,
+    "spd": 25,
+    "bst": 345
+  },
+  {
+    "natNum": 112,
+    "name": "rhydon",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "hp": 105,
+    "atk": 130,
+    "def": 120,
+    "sAt": 45,
+    "sDf": 45,
+    "spd": 40,
+    "bst": 485
+  },
+  {
+    "natNum": 113,
+    "name": "chansey",
+    "types": [
+      "normal"
+    ],
+    "hp": 250,
+    "atk": 5,
+    "def": 5,
+    "sAt": 35,
+    "sDf": 105,
+    "spd": 50,
+    "bst": 450
+  },
+  {
+    "natNum": 114,
+    "name": "tangela",
+    "types": [
+      "grass"
+    ],
+    "hp": 65,
+    "atk": 55,
+    "def": 115,
+    "sAt": 100,
+    "sDf": 40,
+    "spd": 60,
+    "bst": 435
+  },
+  {
+    "natNum": 115,
+    "name": "kangaskhan",
+    "types": [
+      "normal"
+    ],
+    "hp": 105,
+    "atk": 95,
+    "def": 80,
+    "sAt": 40,
+    "sDf": 80,
+    "spd": 90,
+    "bst": 490
+  },
+  {
+    "natNum": 115,
+    "name": "mega kangaskhan",
+    "types": [
+      "normal"
+    ],
+    "hp": 105,
+    "atk": 125,
+    "def": 100,
+    "sAt": 60,
+    "sDf": 100,
+    "spd": 100,
+    "bst": 590
+  },
+  {
+    "natNum": 116,
+    "name": "horsea",
+    "types": [
+      "water"
+    ],
+    "hp": 30,
+    "atk": 40,
+    "def": 70,
+    "sAt": 70,
+    "sDf": 25,
+    "spd": 60,
+    "bst": 295
+  },
+  {
+    "natNum": 117,
+    "name": "seadra",
+    "types": [
+      "water"
+    ],
+    "hp": 55,
+    "atk": 65,
+    "def": 95,
+    "sAt": 95,
+    "sDf": 45,
+    "spd": 85,
+    "bst": 440
+  },
+  {
+    "natNum": 118,
+    "name": "goldeen",
+    "types": [
+      "water"
+    ],
+    "hp": 45,
+    "atk": 67,
+    "def": 60,
+    "sAt": 35,
+    "sDf": 50,
+    "spd": 63,
+    "bst": 320
+  },
+  {
+    "natNum": 119,
+    "name": "seaking",
+    "types": [
+      "water"
+    ],
+    "hp": 80,
+    "atk": 92,
+    "def": 65,
+    "sAt": 65,
+    "sDf": 80,
+    "spd": 68,
+    "bst": 450
+  },
+  {
+    "natNum": 120,
+    "name": "staryu",
+    "types": [
+      "water"
+    ],
+    "hp": 30,
+    "atk": 45,
+    "def": 55,
+    "sAt": 70,
+    "sDf": 55,
+    "spd": 85,
+    "bst": 340
+  },
+  {
+    "natNum": 121,
+    "name": "starmie",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "hp": 60,
+    "atk": 75,
+    "def": 85,
+    "sAt": 100,
+    "sDf": 85,
+    "spd": 115,
+    "bst": 520
+  },
+  {
+    "natNum": 122,
+    "name": "mr. mime",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "hp": 40,
+    "atk": 45,
+    "def": 65,
+    "sAt": 100,
+    "sDf": 120,
+    "spd": 90,
+    "bst": 460
+  },
+  {
+    "natNum": 123,
+    "name": "scyther",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 70,
+    "atk": 110,
+    "def": 80,
+    "sAt": 55,
+    "sDf": 80,
+    "spd": 105,
+    "bst": 500
+  },
+  {
+    "natNum": 124,
+    "name": "jynx",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "hp": 65,
+    "atk": 50,
+    "def": 35,
+    "sAt": 115,
+    "sDf": 95,
+    "spd": 95,
+    "bst": 455
+  },
+  {
+    "natNum": 125,
+    "name": "electabuzz",
+    "types": [
+      "electric"
+    ],
+    "hp": 65,
+    "atk": 83,
+    "def": 57,
+    "sAt": 95,
+    "sDf": 85,
+    "spd": 105,
+    "bst": 490
+  },
+  {
+    "natNum": 126,
+    "name": "magmar",
+    "types": [
+      "fire"
+    ],
+    "hp": 65,
+    "atk": 95,
+    "def": 57,
+    "sAt": 100,
+    "sDf": 85,
+    "spd": 93,
+    "bst": 495
+  },
+  {
+    "natNum": 127,
+    "name": "pinsir",
+    "types": [
+      "bug"
+    ],
+    "hp": 65,
+    "atk": 125,
+    "def": 100,
+    "sAt": 55,
+    "sDf": 70,
+    "spd": 85,
+    "bst": 500
+  },
+  {
+    "natNum": 127,
+    "name": "mega pinsir",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 65,
+    "atk": 155,
+    "def": 120,
+    "sAt": 65,
+    "sDf": 90,
+    "spd": 105,
+    "bst": 600
+  },
+  {
+    "natNum": 128,
+    "name": "tauros",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 100,
+    "def": 95,
+    "sAt": 40,
+    "sDf": 70,
+    "spd": 110,
+    "bst": 490
+  },
+  {
+    "natNum": 129,
+    "name": "magikarp",
+    "types": [
+      "water"
+    ],
+    "hp": 20,
+    "atk": 10,
+    "def": 55,
+    "sAt": 15,
+    "sDf": 20,
+    "spd": 80,
+    "bst": 200
+  },
+  {
+    "natNum": 130,
+    "name": "gyarados",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "hp": 95,
+    "atk": 125,
+    "def": 79,
+    "sAt": 60,
+    "sDf": 100,
+    "spd": 81,
+    "bst": 540
+  },
+  {
+    "natNum": 130,
+    "name": "mega gyarados",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "hp": 95,
+    "atk": 155,
+    "def": 109,
+    "sAt": 70,
+    "sDf": 130,
+    "spd": 81,
+    "bst": 640
+  },
+  {
+    "natNum": 131,
+    "name": "lapras",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "hp": 130,
+    "atk": 85,
+    "def": 80,
+    "sAt": 85,
+    "sDf": 95,
+    "spd": 60,
+    "bst": 535
+  },
+  {
+    "natNum": 132,
+    "name": "ditto",
+    "types": [
+      "normal"
+    ],
+    "hp": 48,
+    "atk": 48,
+    "def": 48,
+    "sAt": 48,
+    "sDf": 48,
+    "spd": 48,
+    "bst": 288
+  },
+  {
+    "natNum": 133,
+    "name": "eevee",
+    "types": [
+      "normal"
+    ],
+    "hp": 55,
+    "atk": 55,
+    "def": 50,
+    "sAt": 45,
+    "sDf": 65,
+    "spd": 55,
+    "bst": 325
+  },
+  {
+    "natNum": 134,
+    "name": "vaporeon",
+    "types": [
+      "water"
+    ],
+    "hp": 130,
+    "atk": 65,
+    "def": 60,
+    "sAt": 110,
+    "sDf": 95,
+    "spd": 65,
+    "bst": 525
+  },
+  {
+    "natNum": 135,
+    "name": "jolteon",
+    "types": [
+      "electric"
+    ],
+    "hp": 65,
+    "atk": 65,
+    "def": 60,
+    "sAt": 110,
+    "sDf": 95,
+    "spd": 130,
+    "bst": 525
+  },
+  {
+    "natNum": 136,
+    "name": "flareon",
+    "types": [
+      "fire"
+    ],
+    "hp": 65,
+    "atk": 130,
+    "def": 60,
+    "sAt": 95,
+    "sDf": 110,
+    "spd": 65,
+    "bst": 525
+  },
+  {
+    "natNum": 137,
+    "name": "porygon",
+    "types": [
+      "normal"
+    ],
+    "hp": 65,
+    "atk": 60,
+    "def": 70,
+    "sAt": 85,
+    "sDf": 75,
+    "spd": 40,
+    "bst": 395
+  },
+  {
+    "natNum": 138,
+    "name": "omanyte",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "hp": 35,
+    "atk": 40,
+    "def": 100,
+    "sAt": 90,
+    "sDf": 55,
+    "spd": 35,
+    "bst": 355
+  },
+  {
+    "natNum": 139,
+    "name": "omastar",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "hp": 70,
+    "atk": 60,
+    "def": 125,
+    "sAt": 115,
+    "sDf": 70,
+    "spd": 55,
+    "bst": 495
+  },
+  {
+    "natNum": 140,
+    "name": "kabuto",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "hp": 30,
+    "atk": 80,
+    "def": 90,
+    "sAt": 55,
+    "sDf": 45,
+    "spd": 55,
+    "bst": 355
+  },
+  {
+    "natNum": 141,
+    "name": "kabutops",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "hp": 60,
+    "atk": 115,
+    "def": 105,
+    "sAt": 65,
+    "sDf": 70,
+    "spd": 80,
+    "bst": 495
+  },
+  {
+    "natNum": 142,
+    "name": "aerodactyl",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "hp": 80,
+    "atk": 105,
+    "def": 65,
+    "sAt": 60,
+    "sDf": 75,
+    "spd": 130,
+    "bst": 515
+  },
+  {
+    "natNum": 142,
+    "name": "mega aerodactyl",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "hp": 80,
+    "atk": 135,
+    "def": 85,
+    "sAt": 70,
+    "sDf": 95,
+    "spd": 150,
+    "bst": 615
+  },
+  {
+    "natNum": 143,
+    "name": "snorlax",
+    "types": [
+      "normal"
+    ],
+    "hp": 160,
+    "atk": 110,
+    "def": 65,
+    "sAt": 65,
+    "sDf": 110,
+    "spd": 30,
+    "bst": 540
+  },
+  {
+    "natNum": 144,
+    "name": "articuno",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "hp": 90,
+    "atk": 85,
+    "def": 100,
+    "sAt": 95,
+    "sDf": 125,
+    "spd": 85,
+    "bst": 580
+  },
+  {
+    "natNum": 145,
+    "name": "zapdos",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "hp": 90,
+    "atk": 90,
+    "def": 85,
+    "sAt": 125,
+    "sDf": 90,
+    "spd": 100,
+    "bst": 580
+  },
+  {
+    "natNum": 146,
+    "name": "moltres",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "hp": 90,
+    "atk": 100,
+    "def": 90,
+    "sAt": 125,
+    "sDf": 85,
+    "spd": 90,
+    "bst": 580
+  },
+  {
+    "natNum": 147,
+    "name": "dratini",
+    "types": [
+      "dragon"
+    ],
+    "hp": 41,
+    "atk": 64,
+    "def": 45,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 50,
+    "bst": 300
+  },
+  {
+    "natNum": 148,
+    "name": "dragonair",
+    "types": [
+      "dragon"
+    ],
+    "hp": 61,
+    "atk": 84,
+    "def": 65,
+    "sAt": 70,
+    "sDf": 70,
+    "spd": 70,
+    "bst": 420
+  },
+  {
+    "natNum": 149,
+    "name": "dragonite",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "hp": 91,
+    "atk": 134,
+    "def": 95,
+    "sAt": 100,
+    "sDf": 100,
+    "spd": 80,
+    "bst": 600
+  },
+  {
+    "natNum": 150,
+    "name": "mewtwo",
+    "types": [
+      "psychic"
+    ],
+    "hp": 106,
+    "atk": 110,
+    "def": 90,
+    "sAt": 154,
+    "sDf": 90,
+    "spd": 130,
+    "bst": 680
+  },
+  {
+    "natNum": 150,
+    "name": "mega mewtwo x",
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "hp": 106,
+    "atk": 190,
+    "def": 100,
+    "sAt": 154,
+    "sDf": 100,
+    "spd": 130,
+    "bst": 780
+  },
+  {
+    "natNum": 150,
+    "name": "mega mewtwo y",
+    "types": [
+      "psychic"
+    ],
+    "hp": 106,
+    "atk": 150,
+    "def": 70,
+    "sAt": 194,
+    "sDf": 120,
+    "spd": 140,
+    "bst": 780
+  },
+  {
+    "natNum": 151,
+    "name": "mew",
+    "types": [
+      "psychic"
+    ],
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "sAt": 100,
+    "sDf": 100,
+    "spd": 100,
+    "bst": 600
+  },
+  {
+    "natNum": 152,
+    "name": "chikorita",
+    "types": [
+      "grass"
+    ],
+    "hp": 45,
+    "atk": 49,
+    "def": 65,
+    "sAt": 49,
+    "sDf": 65,
+    "spd": 45,
+    "bst": 318
+  },
+  {
+    "natNum": 153,
+    "name": "bayleef",
+    "types": [
+      "grass"
+    ],
+    "hp": 60,
+    "atk": 62,
+    "def": 80,
+    "sAt": 63,
+    "sDf": 80,
+    "spd": 60,
+    "bst": 405
+  },
+  {
+    "natNum": 154,
+    "name": "meganium",
+    "types": [
+      "grass"
+    ],
+    "hp": 80,
+    "atk": 82,
+    "def": 100,
+    "sAt": 83,
+    "sDf": 100,
+    "spd": 80,
+    "bst": 525
+  },
+  {
+    "natNum": 155,
+    "name": "cyndaquil",
+    "types": [
+      "fire"
+    ],
+    "hp": 39,
+    "atk": 52,
+    "def": 43,
+    "sAt": 60,
+    "sDf": 50,
+    "spd": 65,
+    "bst": 309
+  },
+  {
+    "natNum": 156,
+    "name": "quilava",
+    "types": [
+      "fire"
+    ],
+    "hp": 58,
+    "atk": 64,
+    "def": 58,
+    "sAt": 80,
+    "sDf": 65,
+    "spd": 80,
+    "bst": 405
+  },
+  {
+    "natNum": 157,
+    "name": "typhlosion",
+    "types": [
+      "fire"
+    ],
+    "hp": 78,
+    "atk": 84,
+    "def": 78,
+    "sAt": 109,
+    "sDf": 85,
+    "spd": 100,
+    "bst": 534
+  },
+  {
+    "natNum": 158,
+    "name": "totodile",
+    "types": [
+      "water"
+    ],
+    "hp": 50,
+    "atk": 65,
+    "def": 64,
+    "sAt": 44,
+    "sDf": 48,
+    "spd": 43,
+    "bst": 314
+  },
+  {
+    "natNum": 159,
+    "name": "croconaw",
+    "types": [
+      "water"
+    ],
+    "hp": 65,
+    "atk": 80,
+    "def": 80,
+    "sAt": 59,
+    "sDf": 63,
+    "spd": 58,
+    "bst": 405
+  },
+  {
+    "natNum": 160,
+    "name": "feraligatr",
+    "types": [
+      "water"
+    ],
+    "hp": 85,
+    "atk": 105,
+    "def": 100,
+    "sAt": 79,
+    "sDf": 83,
+    "spd": 78,
+    "bst": 530
+  },
+  {
+    "natNum": 161,
+    "name": "sentret",
+    "types": [
+      "normal"
+    ],
+    "hp": 35,
+    "atk": 46,
+    "def": 34,
+    "sAt": 35,
+    "sDf": 45,
+    "spd": 20,
+    "bst": 215
+  },
+  {
+    "natNum": 162,
+    "name": "furret",
+    "types": [
+      "normal"
+    ],
+    "hp": 85,
+    "atk": 76,
+    "def": 64,
+    "sAt": 45,
+    "sDf": 55,
+    "spd": 90,
+    "bst": 415
+  },
+  {
+    "natNum": 163,
+    "name": "hoothoot",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 60,
+    "atk": 30,
+    "def": 30,
+    "sAt": 36,
+    "sDf": 56,
+    "spd": 50,
+    "bst": 262
+  },
+  {
+    "natNum": 164,
+    "name": "noctowl",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 100,
+    "atk": 50,
+    "def": 50,
+    "sAt": 76,
+    "sDf": 96,
+    "spd": 70,
+    "bst": 442
+  },
+  {
+    "natNum": 165,
+    "name": "ledyba",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 40,
+    "atk": 20,
+    "def": 30,
+    "sAt": 40,
+    "sDf": 80,
+    "spd": 55,
+    "bst": 265
+  },
+  {
+    "natNum": 166,
+    "name": "ledian",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 55,
+    "atk": 35,
+    "def": 50,
+    "sAt": 55,
+    "sDf": 110,
+    "spd": 85,
+    "bst": 390
+  },
+  {
+    "natNum": 167,
+    "name": "spinarak",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hp": 40,
+    "atk": 60,
+    "def": 40,
+    "sAt": 40,
+    "sDf": 40,
+    "spd": 30,
+    "bst": 250
+  },
+  {
+    "natNum": 168,
+    "name": "ariados",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hp": 70,
+    "atk": 90,
+    "def": 70,
+    "sAt": 60,
+    "sDf": 60,
+    "spd": 40,
+    "bst": 390
+  },
+  {
+    "natNum": 169,
+    "name": "crobat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "hp": 85,
+    "atk": 90,
+    "def": 80,
+    "sAt": 70,
+    "sDf": 80,
+    "spd": 130,
+    "bst": 535
+  },
+  {
+    "natNum": 170,
+    "name": "chinchou",
+    "types": [
+      "water",
+      "electric"
+    ],
+    "hp": 75,
+    "atk": 38,
+    "def": 38,
+    "sAt": 56,
+    "sDf": 56,
+    "spd": 67,
+    "bst": 330
+  },
+  {
+    "natNum": 171,
+    "name": "lanturn",
+    "types": [
+      "water",
+      "electric"
+    ],
+    "hp": 125,
+    "atk": 58,
+    "def": 58,
+    "sAt": 76,
+    "sDf": 76,
+    "spd": 67,
+    "bst": 460
+  },
+  {
+    "natNum": 172,
+    "name": "pichu",
+    "types": [
+      "electric"
+    ],
+    "hp": 20,
+    "atk": 40,
+    "def": 15,
+    "sAt": 35,
+    "sDf": 35,
+    "spd": 60,
+    "bst": 205
+  },
+  {
+    "natNum": 173,
+    "name": "cleffa",
+    "types": [
+      "fairy"
+    ],
+    "hp": 50,
+    "atk": 25,
+    "def": 28,
+    "sAt": 45,
+    "sDf": 55,
+    "spd": 15,
+    "bst": 218
+  },
+  {
+    "natNum": 174,
+    "name": "igglybuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "hp": 90,
+    "atk": 30,
+    "def": 15,
+    "sAt": 40,
+    "sDf": 20,
+    "spd": 15,
+    "bst": 210
+  },
+  {
+    "natNum": 175,
+    "name": "togepi",
+    "types": [
+      "fairy"
+    ],
+    "hp": 35,
+    "atk": 20,
+    "def": 65,
+    "sAt": 40,
+    "sDf": 65,
+    "spd": 20,
+    "bst": 245
+  },
+  {
+    "natNum": 176,
+    "name": "togetic",
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "hp": 55,
+    "atk": 40,
+    "def": 85,
+    "sAt": 80,
+    "sDf": 105,
+    "spd": 40,
+    "bst": 405
+  },
+  {
+    "natNum": 177,
+    "name": "natu",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "hp": 40,
+    "atk": 50,
+    "def": 45,
+    "sAt": 70,
+    "sDf": 45,
+    "spd": 70,
+    "bst": 320
+  },
+  {
+    "natNum": 178,
+    "name": "xatu",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "hp": 65,
+    "atk": 75,
+    "def": 70,
+    "sAt": 95,
+    "sDf": 70,
+    "spd": 95,
+    "bst": 470
+  },
+  {
+    "natNum": 179,
+    "name": "mareep",
+    "types": [
+      "electric"
+    ],
+    "hp": 55,
+    "atk": 40,
+    "def": 40,
+    "sAt": 65,
+    "sDf": 45,
+    "spd": 35,
+    "bst": 280
+  },
+  {
+    "natNum": 180,
+    "name": "flaaffy",
+    "types": [
+      "electric"
+    ],
+    "hp": 70,
+    "atk": 55,
+    "def": 55,
+    "sAt": 80,
+    "sDf": 60,
+    "spd": 45,
+    "bst": 365
+  },
+  {
+    "natNum": 181,
+    "name": "ampharos",
+    "types": [
+      "electric"
+    ],
+    "hp": 90,
+    "atk": 75,
+    "def": 85,
+    "sAt": 115,
+    "sDf": 90,
+    "spd": 55,
+    "bst": 510
+  },
+  {
+    "natNum": 181,
+    "name": "mega ampharos",
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "hp": 90,
+    "atk": 95,
+    "def": 105,
+    "sAt": 165,
+    "sDf": 110,
+    "spd": 45,
+    "bst": 610
+  },
+  {
+    "natNum": 182,
+    "name": "bellossom",
+    "types": [
+      "grass"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 95,
+    "sAt": 90,
+    "sDf": 100,
+    "spd": 50,
+    "bst": 490
+  },
+  {
+    "natNum": 183,
+    "name": "marill",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "hp": 70,
+    "atk": 20,
+    "def": 50,
+    "sAt": 20,
+    "sDf": 50,
+    "spd": 40,
+    "bst": 250
+  },
+  {
+    "natNum": 184,
+    "name": "azumarill",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "hp": 100,
+    "atk": 50,
+    "def": 80,
+    "sAt": 60,
+    "sDf": 80,
+    "spd": 50,
+    "bst": 420
+  },
+  {
+    "natNum": 185,
+    "name": "sudowoodo",
+    "types": [
+      "rock"
+    ],
+    "hp": 70,
+    "atk": 100,
+    "def": 115,
+    "sAt": 30,
+    "sDf": 65,
+    "spd": 30,
+    "bst": 410
+  },
+  {
+    "natNum": 186,
+    "name": "politoed",
+    "types": [
+      "water"
+    ],
+    "hp": 90,
+    "atk": 75,
+    "def": 75,
+    "sAt": 90,
+    "sDf": 100,
+    "spd": 70,
+    "bst": 500
+  },
+  {
+    "natNum": 187,
+    "name": "hoppip",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "hp": 35,
+    "atk": 35,
+    "def": 40,
+    "sAt": 35,
+    "sDf": 55,
+    "spd": 50,
+    "bst": 250
+  },
+  {
+    "natNum": 188,
+    "name": "skiploom",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "hp": 55,
+    "atk": 45,
+    "def": 50,
+    "sAt": 45,
+    "sDf": 65,
+    "spd": 80,
+    "bst": 340
+  },
+  {
+    "natNum": 189,
+    "name": "jumpluff",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "hp": 75,
+    "atk": 55,
+    "def": 70,
+    "sAt": 55,
+    "sDf": 95,
+    "spd": 110,
+    "bst": 460
+  },
+  {
+    "natNum": 190,
+    "name": "aipom",
+    "types": [
+      "normal"
+    ],
+    "hp": 55,
+    "atk": 70,
+    "def": 55,
+    "sAt": 40,
+    "sDf": 55,
+    "spd": 85,
+    "bst": 360
+  },
+  {
+    "natNum": 191,
+    "name": "sunkern",
+    "types": [
+      "grass"
+    ],
+    "hp": 30,
+    "atk": 30,
+    "def": 30,
+    "sAt": 30,
+    "sDf": 30,
+    "spd": 30,
+    "bst": 180
+  },
+  {
+    "natNum": 192,
+    "name": "sunflora",
+    "types": [
+      "grass"
+    ],
+    "hp": 75,
+    "atk": 75,
+    "def": 55,
+    "sAt": 105,
+    "sDf": 85,
+    "spd": 30,
+    "bst": 425
+  },
+  {
+    "natNum": 193,
+    "name": "yanma",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 65,
+    "atk": 65,
+    "def": 45,
+    "sAt": 75,
+    "sDf": 45,
+    "spd": 95,
+    "bst": 390
+  },
+  {
+    "natNum": 194,
+    "name": "wooper",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "hp": 55,
+    "atk": 45,
+    "def": 45,
+    "sAt": 25,
+    "sDf": 25,
+    "spd": 15,
+    "bst": 210
+  },
+  {
+    "natNum": 195,
+    "name": "quagsire",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "hp": 95,
+    "atk": 85,
+    "def": 85,
+    "sAt": 65,
+    "sDf": 65,
+    "spd": 35,
+    "bst": 430
+  },
+  {
+    "natNum": 196,
+    "name": "espeon",
+    "types": [
+      "psychic"
+    ],
+    "hp": 65,
+    "atk": 65,
+    "def": 60,
+    "sAt": 130,
+    "sDf": 95,
+    "spd": 110,
+    "bst": 525
+  },
+  {
+    "natNum": 197,
+    "name": "umbreon",
+    "types": [
+      "dark"
+    ],
+    "hp": 95,
+    "atk": 65,
+    "def": 110,
+    "sAt": 60,
+    "sDf": 130,
+    "spd": 65,
+    "bst": 525
+  },
+  {
+    "natNum": 198,
+    "name": "murkrow",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "hp": 60,
+    "atk": 85,
+    "def": 42,
+    "sAt": 85,
+    "sDf": 42,
+    "spd": 91,
+    "bst": 405
+  },
+  {
+    "natNum": 199,
+    "name": "slowking",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "hp": 95,
+    "atk": 75,
+    "def": 80,
+    "sAt": 100,
+    "sDf": 110,
+    "spd": 30,
+    "bst": 490
+  },
+  {
+    "natNum": 200,
+    "name": "misdreavus",
+    "types": [
+      "ghost"
+    ],
+    "hp": 60,
+    "atk": 60,
+    "def": 60,
+    "sAt": 85,
+    "sDf": 85,
+    "spd": 85,
+    "bst": 435
+  },
+  {
+    "natNum": 201,
+    "name": "unown",
+    "types": [
+      "psychic"
+    ],
+    "hp": 48,
+    "atk": 72,
+    "def": 48,
+    "sAt": 72,
+    "sDf": 48,
+    "spd": 48,
+    "bst": 336
+  },
+  {
+    "natNum": 202,
+    "name": "wobbuffet",
+    "types": [
+      "psychic"
+    ],
+    "hp": 190,
+    "atk": 33,
+    "def": 58,
+    "sAt": 33,
+    "sDf": 58,
+    "spd": 33,
+    "bst": 405
+  },
+  {
+    "natNum": 203,
+    "name": "girafarig",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "hp": 70,
+    "atk": 80,
+    "def": 65,
+    "sAt": 90,
+    "sDf": 65,
+    "spd": 85,
+    "bst": 455
+  },
+  {
+    "natNum": 204,
+    "name": "pineco",
+    "types": [
+      "bug"
+    ],
+    "hp": 50,
+    "atk": 65,
+    "def": 90,
+    "sAt": 35,
+    "sDf": 35,
+    "spd": 15,
+    "bst": 290
+  },
+  {
+    "natNum": 205,
+    "name": "forretress",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "hp": 75,
+    "atk": 90,
+    "def": 140,
+    "sAt": 60,
+    "sDf": 60,
+    "spd": 40,
+    "bst": 465
+  },
+  {
+    "natNum": 206,
+    "name": "dunsparce",
+    "types": [
+      "normal"
+    ],
+    "hp": 100,
+    "atk": 70,
+    "def": 70,
+    "sAt": 65,
+    "sDf": 65,
+    "spd": 45,
+    "bst": 415
+  },
+  {
+    "natNum": 207,
+    "name": "gligar",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "hp": 65,
+    "atk": 75,
+    "def": 105,
+    "sAt": 35,
+    "sDf": 65,
+    "spd": 85,
+    "bst": 430
+  },
+  {
+    "natNum": 208,
+    "name": "steelix",
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "hp": 75,
+    "atk": 85,
+    "def": 200,
+    "sAt": 55,
+    "sDf": 65,
+    "spd": 30,
+    "bst": 510
+  },
+  {
+    "natNum": 208,
+    "name": "mega steelix",
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "hp": 75,
+    "atk": 125,
+    "def": 230,
+    "sAt": 55,
+    "sDf": 95,
+    "spd": 30,
+    "bst": 610
+  },
+  {
+    "natNum": 209,
+    "name": "snubbull",
+    "types": [
+      "fairy"
+    ],
+    "hp": 60,
+    "atk": 80,
+    "def": 50,
+    "sAt": 40,
+    "sDf": 40,
+    "spd": 30,
+    "bst": 300
+  },
+  {
+    "natNum": 210,
+    "name": "granbull",
+    "types": [
+      "fairy"
+    ],
+    "hp": 90,
+    "atk": 120,
+    "def": 75,
+    "sAt": 60,
+    "sDf": 60,
+    "spd": 45,
+    "bst": 450
+  },
+  {
+    "natNum": 211,
+    "name": "qwilfish",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "hp": 65,
+    "atk": 95,
+    "def": 75,
+    "sAt": 55,
+    "sDf": 55,
+    "spd": 85,
+    "bst": 430
+  },
+  {
+    "natNum": 212,
+    "name": "scizor",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "hp": 70,
+    "atk": 130,
+    "def": 100,
+    "sAt": 55,
+    "sDf": 80,
+    "spd": 65,
+    "bst": 500
+  },
+  {
+    "natNum": 212,
+    "name": "mega scizor",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "hp": 70,
+    "atk": 150,
+    "def": 140,
+    "sAt": 65,
+    "sDf": 100,
+    "spd": 75,
+    "bst": 600
+  },
+  {
+    "natNum": 213,
+    "name": "shuckle",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "hp": 20,
+    "atk": 10,
+    "def": 230,
+    "sAt": 10,
+    "sDf": 230,
+    "spd": 5,
+    "bst": 505
+  },
+  {
+    "natNum": 214,
+    "name": "heracross",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "hp": 80,
+    "atk": 125,
+    "def": 75,
+    "sAt": 40,
+    "sDf": 95,
+    "spd": 85,
+    "bst": 500
+  },
+  {
+    "natNum": 214,
+    "name": "mega heracross",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "hp": 80,
+    "atk": 185,
+    "def": 115,
+    "sAt": 40,
+    "sDf": 105,
+    "spd": 75,
+    "bst": 600
+  },
+  {
+    "natNum": 215,
+    "name": "sneasel",
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "hp": 55,
+    "atk": 95,
+    "def": 55,
+    "sAt": 35,
+    "sDf": 75,
+    "spd": 115,
+    "bst": 430
+  },
+  {
+    "natNum": 216,
+    "name": "teddiursa",
+    "types": [
+      "normal"
+    ],
+    "hp": 60,
+    "atk": 80,
+    "def": 50,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 40,
+    "bst": 330
+  },
+  {
+    "natNum": 217,
+    "name": "ursaring",
+    "types": [
+      "normal"
+    ],
+    "hp": 90,
+    "atk": 130,
+    "def": 75,
+    "sAt": 75,
+    "sDf": 75,
+    "spd": 55,
+    "bst": 500
+  },
+  {
+    "natNum": 218,
+    "name": "slugma",
+    "types": [
+      "fire"
+    ],
+    "hp": 40,
+    "atk": 40,
+    "def": 40,
+    "sAt": 70,
+    "sDf": 40,
+    "spd": 20,
+    "bst": 250
+  },
+  {
+    "natNum": 219,
+    "name": "magcargo",
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "hp": 50,
+    "atk": 50,
+    "def": 120,
+    "sAt": 80,
+    "sDf": 80,
+    "spd": 30,
+    "bst": 410
+  },
+  {
+    "natNum": 220,
+    "name": "swinub",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "hp": 50,
+    "atk": 50,
+    "def": 40,
+    "sAt": 30,
+    "sDf": 30,
+    "spd": 50,
+    "bst": 250
+  },
+  {
+    "natNum": 221,
+    "name": "piloswine",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "hp": 100,
+    "atk": 100,
+    "def": 80,
+    "sAt": 60,
+    "sDf": 60,
+    "spd": 50,
+    "bst": 450
+  },
+  {
+    "natNum": 222,
+    "name": "corsola",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "hp": 55,
+    "atk": 55,
+    "def": 85,
+    "sAt": 65,
+    "sDf": 85,
+    "spd": 35,
+    "bst": 380
+  },
+  {
+    "natNum": 223,
+    "name": "remoraid",
+    "types": [
+      "water"
+    ],
+    "hp": 35,
+    "atk": 65,
+    "def": 35,
+    "sAt": 65,
+    "sDf": 35,
+    "spd": 65,
+    "bst": 300
+  },
+  {
+    "natNum": 224,
+    "name": "octillery",
+    "types": [
+      "water"
+    ],
+    "hp": 75,
+    "atk": 105,
+    "def": 75,
+    "sAt": 105,
+    "sDf": 75,
+    "spd": 45,
+    "bst": 480
+  },
+  {
+    "natNum": 225,
+    "name": "delibird",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "hp": 45,
+    "atk": 55,
+    "def": 45,
+    "sAt": 65,
+    "sDf": 45,
+    "spd": 75,
+    "bst": 330
+  },
+  {
+    "natNum": 226,
+    "name": "mantine",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "hp": 65,
+    "atk": 40,
+    "def": 70,
+    "sAt": 80,
+    "sDf": 140,
+    "spd": 70,
+    "bst": 465
+  },
+  {
+    "natNum": 227,
+    "name": "skarmory",
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "hp": 65,
+    "atk": 80,
+    "def": 140,
+    "sAt": 40,
+    "sDf": 70,
+    "spd": 70,
+    "bst": 465
+  },
+  {
+    "natNum": 228,
+    "name": "houndour",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "hp": 45,
+    "atk": 60,
+    "def": 30,
+    "sAt": 80,
+    "sDf": 50,
+    "spd": 65,
+    "bst": 330
+  },
+  {
+    "natNum": 229,
+    "name": "houndoom",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "hp": 75,
+    "atk": 90,
+    "def": 50,
+    "sAt": 110,
+    "sDf": 80,
+    "spd": 95,
+    "bst": 500
+  },
+  {
+    "natNum": 229,
+    "name": "mega houndoom",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "hp": 75,
+    "atk": 90,
+    "def": 90,
+    "sAt": 140,
+    "sDf": 90,
+    "spd": 115,
+    "bst": 600
+  },
+  {
+    "natNum": 230,
+    "name": "kingdra",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "hp": 75,
+    "atk": 95,
+    "def": 95,
+    "sAt": 95,
+    "sDf": 95,
+    "spd": 85,
+    "bst": 540
+  },
+  {
+    "natNum": 231,
+    "name": "phanpy",
+    "types": [
+      "ground"
+    ],
+    "hp": 90,
+    "atk": 60,
+    "def": 60,
+    "sAt": 40,
+    "sDf": 40,
+    "spd": 40,
+    "bst": 330
+  },
+  {
+    "natNum": 232,
+    "name": "donphan",
+    "types": [
+      "ground"
+    ],
+    "hp": 90,
+    "atk": 120,
+    "def": 120,
+    "sAt": 60,
+    "sDf": 60,
+    "spd": 50,
+    "bst": 500
+  },
+  {
+    "natNum": 233,
+    "name": "porygon2",
+    "types": [
+      "normal"
+    ],
+    "hp": 85,
+    "atk": 80,
+    "def": 90,
+    "sAt": 105,
+    "sDf": 95,
+    "spd": 60,
+    "bst": 515
+  },
+  {
+    "natNum": 234,
+    "name": "stantler",
+    "types": [
+      "normal"
+    ],
+    "hp": 73,
+    "atk": 95,
+    "def": 62,
+    "sAt": 85,
+    "sDf": 65,
+    "spd": 85,
+    "bst": 465
+  },
+  {
+    "natNum": 235,
+    "name": "smeargle",
+    "types": [
+      "normal"
+    ],
+    "hp": 55,
+    "atk": 20,
+    "def": 35,
+    "sAt": 20,
+    "sDf": 45,
+    "spd": 75,
+    "bst": 250
+  },
+  {
+    "natNum": 236,
+    "name": "tyrogue",
+    "types": [
+      "fighting"
+    ],
+    "hp": 35,
+    "atk": 35,
+    "def": 35,
+    "sAt": 35,
+    "sDf": 35,
+    "spd": 35,
+    "bst": 210
+  },
+  {
+    "natNum": 237,
+    "name": "hitmontop",
+    "types": [
+      "fighting"
+    ],
+    "hp": 50,
+    "atk": 95,
+    "def": 95,
+    "sAt": 35,
+    "sDf": 110,
+    "spd": 70,
+    "bst": 455
+  },
+  {
+    "natNum": 238,
+    "name": "smoochum",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "hp": 45,
+    "atk": 30,
+    "def": 15,
+    "sAt": 85,
+    "sDf": 65,
+    "spd": 65,
+    "bst": 305
+  },
+  {
+    "natNum": 239,
+    "name": "elekid",
+    "types": [
+      "electric"
+    ],
+    "hp": 45,
+    "atk": 63,
+    "def": 37,
+    "sAt": 65,
+    "sDf": 55,
+    "spd": 95,
+    "bst": 360
+  },
+  {
+    "natNum": 240,
+    "name": "magby",
+    "types": [
+      "fire"
+    ],
+    "hp": 45,
+    "atk": 75,
+    "def": 37,
+    "sAt": 70,
+    "sDf": 55,
+    "spd": 83,
+    "bst": 365
+  },
+  {
+    "natNum": 241,
+    "name": "miltank",
+    "types": [
+      "normal"
+    ],
+    "hp": 95,
+    "atk": 80,
+    "def": 105,
+    "sAt": 40,
+    "sDf": 70,
+    "spd": 100,
+    "bst": 490
+  },
+  {
+    "natNum": 242,
+    "name": "blissey",
+    "types": [
+      "normal"
+    ],
+    "hp": 255,
+    "atk": 10,
+    "def": 10,
+    "sAt": 75,
+    "sDf": 135,
+    "spd": 55,
+    "bst": 540
+  },
+  {
+    "natNum": 243,
+    "name": "raikou",
+    "types": [
+      "electric"
+    ],
+    "hp": 90,
+    "atk": 85,
+    "def": 75,
+    "sAt": 115,
+    "sDf": 100,
+    "spd": 115,
+    "bst": 580
+  },
+  {
+    "natNum": 244,
+    "name": "entei",
+    "types": [
+      "fire"
+    ],
+    "hp": 115,
+    "atk": 115,
+    "def": 85,
+    "sAt": 90,
+    "sDf": 75,
+    "spd": 100,
+    "bst": 580
+  },
+  {
+    "natNum": 245,
+    "name": "suicune",
+    "types": [
+      "water"
+    ],
+    "hp": 100,
+    "atk": 75,
+    "def": 115,
+    "sAt": 90,
+    "sDf": 115,
+    "spd": 85,
+    "bst": 580
+  },
+  {
+    "natNum": 246,
+    "name": "larvitar",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "hp": 50,
+    "atk": 64,
+    "def": 50,
+    "sAt": 45,
+    "sDf": 50,
+    "spd": 41,
+    "bst": 300
+  },
+  {
+    "natNum": 247,
+    "name": "pupitar",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "hp": 70,
+    "atk": 84,
+    "def": 70,
+    "sAt": 65,
+    "sDf": 70,
+    "spd": 51,
+    "bst": 410
+  },
+  {
+    "natNum": 248,
+    "name": "tyranitar",
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "hp": 100,
+    "atk": 134,
+    "def": 110,
+    "sAt": 95,
+    "sDf": 100,
+    "spd": 61,
+    "bst": 600
+  },
+  {
+    "natNum": 248,
+    "name": "mega tyranitar",
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "hp": 100,
+    "atk": 164,
+    "def": 150,
+    "sAt": 95,
+    "sDf": 120,
+    "spd": 71,
+    "bst": 700
+  },
+  {
+    "natNum": 249,
+    "name": "lugia",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "hp": 106,
+    "atk": 90,
+    "def": 130,
+    "sAt": 90,
+    "sDf": 154,
+    "spd": 110,
+    "bst": 680
+  },
+  {
+    "natNum": 250,
+    "name": "ho-oh",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "hp": 106,
+    "atk": 130,
+    "def": 90,
+    "sAt": 110,
+    "sDf": 154,
+    "spd": 90,
+    "bst": 680
+  },
+  {
+    "natNum": 251,
+    "name": "celebi",
+    "types": [
+      "psychic",
+      "grass"
+    ],
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "sAt": 100,
+    "sDf": 100,
+    "spd": 100,
+    "bst": 600
+  },
+  {
+    "natNum": 252,
+    "name": "treecko",
+    "types": [
+      "grass"
+    ],
+    "hp": 40,
+    "atk": 45,
+    "def": 35,
+    "sAt": 65,
+    "sDf": 55,
+    "spd": 70,
+    "bst": 310
+  },
+  {
+    "natNum": 253,
+    "name": "grovyle",
+    "types": [
+      "grass"
+    ],
+    "hp": 50,
+    "atk": 65,
+    "def": 45,
+    "sAt": 85,
+    "sDf": 65,
+    "spd": 95,
+    "bst": 405
+  },
+  {
+    "natNum": 254,
+    "name": "sceptile",
+    "types": [
+      "grass"
+    ],
+    "hp": 70,
+    "atk": 85,
+    "def": 65,
+    "sAt": 105,
+    "sDf": 85,
+    "spd": 120,
+    "bst": 530
+  },
+  {
+    "natNum": 254,
+    "name": "mega sceptile",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "hp": 70,
+    "atk": 110,
+    "def": 75,
+    "sAt": 145,
+    "sDf": 85,
+    "spd": 145,
+    "bst": 630
+  },
+  {
+    "natNum": 255,
+    "name": "torchic",
+    "types": [
+      "fire"
+    ],
+    "hp": 45,
+    "atk": 60,
+    "def": 40,
+    "sAt": 70,
+    "sDf": 50,
+    "spd": 45,
+    "bst": 310
+  },
+  {
+    "natNum": 256,
+    "name": "combusken",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "hp": 60,
+    "atk": 85,
+    "def": 60,
+    "sAt": 85,
+    "sDf": 60,
+    "spd": 55,
+    "bst": 405
+  },
+  {
+    "natNum": 257,
+    "name": "blaziken",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "hp": 80,
+    "atk": 120,
+    "def": 70,
+    "sAt": 110,
+    "sDf": 70,
+    "spd": 80,
+    "bst": 530
+  },
+  {
+    "natNum": 257,
+    "name": "mega blaziken",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "hp": 80,
+    "atk": 160,
+    "def": 80,
+    "sAt": 130,
+    "sDf": 80,
+    "spd": 100,
+    "bst": 630
+  },
+  {
+    "natNum": 258,
+    "name": "mudkip",
+    "types": [
+      "water"
+    ],
+    "hp": 50,
+    "atk": 70,
+    "def": 50,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 40,
+    "bst": 310
+  },
+  {
+    "natNum": 259,
+    "name": "marshtomp",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "hp": 70,
+    "atk": 85,
+    "def": 70,
+    "sAt": 60,
+    "sDf": 70,
+    "spd": 50,
+    "bst": 405
+  },
+  {
+    "natNum": 260,
+    "name": "swampert",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "hp": 100,
+    "atk": 110,
+    "def": 90,
+    "sAt": 85,
+    "sDf": 90,
+    "spd": 60,
+    "bst": 535
+  },
+  {
+    "natNum": 260,
+    "name": "mega swampert",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "hp": 100,
+    "atk": 150,
+    "def": 110,
+    "sAt": 95,
+    "sDf": 110,
+    "spd": 70,
+    "bst": 635
+  },
+  {
+    "natNum": 261,
+    "name": "poochyena",
+    "types": [
+      "dark"
+    ],
+    "hp": 35,
+    "atk": 55,
+    "def": 35,
+    "sAt": 30,
+    "sDf": 30,
+    "spd": 35,
+    "bst": 220
+  },
+  {
+    "natNum": 262,
+    "name": "mightyena",
+    "types": [
+      "dark"
+    ],
+    "hp": 70,
+    "atk": 90,
+    "def": 70,
+    "sAt": 60,
+    "sDf": 60,
+    "spd": 70,
+    "bst": 420
+  },
+  {
+    "natNum": 263,
+    "name": "zigzagoon",
+    "types": [
+      "normal"
+    ],
+    "hp": 38,
+    "atk": 30,
+    "def": 41,
+    "sAt": 30,
+    "sDf": 41,
+    "spd": 60,
+    "bst": 240
+  },
+  {
+    "natNum": 264,
+    "name": "linoone",
+    "types": [
+      "normal"
+    ],
+    "hp": 78,
+    "atk": 70,
+    "def": 61,
+    "sAt": 50,
+    "sDf": 61,
+    "spd": 100,
+    "bst": 420
+  },
+  {
+    "natNum": 265,
+    "name": "wurmple",
+    "types": [
+      "bug"
+    ],
+    "hp": 45,
+    "atk": 45,
+    "def": 35,
+    "sAt": 20,
+    "sDf": 30,
+    "spd": 20,
+    "bst": 195
+  },
+  {
+    "natNum": 266,
+    "name": "silcoon",
+    "types": [
+      "bug"
+    ],
+    "hp": 50,
+    "atk": 35,
+    "def": 55,
+    "sAt": 25,
+    "sDf": 25,
+    "spd": 15,
+    "bst": 205
+  },
+  {
+    "natNum": 267,
+    "name": "beautifly",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 60,
+    "atk": 70,
+    "def": 50,
+    "sAt": 100,
+    "sDf": 50,
+    "spd": 65,
+    "bst": 395
+  },
+  {
+    "natNum": 268,
+    "name": "cascoon",
+    "types": [
+      "bug"
+    ],
+    "hp": 50,
+    "atk": 35,
+    "def": 55,
+    "sAt": 25,
+    "sDf": 25,
+    "spd": 15,
+    "bst": 205
+  },
+  {
+    "natNum": 269,
+    "name": "dustox",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hp": 60,
+    "atk": 50,
+    "def": 70,
+    "sAt": 50,
+    "sDf": 90,
+    "spd": 65,
+    "bst": 385
+  },
+  {
+    "natNum": 270,
+    "name": "lotad",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "hp": 40,
+    "atk": 30,
+    "def": 30,
+    "sAt": 40,
+    "sDf": 50,
+    "spd": 30,
+    "bst": 220
+  },
+  {
+    "natNum": 271,
+    "name": "lombre",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "hp": 60,
+    "atk": 50,
+    "def": 50,
+    "sAt": 60,
+    "sDf": 70,
+    "spd": 50,
+    "bst": 340
+  },
+  {
+    "natNum": 272,
+    "name": "ludicolo",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "hp": 80,
+    "atk": 70,
+    "def": 70,
+    "sAt": 90,
+    "sDf": 100,
+    "spd": 70,
+    "bst": 480
+  },
+  {
+    "natNum": 273,
+    "name": "seedot",
+    "types": [
+      "grass"
+    ],
+    "hp": 40,
+    "atk": 40,
+    "def": 50,
+    "sAt": 30,
+    "sDf": 30,
+    "spd": 30,
+    "bst": 220
+  },
+  {
+    "natNum": 274,
+    "name": "nuzleaf",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "hp": 70,
+    "atk": 70,
+    "def": 40,
+    "sAt": 60,
+    "sDf": 40,
+    "spd": 60,
+    "bst": 340
+  },
+  {
+    "natNum": 275,
+    "name": "shiftry",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "hp": 90,
+    "atk": 100,
+    "def": 60,
+    "sAt": 90,
+    "sDf": 60,
+    "spd": 80,
+    "bst": 480
+  },
+  {
+    "natNum": 276,
+    "name": "taillow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 40,
+    "atk": 55,
+    "def": 30,
+    "sAt": 30,
+    "sDf": 30,
+    "spd": 85,
+    "bst": 270
+  },
+  {
+    "natNum": 277,
+    "name": "swellow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 60,
+    "atk": 85,
+    "def": 60,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 125,
+    "bst": 430
+  },
+  {
+    "natNum": 278,
+    "name": "wingull",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "hp": 40,
+    "atk": 30,
+    "def": 30,
+    "sAt": 55,
+    "sDf": 30,
+    "spd": 85,
+    "bst": 270
+  },
+  {
+    "natNum": 279,
+    "name": "pelipper",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "hp": 60,
+    "atk": 50,
+    "def": 100,
+    "sAt": 85,
+    "sDf": 70,
+    "spd": 65,
+    "bst": 430
+  },
+  {
+    "natNum": 280,
+    "name": "ralts",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "hp": 28,
+    "atk": 25,
+    "def": 25,
+    "sAt": 45,
+    "sDf": 35,
+    "spd": 40,
+    "bst": 198
+  },
+  {
+    "natNum": 281,
+    "name": "kirlia",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "hp": 38,
+    "atk": 35,
+    "def": 35,
+    "sAt": 65,
+    "sDf": 55,
+    "spd": 50,
+    "bst": 278
+  },
+  {
+    "natNum": 282,
+    "name": "gardevoir",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "hp": 68,
+    "atk": 65,
+    "def": 65,
+    "sAt": 125,
+    "sDf": 115,
+    "spd": 80,
+    "bst": 518
+  },
+  {
+    "natNum": 282,
+    "name": "mega gardevoir",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "hp": 68,
+    "atk": 85,
+    "def": 65,
+    "sAt": 165,
+    "sDf": 135,
+    "spd": 100,
+    "bst": 618
+  },
+  {
+    "natNum": 283,
+    "name": "surskit",
+    "types": [
+      "bug",
+      "water"
+    ],
+    "hp": 40,
+    "atk": 30,
+    "def": 32,
+    "sAt": 50,
+    "sDf": 52,
+    "spd": 65,
+    "bst": 269
+  },
+  {
+    "natNum": 284,
+    "name": "masquerain",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 70,
+    "atk": 60,
+    "def": 62,
+    "sAt": 80,
+    "sDf": 82,
+    "spd": 60,
+    "bst": 414
+  },
+  {
+    "natNum": 285,
+    "name": "shroomish",
+    "types": [
+      "grass"
+    ],
+    "hp": 60,
+    "atk": 40,
+    "def": 60,
+    "sAt": 40,
+    "sDf": 60,
+    "spd": 35,
+    "bst": 295
+  },
+  {
+    "natNum": 286,
+    "name": "breloom",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "hp": 60,
+    "atk": 130,
+    "def": 80,
+    "sAt": 60,
+    "sDf": 60,
+    "spd": 70,
+    "bst": 460
+  },
+  {
+    "natNum": 287,
+    "name": "slakoth",
+    "types": [
+      "normal"
+    ],
+    "hp": 60,
+    "atk": 60,
+    "def": 60,
+    "sAt": 35,
+    "sDf": 35,
+    "spd": 30,
+    "bst": 280
+  },
+  {
+    "natNum": 288,
+    "name": "vigoroth",
+    "types": [
+      "normal"
+    ],
+    "hp": 80,
+    "atk": 80,
+    "def": 80,
+    "sAt": 55,
+    "sDf": 55,
+    "spd": 90,
+    "bst": 440
+  },
+  {
+    "natNum": 289,
+    "name": "slaking",
+    "types": [
+      "normal"
+    ],
+    "hp": 150,
+    "atk": 160,
+    "def": 100,
+    "sAt": 95,
+    "sDf": 65,
+    "spd": 100,
+    "bst": 670
+  },
+  {
+    "natNum": 290,
+    "name": "nincada",
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "hp": 31,
+    "atk": 45,
+    "def": 90,
+    "sAt": 30,
+    "sDf": 30,
+    "spd": 40,
+    "bst": 266
+  },
+  {
+    "natNum": 291,
+    "name": "ninjask",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 61,
+    "atk": 90,
+    "def": 45,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 160,
+    "bst": 456
+  },
+  {
+    "natNum": 292,
+    "name": "shedinja",
+    "types": [
+      "bug",
+      "ghost"
+    ],
+    "hp": 1,
+    "atk": 90,
+    "def": 45,
+    "sAt": 30,
+    "sDf": 30,
+    "spd": 40,
+    "bst": 236
+  },
+  {
+    "natNum": 293,
+    "name": "whismur",
+    "types": [
+      "normal"
+    ],
+    "hp": 64,
+    "atk": 51,
+    "def": 23,
+    "sAt": 51,
+    "sDf": 23,
+    "spd": 28,
+    "bst": 240
+  },
+  {
+    "natNum": 294,
+    "name": "loudred",
+    "types": [
+      "normal"
+    ],
+    "hp": 84,
+    "atk": 71,
+    "def": 43,
+    "sAt": 71,
+    "sDf": 43,
+    "spd": 48,
+    "bst": 360
+  },
+  {
+    "natNum": 295,
+    "name": "exploud",
+    "types": [
+      "normal"
+    ],
+    "hp": 104,
+    "atk": 91,
+    "def": 63,
+    "sAt": 91,
+    "sDf": 73,
+    "spd": 68,
+    "bst": 490
+  },
+  {
+    "natNum": 296,
+    "name": "makuhita",
+    "types": [
+      "fighting"
+    ],
+    "hp": 72,
+    "atk": 60,
+    "def": 30,
+    "sAt": 20,
+    "sDf": 30,
+    "spd": 25,
+    "bst": 237
+  },
+  {
+    "natNum": 297,
+    "name": "hariyama",
+    "types": [
+      "fighting"
+    ],
+    "hp": 144,
+    "atk": 120,
+    "def": 60,
+    "sAt": 40,
+    "sDf": 60,
+    "spd": 50,
+    "bst": 474
+  },
+  {
+    "natNum": 298,
+    "name": "azurill",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "hp": 50,
+    "atk": 20,
+    "def": 40,
+    "sAt": 20,
+    "sDf": 40,
+    "spd": 20,
+    "bst": 190
+  },
+  {
+    "natNum": 299,
+    "name": "nosepass",
+    "types": [
+      "rock"
+    ],
+    "hp": 30,
+    "atk": 45,
+    "def": 135,
+    "sAt": 45,
+    "sDf": 90,
+    "spd": 30,
+    "bst": 375
+  },
+  {
+    "natNum": 300,
+    "name": "skitty",
+    "types": [
+      "normal"
+    ],
+    "hp": 50,
+    "atk": 45,
+    "def": 45,
+    "sAt": 35,
+    "sDf": 35,
+    "spd": 50,
+    "bst": 260
+  },
+  {
+    "natNum": 301,
+    "name": "delcatty",
+    "types": [
+      "normal"
+    ],
+    "hp": 70,
+    "atk": 65,
+    "def": 65,
+    "sAt": 55,
+    "sDf": 55,
+    "spd": 70,
+    "bst": 380
+  },
+  {
+    "natNum": 302,
+    "name": "sableye",
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "hp": 50,
+    "atk": 75,
+    "def": 75,
+    "sAt": 65,
+    "sDf": 65,
+    "spd": 50,
+    "bst": 380
+  },
+  {
+    "natNum": 302,
+    "name": "mega sableye",
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "hp": 50,
+    "atk": 85,
+    "def": 125,
+    "sAt": 85,
+    "sDf": 115,
+    "spd": 20,
+    "bst": 480
+  },
+  {
+    "natNum": 303,
+    "name": "mawile",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "hp": 50,
+    "atk": 85,
+    "def": 85,
+    "sAt": 55,
+    "sDf": 55,
+    "spd": 50,
+    "bst": 380
+  },
+  {
+    "natNum": 303,
+    "name": "mega mawile",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "hp": 50,
+    "atk": 105,
+    "def": 125,
+    "sAt": 55,
+    "sDf": 95,
+    "spd": 50,
+    "bst": 480
+  },
+  {
+    "natNum": 304,
+    "name": "aron",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "hp": 50,
+    "atk": 70,
+    "def": 100,
+    "sAt": 40,
+    "sDf": 40,
+    "spd": 30,
+    "bst": 330
+  },
+  {
+    "natNum": 305,
+    "name": "lairon",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "hp": 60,
+    "atk": 90,
+    "def": 140,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 40,
+    "bst": 430
+  },
+  {
+    "natNum": 306,
+    "name": "aggron",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "hp": 70,
+    "atk": 110,
+    "def": 180,
+    "sAt": 60,
+    "sDf": 60,
+    "spd": 50,
+    "bst": 530
+  },
+  {
+    "natNum": 306,
+    "name": "mega aggron",
+    "types": [
+      "steel"
+    ],
+    "hp": 70,
+    "atk": 140,
+    "def": 230,
+    "sAt": 60,
+    "sDf": 80,
+    "spd": 50,
+    "bst": 630
+  },
+  {
+    "natNum": 307,
+    "name": "meditite",
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "hp": 30,
+    "atk": 40,
+    "def": 55,
+    "sAt": 40,
+    "sDf": 55,
+    "spd": 60,
+    "bst": 280
+  },
+  {
+    "natNum": 308,
+    "name": "medicham",
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "hp": 60,
+    "atk": 60,
+    "def": 75,
+    "sAt": 60,
+    "sDf": 75,
+    "spd": 80,
+    "bst": 410
+  },
+  {
+    "natNum": 308,
+    "name": "mega medicham",
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "hp": 60,
+    "atk": 100,
+    "def": 85,
+    "sAt": 80,
+    "sDf": 85,
+    "spd": 100,
+    "bst": 510
+  },
+  {
+    "natNum": 309,
+    "name": "electrike",
+    "types": [
+      "electric"
+    ],
+    "hp": 40,
+    "atk": 45,
+    "def": 40,
+    "sAt": 65,
+    "sDf": 40,
+    "spd": 65,
+    "bst": 295
+  },
+  {
+    "natNum": 310,
+    "name": "manectric",
+    "types": [
+      "electric"
+    ],
+    "hp": 70,
+    "atk": 75,
+    "def": 60,
+    "sAt": 105,
+    "sDf": 60,
+    "spd": 105,
+    "bst": 475
+  },
+  {
+    "natNum": 310,
+    "name": "mega manectric",
+    "types": [
+      "electric"
+    ],
+    "hp": 70,
+    "atk": 75,
+    "def": 80,
+    "sAt": 135,
+    "sDf": 80,
+    "spd": 135,
+    "bst": 575
+  },
+  {
+    "natNum": 311,
+    "name": "plusle",
+    "types": [
+      "electric"
+    ],
+    "hp": 60,
+    "atk": 50,
+    "def": 40,
+    "sAt": 85,
+    "sDf": 75,
+    "spd": 95,
+    "bst": 405
+  },
+  {
+    "natNum": 312,
+    "name": "minun",
+    "types": [
+      "electric"
+    ],
+    "hp": 60,
+    "atk": 40,
+    "def": 50,
+    "sAt": 75,
+    "sDf": 85,
+    "spd": 95,
+    "bst": 405
+  },
+  {
+    "natNum": 313,
+    "name": "volbeat",
+    "types": [
+      "bug"
+    ],
+    "hp": 65,
+    "atk": 73,
+    "def": 55,
+    "sAt": 47,
+    "sDf": 75,
+    "spd": 85,
+    "bst": 400
+  },
+  {
+    "natNum": 314,
+    "name": "illumise",
+    "types": [
+      "bug"
+    ],
+    "hp": 65,
+    "atk": 47,
+    "def": 55,
+    "sAt": 73,
+    "sDf": 75,
+    "spd": 85,
+    "bst": 400
+  },
+  {
+    "natNum": 315,
+    "name": "roselia",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 50,
+    "atk": 60,
+    "def": 45,
+    "sAt": 100,
+    "sDf": 80,
+    "spd": 65,
+    "bst": 400
+  },
+  {
+    "natNum": 316,
+    "name": "gulpin",
+    "types": [
+      "poison"
+    ],
+    "hp": 70,
+    "atk": 43,
+    "def": 53,
+    "sAt": 43,
+    "sDf": 53,
+    "spd": 40,
+    "bst": 302
+  },
+  {
+    "natNum": 317,
+    "name": "swalot",
+    "types": [
+      "poison"
+    ],
+    "hp": 100,
+    "atk": 73,
+    "def": 83,
+    "sAt": 73,
+    "sDf": 83,
+    "spd": 55,
+    "bst": 467
+  },
+  {
+    "natNum": 318,
+    "name": "carvanha",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "hp": 45,
+    "atk": 90,
+    "def": 20,
+    "sAt": 65,
+    "sDf": 20,
+    "spd": 65,
+    "bst": 305
+  },
+  {
+    "natNum": 319,
+    "name": "sharpedo",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "hp": 70,
+    "atk": 120,
+    "def": 40,
+    "sAt": 95,
+    "sDf": 40,
+    "spd": 95,
+    "bst": 460
+  },
+  {
+    "natNum": 319,
+    "name": "mega sharpedo",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "hp": 70,
+    "atk": 140,
+    "def": 70,
+    "sAt": 110,
+    "sDf": 65,
+    "spd": 105,
+    "bst": 560
+  },
+  {
+    "natNum": 320,
+    "name": "wailmer",
+    "types": [
+      "water"
+    ],
+    "hp": 130,
+    "atk": 70,
+    "def": 35,
+    "sAt": 70,
+    "sDf": 35,
+    "spd": 60,
+    "bst": 400
+  },
+  {
+    "natNum": 321,
+    "name": "wailord",
+    "types": [
+      "water"
+    ],
+    "hp": 170,
+    "atk": 90,
+    "def": 45,
+    "sAt": 90,
+    "sDf": 45,
+    "spd": 60,
+    "bst": 500
+  },
+  {
+    "natNum": 322,
+    "name": "numel",
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "hp": 60,
+    "atk": 60,
+    "def": 40,
+    "sAt": 65,
+    "sDf": 45,
+    "spd": 35,
+    "bst": 305
+  },
+  {
+    "natNum": 323,
+    "name": "camerupt",
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "hp": 70,
+    "atk": 100,
+    "def": 70,
+    "sAt": 105,
+    "sDf": 75,
+    "spd": 40,
+    "bst": 460
+  },
+  {
+    "natNum": 323,
+    "name": "mega camerupt",
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "hp": 70,
+    "atk": 120,
+    "def": 100,
+    "sAt": 145,
+    "sDf": 105,
+    "spd": 20,
+    "bst": 560
+  },
+  {
+    "natNum": 324,
+    "name": "torkoal",
+    "types": [
+      "fire"
+    ],
+    "hp": 70,
+    "atk": 85,
+    "def": 140,
+    "sAt": 85,
+    "sDf": 70,
+    "spd": 20,
+    "bst": 470
+  },
+  {
+    "natNum": 325,
+    "name": "spoink",
+    "types": [
+      "psychic"
+    ],
+    "hp": 60,
+    "atk": 25,
+    "def": 35,
+    "sAt": 70,
+    "sDf": 80,
+    "spd": 60,
+    "bst": 330
+  },
+  {
+    "natNum": 326,
+    "name": "grumpig",
+    "types": [
+      "psychic"
+    ],
+    "hp": 80,
+    "atk": 45,
+    "def": 65,
+    "sAt": 90,
+    "sDf": 110,
+    "spd": 80,
+    "bst": 470
+  },
+  {
+    "natNum": 327,
+    "name": "spinda",
+    "types": [
+      "normal"
+    ],
+    "hp": 60,
+    "atk": 60,
+    "def": 60,
+    "sAt": 60,
+    "sDf": 60,
+    "spd": 60,
+    "bst": 360
+  },
+  {
+    "natNum": 328,
+    "name": "trapinch",
+    "types": [
+      "ground"
+    ],
+    "hp": 45,
+    "atk": 100,
+    "def": 45,
+    "sAt": 45,
+    "sDf": 45,
+    "spd": 10,
+    "bst": 290
+  },
+  {
+    "natNum": 329,
+    "name": "vibrava",
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "hp": 50,
+    "atk": 70,
+    "def": 50,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 70,
+    "bst": 340
+  },
+  {
+    "natNum": 330,
+    "name": "flygon",
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "hp": 80,
+    "atk": 100,
+    "def": 80,
+    "sAt": 80,
+    "sDf": 80,
+    "spd": 100,
+    "bst": 520
+  },
+  {
+    "natNum": 331,
+    "name": "cacnea",
+    "types": [
+      "grass"
+    ],
+    "hp": 50,
+    "atk": 85,
+    "def": 40,
+    "sAt": 85,
+    "sDf": 40,
+    "spd": 35,
+    "bst": 335
+  },
+  {
+    "natNum": 332,
+    "name": "cacturne",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "hp": 70,
+    "atk": 115,
+    "def": 60,
+    "sAt": 115,
+    "sDf": 60,
+    "spd": 55,
+    "bst": 475
+  },
+  {
+    "natNum": 333,
+    "name": "swablu",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 45,
+    "atk": 40,
+    "def": 60,
+    "sAt": 40,
+    "sDf": 75,
+    "spd": 50,
+    "bst": 310
+  },
+  {
+    "natNum": 334,
+    "name": "altaria",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "hp": 75,
+    "atk": 70,
+    "def": 90,
+    "sAt": 70,
+    "sDf": 105,
+    "spd": 80,
+    "bst": 490
+  },
+  {
+    "natNum": 334,
+    "name": "mega altaria",
+    "types": [
+      "dragon",
+      "fairy"
+    ],
+    "hp": 75,
+    "atk": 110,
+    "def": 110,
+    "sAt": 110,
+    "sDf": 105,
+    "spd": 80,
+    "bst": 590
+  },
+  {
+    "natNum": 335,
+    "name": "zangoose",
+    "types": [
+      "normal"
+    ],
+    "hp": 73,
+    "atk": 115,
+    "def": 60,
+    "sAt": 60,
+    "sDf": 60,
+    "spd": 90,
+    "bst": 458
+  },
+  {
+    "natNum": 336,
+    "name": "seviper",
+    "types": [
+      "poison"
+    ],
+    "hp": 73,
+    "atk": 100,
+    "def": 60,
+    "sAt": 100,
+    "sDf": 60,
+    "spd": 65,
+    "bst": 458
+  },
+  {
+    "natNum": 337,
+    "name": "lunatone",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "hp": 70,
+    "atk": 55,
+    "def": 65,
+    "sAt": 95,
+    "sDf": 85,
+    "spd": 70,
+    "bst": 440
+  },
+  {
+    "natNum": 338,
+    "name": "solrock",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "hp": 70,
+    "atk": 95,
+    "def": 85,
+    "sAt": 55,
+    "sDf": 65,
+    "spd": 70,
+    "bst": 440
+  },
+  {
+    "natNum": 339,
+    "name": "barboach",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "hp": 50,
+    "atk": 48,
+    "def": 43,
+    "sAt": 46,
+    "sDf": 41,
+    "spd": 60,
+    "bst": 288
+  },
+  {
+    "natNum": 340,
+    "name": "whiscash",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "hp": 110,
+    "atk": 78,
+    "def": 73,
+    "sAt": 76,
+    "sDf": 71,
+    "spd": 60,
+    "bst": 468
+  },
+  {
+    "natNum": 341,
+    "name": "corphish",
+    "types": [
+      "water"
+    ],
+    "hp": 43,
+    "atk": 80,
+    "def": 65,
+    "sAt": 50,
+    "sDf": 35,
+    "spd": 35,
+    "bst": 308
+  },
+  {
+    "natNum": 342,
+    "name": "crawdaunt",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "hp": 63,
+    "atk": 120,
+    "def": 85,
+    "sAt": 90,
+    "sDf": 55,
+    "spd": 55,
+    "bst": 468
+  },
+  {
+    "natNum": 343,
+    "name": "baltoy",
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "hp": 40,
+    "atk": 40,
+    "def": 55,
+    "sAt": 40,
+    "sDf": 70,
+    "spd": 55,
+    "bst": 300
+  },
+  {
+    "natNum": 344,
+    "name": "claydol",
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "hp": 60,
+    "atk": 70,
+    "def": 105,
+    "sAt": 70,
+    "sDf": 120,
+    "spd": 75,
+    "bst": 500
+  },
+  {
+    "natNum": 345,
+    "name": "lileep",
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "hp": 66,
+    "atk": 41,
+    "def": 77,
+    "sAt": 61,
+    "sDf": 87,
+    "spd": 23,
+    "bst": 355
+  },
+  {
+    "natNum": 346,
+    "name": "cradily",
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "hp": 86,
+    "atk": 81,
+    "def": 97,
+    "sAt": 81,
+    "sDf": 107,
+    "spd": 43,
+    "bst": 495
+  },
+  {
+    "natNum": 347,
+    "name": "anorith",
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "hp": 45,
+    "atk": 95,
+    "def": 50,
+    "sAt": 40,
+    "sDf": 50,
+    "spd": 75,
+    "bst": 355
+  },
+  {
+    "natNum": 348,
+    "name": "armaldo",
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "hp": 75,
+    "atk": 125,
+    "def": 100,
+    "sAt": 70,
+    "sDf": 80,
+    "spd": 45,
+    "bst": 495
+  },
+  {
+    "natNum": 349,
+    "name": "feebas",
+    "types": [
+      "water"
+    ],
+    "hp": 20,
+    "atk": 15,
+    "def": 20,
+    "sAt": 10,
+    "sDf": 55,
+    "spd": 80,
+    "bst": 200
+  },
+  {
+    "natNum": 350,
+    "name": "milotic",
+    "types": [
+      "water"
+    ],
+    "hp": 95,
+    "atk": 60,
+    "def": 79,
+    "sAt": 100,
+    "sDf": 125,
+    "spd": 81,
+    "bst": 540
+  },
+  {
+    "natNum": 351,
+    "name": "castform",
+    "types": [
+      "normal"
+    ],
+    "hp": 70,
+    "atk": 70,
+    "def": 70,
+    "sAt": 70,
+    "sDf": 70,
+    "spd": 70,
+    "bst": 420
+  },
+  {
+    "natNum": 351,
+    "name": "castform",
+    "types": [
+      "fire"
+    ],
+    "hp": 70,
+    "atk": 70,
+    "def": 70,
+    "sAt": 70,
+    "sDf": 70,
+    "spd": 70,
+    "bst": 420
+  },
+  {
+    "natNum": 351,
+    "name": "castform",
+    "types": [
+      "water"
+    ],
+    "hp": 70,
+    "atk": 70,
+    "def": 70,
+    "sAt": 70,
+    "sDf": 70,
+    "spd": 70,
+    "bst": 420
+  },
+  {
+    "natNum": 351,
+    "name": "castform",
+    "types": [
+      "ice"
+    ],
+    "hp": 70,
+    "atk": 70,
+    "def": 70,
+    "sAt": 70,
+    "sDf": 70,
+    "spd": 70,
+    "bst": 420
+  },
+  {
+    "natNum": 352,
+    "name": "kecleon",
+    "types": [
+      "normal"
+    ],
+    "hp": 60,
+    "atk": 90,
+    "def": 70,
+    "sAt": 60,
+    "sDf": 120,
+    "spd": 40,
+    "bst": 440
+  },
+  {
+    "natNum": 353,
+    "name": "shuppet",
+    "types": [
+      "ghost"
+    ],
+    "hp": 44,
+    "atk": 75,
+    "def": 35,
+    "sAt": 63,
+    "sDf": 33,
+    "spd": 45,
+    "bst": 295
+  },
+  {
+    "natNum": 354,
+    "name": "banette",
+    "types": [
+      "ghost"
+    ],
+    "hp": 64,
+    "atk": 115,
+    "def": 65,
+    "sAt": 83,
+    "sDf": 63,
+    "spd": 65,
+    "bst": 455
+  },
+  {
+    "natNum": 354,
+    "name": "mega banette",
+    "types": [
+      "ghost"
+    ],
+    "hp": 64,
+    "atk": 165,
+    "def": 75,
+    "sAt": 93,
+    "sDf": 83,
+    "spd": 75,
+    "bst": 555
+  },
+  {
+    "natNum": 355,
+    "name": "duskull",
+    "types": [
+      "ghost"
+    ],
+    "hp": 20,
+    "atk": 40,
+    "def": 90,
+    "sAt": 30,
+    "sDf": 90,
+    "spd": 25,
+    "bst": 295
+  },
+  {
+    "natNum": 356,
+    "name": "dusclops",
+    "types": [
+      "ghost"
+    ],
+    "hp": 40,
+    "atk": 70,
+    "def": 130,
+    "sAt": 60,
+    "sDf": 130,
+    "spd": 25,
+    "bst": 455
+  },
+  {
+    "natNum": 357,
+    "name": "tropius",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "hp": 99,
+    "atk": 68,
+    "def": 83,
+    "sAt": 72,
+    "sDf": 87,
+    "spd": 51,
+    "bst": 460
+  },
+  {
+    "natNum": 358,
+    "name": "chimecho",
+    "types": [
+      "psychic"
+    ],
+    "hp": 65,
+    "atk": 50,
+    "def": 70,
+    "sAt": 95,
+    "sDf": 80,
+    "spd": 65,
+    "bst": 425
+  },
+  {
+    "natNum": 359,
+    "name": "absol",
+    "types": [
+      "dark"
+    ],
+    "hp": 65,
+    "atk": 130,
+    "def": 60,
+    "sAt": 75,
+    "sDf": 60,
+    "spd": 75,
+    "bst": 465
+  },
+  {
+    "natNum": 359,
+    "name": "mega absol",
+    "types": [
+      "dark"
+    ],
+    "hp": 65,
+    "atk": 150,
+    "def": 60,
+    "sAt": 115,
+    "sDf": 60,
+    "spd": 115,
+    "bst": 565
+  },
+  {
+    "natNum": 360,
+    "name": "wynaut",
+    "types": [
+      "psychic"
+    ],
+    "hp": 95,
+    "atk": 23,
+    "def": 48,
+    "sAt": 23,
+    "sDf": 48,
+    "spd": 23,
+    "bst": 260
+  },
+  {
+    "natNum": 361,
+    "name": "snorunt",
+    "types": [
+      "ice"
+    ],
+    "hp": 50,
+    "atk": 50,
+    "def": 50,
+    "sAt": 50,
+    "sDf": 50,
+    "spd": 50,
+    "bst": 300
+  },
+  {
+    "natNum": 362,
+    "name": "glalie",
+    "types": [
+      "ice"
+    ],
+    "hp": 80,
+    "atk": 80,
+    "def": 80,
+    "sAt": 80,
+    "sDf": 80,
+    "spd": 80,
+    "bst": 480
+  },
+  {
+    "natNum": 362,
+    "name": "mega glalie",
+    "types": [
+      "ice"
+    ],
+    "hp": 80,
+    "atk": 120,
+    "def": 80,
+    "sAt": 120,
+    "sDf": 80,
+    "spd": 100,
+    "bst": 580
+  },
+  {
+    "natNum": 363,
+    "name": "spheal",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "hp": 70,
+    "atk": 40,
+    "def": 50,
+    "sAt": 55,
+    "sDf": 50,
+    "spd": 25,
+    "bst": 290
+  },
+  {
+    "natNum": 364,
+    "name": "sealeo",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "hp": 90,
+    "atk": 60,
+    "def": 70,
+    "sAt": 75,
+    "sDf": 70,
+    "spd": 45,
+    "bst": 410
+  },
+  {
+    "natNum": 365,
+    "name": "walrein",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "hp": 110,
+    "atk": 80,
+    "def": 90,
+    "sAt": 95,
+    "sDf": 90,
+    "spd": 65,
+    "bst": 530
+  },
+  {
+    "natNum": 366,
+    "name": "clamperl",
+    "types": [
+      "water"
+    ],
+    "hp": 35,
+    "atk": 64,
+    "def": 85,
+    "sAt": 74,
+    "sDf": 55,
+    "spd": 32,
+    "bst": 345
+  },
+  {
+    "natNum": 367,
+    "name": "huntail",
+    "types": [
+      "water"
+    ],
+    "hp": 55,
+    "atk": 104,
+    "def": 105,
+    "sAt": 94,
+    "sDf": 75,
+    "spd": 52,
+    "bst": 485
+  },
+  {
+    "natNum": 368,
+    "name": "gorebyss",
+    "types": [
+      "water"
+    ],
+    "hp": 55,
+    "atk": 84,
+    "def": 105,
+    "sAt": 114,
+    "sDf": 75,
+    "spd": 52,
+    "bst": 485
+  },
+  {
+    "natNum": 369,
+    "name": "relicanth",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "hp": 100,
+    "atk": 90,
+    "def": 130,
+    "sAt": 45,
+    "sDf": 65,
+    "spd": 55,
+    "bst": 485
+  },
+  {
+    "natNum": 370,
+    "name": "luvdisc",
+    "types": [
+      "water"
+    ],
+    "hp": 43,
+    "atk": 30,
+    "def": 55,
+    "sAt": 40,
+    "sDf": 65,
+    "spd": 97,
+    "bst": 330
+  },
+  {
+    "natNum": 371,
+    "name": "bagon",
+    "types": [
+      "dragon"
+    ],
+    "hp": 45,
+    "atk": 75,
+    "def": 60,
+    "sAt": 40,
+    "sDf": 30,
+    "spd": 50,
+    "bst": 300
+  },
+  {
+    "natNum": 372,
+    "name": "shelgon",
+    "types": [
+      "dragon"
+    ],
+    "hp": 65,
+    "atk": 95,
+    "def": 100,
+    "sAt": 60,
+    "sDf": 50,
+    "spd": 50,
+    "bst": 420
+  },
+  {
+    "natNum": 373,
+    "name": "salamence",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "hp": 95,
+    "atk": 135,
+    "def": 80,
+    "sAt": 110,
+    "sDf": 80,
+    "spd": 100,
+    "bst": 600
+  },
+  {
+    "natNum": 373,
+    "name": "mega salamence",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "hp": 95,
+    "atk": 145,
+    "def": 130,
+    "sAt": 120,
+    "sDf": 90,
+    "spd": 120,
+    "bst": 700
+  },
+  {
+    "natNum": 374,
+    "name": "beldum",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "hp": 40,
+    "atk": 55,
+    "def": 80,
+    "sAt": 35,
+    "sDf": 60,
+    "spd": 30,
+    "bst": 300
+  },
+  {
+    "natNum": 375,
+    "name": "metang",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "hp": 60,
+    "atk": 75,
+    "def": 100,
+    "sAt": 55,
+    "sDf": 80,
+    "spd": 50,
+    "bst": 420
+  },
+  {
+    "natNum": 376,
+    "name": "metagross",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "hp": 80,
+    "atk": 135,
+    "def": 130,
+    "sAt": 95,
+    "sDf": 90,
+    "spd": 70,
+    "bst": 600
+  },
+  {
+    "natNum": 376,
+    "name": "mega metagross",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "hp": 80,
+    "atk": 145,
+    "def": 150,
+    "sAt": 105,
+    "sDf": 110,
+    "spd": 110,
+    "bst": 700
+  },
+  {
+    "natNum": 377,
+    "name": "regirock",
+    "types": [
+      "rock"
+    ],
+    "hp": 80,
+    "atk": 100,
+    "def": 200,
+    "sAt": 50,
+    "sDf": 100,
+    "spd": 50,
+    "bst": 580
+  },
+  {
+    "natNum": 378,
+    "name": "regice",
+    "types": [
+      "ice"
+    ],
+    "hp": 80,
+    "atk": 50,
+    "def": 100,
+    "sAt": 100,
+    "sDf": 200,
+    "spd": 50,
+    "bst": 580
+  },
+  {
+    "natNum": 379,
+    "name": "registeel",
+    "types": [
+      "steel"
+    ],
+    "hp": 80,
+    "atk": 75,
+    "def": 150,
+    "sAt": 75,
+    "sDf": 150,
+    "spd": 50,
+    "bst": 580
+  },
+  {
+    "natNum": 380,
+    "name": "latias",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "hp": 80,
+    "atk": 80,
+    "def": 90,
+    "sAt": 110,
+    "sDf": 130,
+    "spd": 110,
+    "bst": 600
+  },
+  {
+    "natNum": 380,
+    "name": "mega latias",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "hp": 80,
+    "atk": 100,
+    "def": 120,
+    "sAt": 140,
+    "sDf": 150,
+    "spd": 110,
+    "bst": 700
+  },
+  {
+    "natNum": 381,
+    "name": "latios",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "hp": 80,
+    "atk": 90,
+    "def": 80,
+    "sAt": 130,
+    "sDf": 110,
+    "spd": 110,
+    "bst": 600
+  },
+  {
+    "natNum": 381,
+    "name": "mega latios",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "hp": 80,
+    "atk": 130,
+    "def": 100,
+    "sAt": 160,
+    "sDf": 120,
+    "spd": 110,
+    "bst": 700
+  },
+  {
+    "natNum": 382,
+    "name": "kyogre",
+    "types": [
+      "water"
+    ],
+    "hp": 100,
+    "atk": 100,
+    "def": 90,
+    "sAt": 150,
+    "sDf": 140,
+    "spd": 90,
+    "bst": 670
+  },
+  {
+    "natNum": 382,
+    "name": "primal kyogre",
+    "types": [
+      "water"
+    ],
+    "hp": 100,
+    "atk": 150,
+    "def": 90,
+    "sAt": 180,
+    "sDf": 160,
+    "spd": 90,
+    "bst": 770
+  },
+  {
+    "natNum": 383,
+    "name": "groudon",
+    "types": [
+      "ground"
+    ],
+    "hp": 100,
+    "atk": 150,
+    "def": 140,
+    "sAt": 100,
+    "sDf": 90,
+    "spd": 90,
+    "bst": 670
+  },
+  {
+    "natNum": 383,
+    "name": "primal groudon",
+    "types": [
+      "ground",
+      "fire"
+    ],
+    "hp": 100,
+    "atk": 180,
+    "def": 160,
+    "sAt": 150,
+    "sDf": 90,
+    "spd": 90,
+    "bst": 770
+  },
+  {
+    "natNum": 384,
+    "name": "rayquaza",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "hp": 105,
+    "atk": 150,
+    "def": 90,
+    "sAt": 150,
+    "sDf": 90,
+    "spd": 95,
+    "bst": 680
+  },
+  {
+    "natNum": 384,
+    "name": "mega rayquaza",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "hp": 105,
+    "atk": 180,
+    "def": 100,
+    "sAt": 180,
+    "sDf": 100,
+    "spd": 115,
+    "bst": 780
+  },
+  {
+    "natNum": 385,
+    "name": "jirachi",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "sAt": 100,
+    "sDf": 100,
+    "spd": 100,
+    "bst": 600
+  },
+  {
+    "natNum": 386,
+    "name": "deoxys",
+    "types": [
+      "psychic"
+    ],
+    "hp": 50,
+    "atk": 150,
+    "def": 50,
+    "sAt": 150,
+    "sDf": 50,
+    "spd": 150,
+    "bst": 600
+  },
+  {
+    "natNum": 386,
+    "name": "deoxys",
+    "types": [
+      "psychic"
+    ],
+    "hp": 50,
+    "atk": 180,
+    "def": 20,
+    "sAt": 180,
+    "sDf": 20,
+    "spd": 150,
+    "bst": 600
+  },
+  {
+    "natNum": 386,
+    "name": "deoxys",
+    "types": [
+      "psychic"
+    ],
+    "hp": 50,
+    "atk": 70,
+    "def": 160,
+    "sAt": 70,
+    "sDf": 160,
+    "spd": 90,
+    "bst": 600
+  },
+  {
+    "natNum": 386,
+    "name": "deoxys",
+    "types": [
+      "psychic"
+    ],
+    "hp": 50,
+    "atk": 95,
+    "def": 90,
+    "sAt": 95,
+    "sDf": 90,
+    "spd": 180,
+    "bst": 600
+  },
+  {
+    "natNum": 387,
+    "name": "turtwig",
+    "types": [
+      "grass"
+    ],
+    "hp": 55,
+    "atk": 68,
+    "def": 64,
+    "sAt": 45,
+    "sDf": 55,
+    "spd": 31,
+    "bst": 318
+  },
+  {
+    "natNum": 388,
+    "name": "grotle",
+    "types": [
+      "grass"
+    ],
+    "hp": 75,
+    "atk": 89,
+    "def": 85,
+    "sAt": 55,
+    "sDf": 65,
+    "spd": 36,
+    "bst": 405
+  },
+  {
+    "natNum": 389,
+    "name": "torterra",
+    "types": [
+      "grass",
+      "ground"
+    ],
+    "hp": 95,
+    "atk": 109,
+    "def": 105,
+    "sAt": 75,
+    "sDf": 85,
+    "spd": 56,
+    "bst": 525
+  },
+  {
+    "natNum": 390,
+    "name": "chimchar",
+    "types": [
+      "fire"
+    ],
+    "hp": 44,
+    "atk": 58,
+    "def": 44,
+    "sAt": 58,
+    "sDf": 44,
+    "spd": 61,
+    "bst": 309
+  },
+  {
+    "natNum": 391,
+    "name": "monferno",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "hp": 64,
+    "atk": 78,
+    "def": 52,
+    "sAt": 78,
+    "sDf": 52,
+    "spd": 81,
+    "bst": 405
+  },
+  {
+    "natNum": 392,
+    "name": "infernape",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "hp": 76,
+    "atk": 104,
+    "def": 71,
+    "sAt": 104,
+    "sDf": 71,
+    "spd": 108,
+    "bst": 534
+  },
+  {
+    "natNum": 393,
+    "name": "piplup",
+    "types": [
+      "water"
+    ],
+    "hp": 53,
+    "atk": 51,
+    "def": 53,
+    "sAt": 61,
+    "sDf": 56,
+    "spd": 40,
+    "bst": 314
+  },
+  {
+    "natNum": 394,
+    "name": "prinplup",
+    "types": [
+      "water"
+    ],
+    "hp": 64,
+    "atk": 66,
+    "def": 68,
+    "sAt": 81,
+    "sDf": 76,
+    "spd": 50,
+    "bst": 405
+  },
+  {
+    "natNum": 395,
+    "name": "empoleon",
+    "types": [
+      "water",
+      "steel"
+    ],
+    "hp": 84,
+    "atk": 86,
+    "def": 88,
+    "sAt": 111,
+    "sDf": 101,
+    "spd": 60,
+    "bst": 530
+  },
+  {
+    "natNum": 396,
+    "name": "starly",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 40,
+    "atk": 55,
+    "def": 30,
+    "sAt": 30,
+    "sDf": 30,
+    "spd": 60,
+    "bst": 245
+  },
+  {
+    "natNum": 397,
+    "name": "staravia",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 55,
+    "atk": 75,
+    "def": 50,
+    "sAt": 40,
+    "sDf": 40,
+    "spd": 80,
+    "bst": 340
+  },
+  {
+    "natNum": 398,
+    "name": "staraptor",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 85,
+    "atk": 120,
+    "def": 70,
+    "sAt": 50,
+    "sDf": 60,
+    "spd": 100,
+    "bst": 485
+  },
+  {
+    "natNum": 399,
+    "name": "bidoof",
+    "types": [
+      "normal"
+    ],
+    "hp": 59,
+    "atk": 45,
+    "def": 40,
+    "sAt": 35,
+    "sDf": 40,
+    "spd": 31,
+    "bst": 250
+  },
+  {
+    "natNum": 400,
+    "name": "bibarel",
+    "types": [
+      "normal",
+      "water"
+    ],
+    "hp": 79,
+    "atk": 85,
+    "def": 60,
+    "sAt": 55,
+    "sDf": 60,
+    "spd": 71,
+    "bst": 410
+  },
+  {
+    "natNum": 401,
+    "name": "kricketot",
+    "types": [
+      "bug"
+    ],
+    "hp": 37,
+    "atk": 25,
+    "def": 41,
+    "sAt": 25,
+    "sDf": 41,
+    "spd": 25,
+    "bst": 194
+  },
+  {
+    "natNum": 402,
+    "name": "kricketune",
+    "types": [
+      "bug"
+    ],
+    "hp": 77,
+    "atk": 85,
+    "def": 51,
+    "sAt": 55,
+    "sDf": 51,
+    "spd": 65,
+    "bst": 384
+  },
+  {
+    "natNum": 403,
+    "name": "shinx",
+    "types": [
+      "electric"
+    ],
+    "hp": 45,
+    "atk": 65,
+    "def": 34,
+    "sAt": 40,
+    "sDf": 34,
+    "spd": 45,
+    "bst": 263
+  },
+  {
+    "natNum": 404,
+    "name": "luxio",
+    "types": [
+      "electric"
+    ],
+    "hp": 60,
+    "atk": 85,
+    "def": 49,
+    "sAt": 60,
+    "sDf": 49,
+    "spd": 60,
+    "bst": 363
+  },
+  {
+    "natNum": 405,
+    "name": "luxray",
+    "types": [
+      "electric"
+    ],
+    "hp": 80,
+    "atk": 120,
+    "def": 79,
+    "sAt": 95,
+    "sDf": 79,
+    "spd": 70,
+    "bst": 523
+  },
+  {
+    "natNum": 406,
+    "name": "budew",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 40,
+    "atk": 30,
+    "def": 35,
+    "sAt": 50,
+    "sDf": 70,
+    "spd": 55,
+    "bst": 280
+  },
+  {
+    "natNum": 407,
+    "name": "roserade",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 60,
+    "atk": 70,
+    "def": 65,
+    "sAt": 125,
+    "sDf": 105,
+    "spd": 90,
+    "bst": 515
+  },
+  {
+    "natNum": 408,
+    "name": "cranidos",
+    "types": [
+      "rock"
+    ],
+    "hp": 67,
+    "atk": 125,
+    "def": 40,
+    "sAt": 30,
+    "sDf": 30,
+    "spd": 58,
+    "bst": 350
+  },
+  {
+    "natNum": 409,
+    "name": "rampardos",
+    "types": [
+      "rock"
+    ],
+    "hp": 97,
+    "atk": 165,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 50,
+    "spd": 58,
+    "bst": 495
+  },
+  {
+    "natNum": 410,
+    "name": "shieldon",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "hp": 30,
+    "atk": 42,
+    "def": 118,
+    "sAt": 42,
+    "sDf": 88,
+    "spd": 30,
+    "bst": 350
+  },
+  {
+    "natNum": 411,
+    "name": "bastiodon",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "hp": 60,
+    "atk": 52,
+    "def": 168,
+    "sAt": 47,
+    "sDf": 138,
+    "spd": 30,
+    "bst": 495
+  },
+  {
+    "natNum": 412,
+    "name": "burmy",
+    "types": [
+      "bug"
+    ],
+    "hp": 40,
+    "atk": 29,
+    "def": 45,
+    "sAt": 29,
+    "sDf": 45,
+    "spd": 36,
+    "bst": 224
+  },
+  {
+    "natNum": 413,
+    "name": "wormadam",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "hp": 60,
+    "atk": 59,
+    "def": 85,
+    "sAt": 79,
+    "sDf": 105,
+    "spd": 36,
+    "bst": 424
+  },
+  {
+    "natNum": 413,
+    "name": "wormadam",
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "hp": 60,
+    "atk": 79,
+    "def": 105,
+    "sAt": 59,
+    "sDf": 85,
+    "spd": 36,
+    "bst": 424
+  },
+  {
+    "natNum": 413,
+    "name": "wormadam",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "hp": 60,
+    "atk": 69,
+    "def": 95,
+    "sAt": 69,
+    "sDf": 95,
+    "spd": 36,
+    "bst": 424
+  },
+  {
+    "natNum": 414,
+    "name": "mothim",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 70,
+    "atk": 94,
+    "def": 50,
+    "sAt": 94,
+    "sDf": 50,
+    "spd": 66,
+    "bst": 424
+  },
+  {
+    "natNum": 415,
+    "name": "combee",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 30,
+    "atk": 30,
+    "def": 42,
+    "sAt": 30,
+    "sDf": 42,
+    "spd": 70,
+    "bst": 244
+  },
+  {
+    "natNum": 416,
+    "name": "vespiquen",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 70,
+    "atk": 80,
+    "def": 102,
+    "sAt": 80,
+    "sDf": 102,
+    "spd": 40,
+    "bst": 474
+  },
+  {
+    "natNum": 417,
+    "name": "pachirisu",
+    "types": [
+      "electric"
+    ],
+    "hp": 60,
+    "atk": 45,
+    "def": 70,
+    "sAt": 45,
+    "sDf": 90,
+    "spd": 95,
+    "bst": 405
+  },
+  {
+    "natNum": 418,
+    "name": "buizel",
+    "types": [
+      "water"
+    ],
+    "hp": 55,
+    "atk": 65,
+    "def": 35,
+    "sAt": 60,
+    "sDf": 30,
+    "spd": 85,
+    "bst": 330
+  },
+  {
+    "natNum": 419,
+    "name": "floatzel",
+    "types": [
+      "water"
+    ],
+    "hp": 85,
+    "atk": 105,
+    "def": 55,
+    "sAt": 85,
+    "sDf": 50,
+    "spd": 115,
+    "bst": 495
+  },
+  {
+    "natNum": 420,
+    "name": "cherubi",
+    "types": [
+      "grass"
+    ],
+    "hp": 45,
+    "atk": 35,
+    "def": 45,
+    "sAt": 62,
+    "sDf": 53,
+    "spd": 35,
+    "bst": 275
+  },
+  {
+    "natNum": 421,
+    "name": "cherrim",
+    "types": [
+      "grass"
+    ],
+    "hp": 70,
+    "atk": 60,
+    "def": 70,
+    "sAt": 87,
+    "sDf": 78,
+    "spd": 85,
+    "bst": 450
+  },
+  {
+    "natNum": 421,
+    "name": "cherrim",
+    "types": [
+      "grass"
+    ],
+    "hp": 70,
+    "atk": 60,
+    "def": 70,
+    "sAt": 87,
+    "sDf": 78,
+    "spd": 85,
+    "bst": 450
+  },
+  {
+    "natNum": 422,
+    "name": "shellos",
+    "types": [
+      "water"
+    ],
+    "hp": 76,
+    "atk": 48,
+    "def": 48,
+    "sAt": 57,
+    "sDf": 62,
+    "spd": 34,
+    "bst": 325
+  },
+  {
+    "natNum": 423,
+    "name": "gastrodon",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "hp": 111,
+    "atk": 83,
+    "def": 68,
+    "sAt": 92,
+    "sDf": 82,
+    "spd": 39,
+    "bst": 475
+  },
+  {
+    "natNum": 424,
+    "name": "ambipom",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 100,
+    "def": 66,
+    "sAt": 60,
+    "sDf": 66,
+    "spd": 115,
+    "bst": 482
+  },
+  {
+    "natNum": 425,
+    "name": "drifloon",
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "hp": 90,
+    "atk": 50,
+    "def": 34,
+    "sAt": 60,
+    "sDf": 44,
+    "spd": 70,
+    "bst": 348
+  },
+  {
+    "natNum": 426,
+    "name": "drifblim",
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "hp": 150,
+    "atk": 80,
+    "def": 44,
+    "sAt": 90,
+    "sDf": 54,
+    "spd": 80,
+    "bst": 498
+  },
+  {
+    "natNum": 427,
+    "name": "buneary",
+    "types": [
+      "normal"
+    ],
+    "hp": 55,
+    "atk": 66,
+    "def": 44,
+    "sAt": 44,
+    "sDf": 56,
+    "spd": 85,
+    "bst": 350
+  },
+  {
+    "natNum": 428,
+    "name": "lopunny",
+    "types": [
+      "normal"
+    ],
+    "hp": 65,
+    "atk": 76,
+    "def": 84,
+    "sAt": 54,
+    "sDf": 96,
+    "spd": 105,
+    "bst": 480
+  },
+  {
+    "natNum": 428,
+    "name": "mega lopunny",
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "hp": 65,
+    "atk": 136,
+    "def": 94,
+    "sAt": 54,
+    "sDf": 96,
+    "spd": 135,
+    "bst": 580
+  },
+  {
+    "natNum": 429,
+    "name": "mismagius",
+    "types": [
+      "ghost"
+    ],
+    "hp": 60,
+    "atk": 60,
+    "def": 60,
+    "sAt": 105,
+    "sDf": 105,
+    "spd": 105,
+    "bst": 495
+  },
+  {
+    "natNum": 430,
+    "name": "honchkrow",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "hp": 100,
+    "atk": 125,
+    "def": 52,
+    "sAt": 105,
+    "sDf": 52,
+    "spd": 71,
+    "bst": 505
+  },
+  {
+    "natNum": 431,
+    "name": "glameow",
+    "types": [
+      "normal"
+    ],
+    "hp": 49,
+    "atk": 55,
+    "def": 42,
+    "sAt": 42,
+    "sDf": 37,
+    "spd": 85,
+    "bst": 310
+  },
+  {
+    "natNum": 432,
+    "name": "purugly",
+    "types": [
+      "normal"
+    ],
+    "hp": 71,
+    "atk": 82,
+    "def": 64,
+    "sAt": 64,
+    "sDf": 59,
+    "spd": 112,
+    "bst": 452
+  },
+  {
+    "natNum": 433,
+    "name": "chingling",
+    "types": [
+      "psychic"
+    ],
+    "hp": 45,
+    "atk": 30,
+    "def": 50,
+    "sAt": 65,
+    "sDf": 50,
+    "spd": 45,
+    "bst": 285
+  },
+  {
+    "natNum": 434,
+    "name": "stunky",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "hp": 63,
+    "atk": 63,
+    "def": 47,
+    "sAt": 41,
+    "sDf": 41,
+    "spd": 74,
+    "bst": 329
+  },
+  {
+    "natNum": 435,
+    "name": "skuntank",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "hp": 103,
+    "atk": 93,
+    "def": 67,
+    "sAt": 71,
+    "sDf": 61,
+    "spd": 84,
+    "bst": 479
+  },
+  {
+    "natNum": 436,
+    "name": "bronzor",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "hp": 57,
+    "atk": 24,
+    "def": 86,
+    "sAt": 24,
+    "sDf": 86,
+    "spd": 23,
+    "bst": 300
+  },
+  {
+    "natNum": 437,
+    "name": "bronzong",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "hp": 67,
+    "atk": 89,
+    "def": 116,
+    "sAt": 79,
+    "sDf": 116,
+    "spd": 33,
+    "bst": 500
+  },
+  {
+    "natNum": 438,
+    "name": "bonsly",
+    "types": [
+      "rock"
+    ],
+    "hp": 50,
+    "atk": 80,
+    "def": 95,
+    "sAt": 10,
+    "sDf": 45,
+    "spd": 10,
+    "bst": 290
+  },
+  {
+    "natNum": 439,
+    "name": "mime jr.",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "hp": 20,
+    "atk": 25,
+    "def": 45,
+    "sAt": 70,
+    "sDf": 90,
+    "spd": 60,
+    "bst": 310
+  },
+  {
+    "natNum": 440,
+    "name": "happiny",
+    "types": [
+      "normal"
+    ],
+    "hp": 100,
+    "atk": 5,
+    "def": 5,
+    "sAt": 15,
+    "sDf": 65,
+    "spd": 30,
+    "bst": 220
+  },
+  {
+    "natNum": 441,
+    "name": "chatot",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 76,
+    "atk": 65,
+    "def": 45,
+    "sAt": 92,
+    "sDf": 42,
+    "spd": 91,
+    "bst": 411
+  },
+  {
+    "natNum": 442,
+    "name": "spiritomb",
+    "types": [
+      "ghost",
+      "dark"
+    ],
+    "hp": 50,
+    "atk": 92,
+    "def": 108,
+    "sAt": 92,
+    "sDf": 108,
+    "spd": 35,
+    "bst": 485
+  },
+  {
+    "natNum": 443,
+    "name": "gible",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "hp": 58,
+    "atk": 70,
+    "def": 45,
+    "sAt": 40,
+    "sDf": 45,
+    "spd": 42,
+    "bst": 300
+  },
+  {
+    "natNum": 444,
+    "name": "gabite",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "hp": 68,
+    "atk": 90,
+    "def": 65,
+    "sAt": 50,
+    "sDf": 55,
+    "spd": 82,
+    "bst": 410
+  },
+  {
+    "natNum": 445,
+    "name": "garchomp",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "hp": 108,
+    "atk": 130,
+    "def": 95,
+    "sAt": 80,
+    "sDf": 85,
+    "spd": 102,
+    "bst": 600
+  },
+  {
+    "natNum": 445,
+    "name": "mega garchomp",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "hp": 108,
+    "atk": 170,
+    "def": 115,
+    "sAt": 120,
+    "sDf": 95,
+    "spd": 92,
+    "bst": 700
+  },
+  {
+    "natNum": 446,
+    "name": "munchlax",
+    "types": [
+      "normal"
+    ],
+    "hp": 135,
+    "atk": 85,
+    "def": 40,
+    "sAt": 40,
+    "sDf": 85,
+    "spd": 5,
+    "bst": 390
+  },
+  {
+    "natNum": 447,
+    "name": "riolu",
+    "types": [
+      "fighting"
+    ],
+    "hp": 40,
+    "atk": 70,
+    "def": 40,
+    "sAt": 35,
+    "sDf": 40,
+    "spd": 60,
+    "bst": 285
+  },
+  {
+    "natNum": 448,
+    "name": "lucario",
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "hp": 70,
+    "atk": 110,
+    "def": 70,
+    "sAt": 115,
+    "sDf": 70,
+    "spd": 90,
+    "bst": 525
+  },
+  {
+    "natNum": 448,
+    "name": "mega lucario",
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "hp": 70,
+    "atk": 145,
+    "def": 88,
+    "sAt": 140,
+    "sDf": 70,
+    "spd": 112,
+    "bst": 625
+  },
+  {
+    "natNum": 449,
+    "name": "hippopotas",
+    "types": [
+      "ground"
+    ],
+    "hp": 68,
+    "atk": 72,
+    "def": 78,
+    "sAt": 38,
+    "sDf": 42,
+    "spd": 32,
+    "bst": 330
+  },
+  {
+    "natNum": 450,
+    "name": "hippowdon",
+    "types": [
+      "ground"
+    ],
+    "hp": 108,
+    "atk": 112,
+    "def": 118,
+    "sAt": 68,
+    "sDf": 72,
+    "spd": 47,
+    "bst": 525
+  },
+  {
+    "natNum": 451,
+    "name": "skorupi",
+    "types": [
+      "poison",
+      "bug"
+    ],
+    "hp": 40,
+    "atk": 50,
+    "def": 90,
+    "sAt": 30,
+    "sDf": 55,
+    "spd": 65,
+    "bst": 330
+  },
+  {
+    "natNum": 452,
+    "name": "drapion",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "hp": 70,
+    "atk": 90,
+    "def": 110,
+    "sAt": 60,
+    "sDf": 75,
+    "spd": 95,
+    "bst": 500
+  },
+  {
+    "natNum": 453,
+    "name": "croagunk",
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "hp": 48,
+    "atk": 61,
+    "def": 40,
+    "sAt": 61,
+    "sDf": 40,
+    "spd": 50,
+    "bst": 300
+  },
+  {
+    "natNum": 454,
+    "name": "toxicroak",
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "hp": 83,
+    "atk": 106,
+    "def": 65,
+    "sAt": 86,
+    "sDf": 65,
+    "spd": 85,
+    "bst": 490
+  },
+  {
+    "natNum": 455,
+    "name": "carnivine",
+    "types": [
+      "grass"
+    ],
+    "hp": 74,
+    "atk": 100,
+    "def": 72,
+    "sAt": 90,
+    "sDf": 72,
+    "spd": 46,
+    "bst": 454
+  },
+  {
+    "natNum": 456,
+    "name": "finneon",
+    "types": [
+      "water"
+    ],
+    "hp": 49,
+    "atk": 49,
+    "def": 56,
+    "sAt": 49,
+    "sDf": 61,
+    "spd": 66,
+    "bst": 330
+  },
+  {
+    "natNum": 457,
+    "name": "lumineon",
+    "types": [
+      "water"
+    ],
+    "hp": 69,
+    "atk": 69,
+    "def": 76,
+    "sAt": 69,
+    "sDf": 86,
+    "spd": 91,
+    "bst": 460
+  },
+  {
+    "natNum": 458,
+    "name": "mantyke",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "hp": 45,
+    "atk": 20,
+    "def": 50,
+    "sAt": 60,
+    "sDf": 120,
+    "spd": 50,
+    "bst": 345
+  },
+  {
+    "natNum": 459,
+    "name": "snover",
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "hp": 60,
+    "atk": 62,
+    "def": 50,
+    "sAt": 62,
+    "sDf": 60,
+    "spd": 40,
+    "bst": 334
+  },
+  {
+    "natNum": 460,
+    "name": "abomasnow",
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "hp": 90,
+    "atk": 92,
+    "def": 75,
+    "sAt": 92,
+    "sDf": 85,
+    "spd": 60,
+    "bst": 494
+  },
+  {
+    "natNum": 460,
+    "name": "mega abomasnow",
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "hp": 90,
+    "atk": 132,
+    "def": 105,
+    "sAt": 132,
+    "sDf": 105,
+    "spd": 30,
+    "bst": 594
+  },
+  {
+    "natNum": 461,
+    "name": "weavile",
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "hp": 70,
+    "atk": 120,
+    "def": 65,
+    "sAt": 45,
+    "sDf": 85,
+    "spd": 125,
+    "bst": 510
+  },
+  {
+    "natNum": 462,
+    "name": "magnezone",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "hp": 70,
+    "atk": 70,
+    "def": 115,
+    "sAt": 130,
+    "sDf": 90,
+    "spd": 60,
+    "bst": 535
+  },
+  {
+    "natNum": 463,
+    "name": "lickilicky",
+    "types": [
+      "normal"
+    ],
+    "hp": 110,
+    "atk": 85,
+    "def": 95,
+    "sAt": 80,
+    "sDf": 95,
+    "spd": 50,
+    "bst": 515
+  },
+  {
+    "natNum": 464,
+    "name": "rhyperior",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "hp": 115,
+    "atk": 140,
+    "def": 130,
+    "sAt": 55,
+    "sDf": 55,
+    "spd": 40,
+    "bst": 535
+  },
+  {
+    "natNum": 465,
+    "name": "tangrowth",
+    "types": [
+      "grass"
+    ],
+    "hp": 100,
+    "atk": 100,
+    "def": 125,
+    "sAt": 110,
+    "sDf": 50,
+    "spd": 50,
+    "bst": 535
+  },
+  {
+    "natNum": 466,
+    "name": "electivire",
+    "types": [
+      "electric"
+    ],
+    "hp": 75,
+    "atk": 123,
+    "def": 67,
+    "sAt": 95,
+    "sDf": 85,
+    "spd": 95,
+    "bst": 540
+  },
+  {
+    "natNum": 467,
+    "name": "magmortar",
+    "types": [
+      "fire"
+    ],
+    "hp": 75,
+    "atk": 95,
+    "def": 67,
+    "sAt": 125,
+    "sDf": 95,
+    "spd": 83,
+    "bst": 540
+  },
+  {
+    "natNum": 468,
+    "name": "togekiss",
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "hp": 85,
+    "atk": 50,
+    "def": 95,
+    "sAt": 120,
+    "sDf": 115,
+    "spd": 80,
+    "bst": 545
+  },
+  {
+    "natNum": 469,
+    "name": "yanmega",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 86,
+    "atk": 76,
+    "def": 86,
+    "sAt": 116,
+    "sDf": 56,
+    "spd": 95,
+    "bst": 515
+  },
+  {
+    "natNum": 470,
+    "name": "leafeon",
+    "types": [
+      "grass"
+    ],
+    "hp": 65,
+    "atk": 110,
+    "def": 130,
+    "sAt": 60,
+    "sDf": 65,
+    "spd": 95,
+    "bst": 525
+  },
+  {
+    "natNum": 471,
+    "name": "glaceon",
+    "types": [
+      "ice"
+    ],
+    "hp": 65,
+    "atk": 60,
+    "def": 110,
+    "sAt": 130,
+    "sDf": 95,
+    "spd": 65,
+    "bst": 525
+  },
+  {
+    "natNum": 472,
+    "name": "gliscor",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "hp": 75,
+    "atk": 95,
+    "def": 125,
+    "sAt": 45,
+    "sDf": 75,
+    "spd": 95,
+    "bst": 510
+  },
+  {
+    "natNum": 473,
+    "name": "mamoswine",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "hp": 110,
+    "atk": 130,
+    "def": 80,
+    "sAt": 70,
+    "sDf": 60,
+    "spd": 80,
+    "bst": 530
+  },
+  {
+    "natNum": 474,
+    "name": "porygon-z",
+    "types": [
+      "normal"
+    ],
+    "hp": 85,
+    "atk": 80,
+    "def": 70,
+    "sAt": 135,
+    "sDf": 75,
+    "spd": 90,
+    "bst": 535
+  },
+  {
+    "natNum": 475,
+    "name": "gallade",
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "hp": 68,
+    "atk": 125,
+    "def": 65,
+    "sAt": 65,
+    "sDf": 115,
+    "spd": 80,
+    "bst": 518
+  },
+  {
+    "natNum": 475,
+    "name": "mega gallade",
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "hp": 68,
+    "atk": 165,
+    "def": 95,
+    "sAt": 65,
+    "sDf": 115,
+    "spd": 110,
+    "bst": 618
+  },
+  {
+    "natNum": 476,
+    "name": "probopass",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "hp": 60,
+    "atk": 55,
+    "def": 145,
+    "sAt": 75,
+    "sDf": 150,
+    "spd": 40,
+    "bst": 525
+  },
+  {
+    "natNum": 477,
+    "name": "dusknoir",
+    "types": [
+      "ghost"
+    ],
+    "hp": 45,
+    "atk": 100,
+    "def": 135,
+    "sAt": 65,
+    "sDf": 135,
+    "spd": 45,
+    "bst": 525
+  },
+  {
+    "natNum": 478,
+    "name": "froslass",
+    "types": [
+      "ice",
+      "ghost"
+    ],
+    "hp": 70,
+    "atk": 80,
+    "def": 70,
+    "sAt": 80,
+    "sDf": 70,
+    "spd": 110,
+    "bst": 480
+  },
+  {
+    "natNum": 479,
+    "name": "rotom",
+    "types": [
+      "electric",
+      "ghost"
+    ],
+    "hp": 50,
+    "atk": 50,
+    "def": 77,
+    "sAt": 95,
+    "sDf": 77,
+    "spd": 91,
+    "bst": 440
+  },
+  {
+    "natNum": 479,
+    "name": "rotom",
+    "types": [
+      "electric",
+      "fire"
+    ],
+    "hp": 50,
+    "atk": 65,
+    "def": 107,
+    "sAt": 105,
+    "sDf": 107,
+    "spd": 86,
+    "bst": 520
+  },
+  {
+    "natNum": 479,
+    "name": "rotom",
+    "types": [
+      "electric",
+      "water"
+    ],
+    "hp": 50,
+    "atk": 65,
+    "def": 107,
+    "sAt": 105,
+    "sDf": 107,
+    "spd": 86,
+    "bst": 520
+  },
+  {
+    "natNum": 479,
+    "name": "rotom",
+    "types": [
+      "electric",
+      "ice"
+    ],
+    "hp": 50,
+    "atk": 65,
+    "def": 107,
+    "sAt": 105,
+    "sDf": 107,
+    "spd": 86,
+    "bst": 520
+  },
+  {
+    "natNum": 479,
+    "name": "rotom",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "hp": 50,
+    "atk": 65,
+    "def": 107,
+    "sAt": 105,
+    "sDf": 107,
+    "spd": 86,
+    "bst": 520
+  },
+  {
+    "natNum": 479,
+    "name": "rotom",
+    "types": [
+      "electric",
+      "grass"
+    ],
+    "hp": 50,
+    "atk": 65,
+    "def": 107,
+    "sAt": 105,
+    "sDf": 107,
+    "spd": 86,
+    "bst": 520
+  },
+  {
+    "natNum": 480,
+    "name": "uxie",
+    "types": [
+      "psychic"
+    ],
+    "hp": 75,
+    "atk": 75,
+    "def": 130,
+    "sAt": 75,
+    "sDf": 130,
+    "spd": 95,
+    "bst": 580
+  },
+  {
+    "natNum": 481,
+    "name": "mesprit",
+    "types": [
+      "psychic"
+    ],
+    "hp": 80,
+    "atk": 105,
+    "def": 105,
+    "sAt": 105,
+    "sDf": 105,
+    "spd": 80,
+    "bst": 580
+  },
+  {
+    "natNum": 482,
+    "name": "azelf",
+    "types": [
+      "psychic"
+    ],
+    "hp": 75,
+    "atk": 125,
+    "def": 70,
+    "sAt": 125,
+    "sDf": 70,
+    "spd": 115,
+    "bst": 580
+  },
+  {
+    "natNum": 483,
+    "name": "dialga",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "hp": 100,
+    "atk": 120,
+    "def": 120,
+    "sAt": 150,
+    "sDf": 100,
+    "spd": 90,
+    "bst": 680
+  },
+  {
+    "natNum": 484,
+    "name": "palkia",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "hp": 90,
+    "atk": 120,
+    "def": 100,
+    "sAt": 150,
+    "sDf": 120,
+    "spd": 100,
+    "bst": 680
+  },
+  {
+    "natNum": 485,
+    "name": "heatran",
+    "types": [
+      "fire",
+      "steel"
+    ],
+    "hp": 91,
+    "atk": 90,
+    "def": 106,
+    "sAt": 130,
+    "sDf": 106,
+    "spd": 77,
+    "bst": 600
+  },
+  {
+    "natNum": 486,
+    "name": "regigigas",
+    "types": [
+      "normal"
+    ],
+    "hp": 110,
+    "atk": 160,
+    "def": 110,
+    "sAt": 80,
+    "sDf": 110,
+    "spd": 100,
+    "bst": 670
+  },
+  {
+    "natNum": 487,
+    "name": "giratina",
+    "types": [
+      "ghost",
+      "dragon"
+    ],
+    "hp": 150,
+    "atk": 100,
+    "def": 120,
+    "sAt": 100,
+    "sDf": 120,
+    "spd": 90,
+    "bst": 680
+  },
+  {
+    "natNum": 487,
+    "name": "giratina",
+    "types": [
+      "ghost",
+      "dragon"
+    ],
+    "hp": 150,
+    "atk": 120,
+    "def": 100,
+    "sAt": 120,
+    "sDf": 100,
+    "spd": 90,
+    "bst": 680
+  },
+  {
+    "natNum": 488,
+    "name": "cresselia",
+    "types": [
+      "psychic"
+    ],
+    "hp": 120,
+    "atk": 70,
+    "def": 120,
+    "sAt": 75,
+    "sDf": 130,
+    "spd": 85,
+    "bst": 600
+  },
+  {
+    "natNum": 489,
+    "name": "phione",
+    "types": [
+      "water"
+    ],
+    "hp": 80,
+    "atk": 80,
+    "def": 80,
+    "sAt": 80,
+    "sDf": 80,
+    "spd": 80,
+    "bst": 480
+  },
+  {
+    "natNum": 490,
+    "name": "manaphy",
+    "types": [
+      "water"
+    ],
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "sAt": 100,
+    "sDf": 100,
+    "spd": 100,
+    "bst": 600
+  },
+  {
+    "natNum": 491,
+    "name": "darkrai",
+    "types": [
+      "dark"
+    ],
+    "hp": 70,
+    "atk": 90,
+    "def": 90,
+    "sAt": 135,
+    "sDf": 90,
+    "spd": 125,
+    "bst": 600
+  },
+  {
+    "natNum": 492,
+    "name": "shaymin",
+    "types": [
+      "grass"
+    ],
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "sAt": 100,
+    "sDf": 100,
+    "spd": 100,
+    "bst": 600
+  },
+  {
+    "natNum": 492,
+    "name": "shaymin",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "hp": 100,
+    "atk": 103,
+    "def": 75,
+    "sAt": 120,
+    "sDf": 75,
+    "spd": 127,
+    "bst": 600
+  },
+  {
+    "natNum": 493,
+    "name": "arceus",
+    "types": [
+      "normal"
+    ],
+    "hp": 120,
+    "atk": 120,
+    "def": 120,
+    "sAt": 120,
+    "sDf": 120,
+    "spd": 120,
+    "bst": 720
+  },
+  {
+    "natNum": 494,
+    "name": "victini",
+    "types": [
+      "psychic",
+      "fire"
+    ],
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "sAt": 100,
+    "sDf": 100,
+    "spd": 100,
+    "bst": 600
+  },
+  {
+    "natNum": 495,
+    "name": "snivy",
+    "types": [
+      "grass"
+    ],
+    "hp": 45,
+    "atk": 45,
+    "def": 55,
+    "sAt": 45,
+    "sDf": 55,
+    "spd": 63,
+    "bst": 308
+  },
+  {
+    "natNum": 496,
+    "name": "servine",
+    "types": [
+      "grass"
+    ],
+    "hp": 60,
+    "atk": 60,
+    "def": 75,
+    "sAt": 60,
+    "sDf": 75,
+    "spd": 83,
+    "bst": 413
+  },
+  {
+    "natNum": 497,
+    "name": "serperior",
+    "types": [
+      "grass"
+    ],
+    "hp": 75,
+    "atk": 75,
+    "def": 95,
+    "sAt": 75,
+    "sDf": 95,
+    "spd": 113,
+    "bst": 528
+  },
+  {
+    "natNum": 498,
+    "name": "tepig",
+    "types": [
+      "fire"
+    ],
+    "hp": 65,
+    "atk": 63,
+    "def": 45,
+    "sAt": 45,
+    "sDf": 45,
+    "spd": 45,
+    "bst": 308
+  },
+  {
+    "natNum": 499,
+    "name": "pignite",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "hp": 90,
+    "atk": 93,
+    "def": 55,
+    "sAt": 70,
+    "sDf": 55,
+    "spd": 55,
+    "bst": 418
+  },
+  {
+    "natNum": 500,
+    "name": "emboar",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "hp": 110,
+    "atk": 123,
+    "def": 65,
+    "sAt": 100,
+    "sDf": 65,
+    "spd": 65,
+    "bst": 528
+  },
+  {
+    "natNum": 501,
+    "name": "oshawott",
+    "types": [
+      "water"
+    ],
+    "hp": 55,
+    "atk": 55,
+    "def": 45,
+    "sAt": 63,
+    "sDf": 45,
+    "spd": 45,
+    "bst": 308
+  },
+  {
+    "natNum": 502,
+    "name": "dewott",
+    "types": [
+      "water"
+    ],
+    "hp": 75,
+    "atk": 75,
+    "def": 60,
+    "sAt": 83,
+    "sDf": 60,
+    "spd": 60,
+    "bst": 413
+  },
+  {
+    "natNum": 503,
+    "name": "samurott",
+    "types": [
+      "water"
+    ],
+    "hp": 95,
+    "atk": 100,
+    "def": 85,
+    "sAt": 108,
+    "sDf": 70,
+    "spd": 70,
+    "bst": 528
+  },
+  {
+    "natNum": 504,
+    "name": "patrat",
+    "types": [
+      "normal"
+    ],
+    "hp": 45,
+    "atk": 55,
+    "def": 39,
+    "sAt": 35,
+    "sDf": 39,
+    "spd": 42,
+    "bst": 255
+  },
+  {
+    "natNum": 505,
+    "name": "watchog",
+    "types": [
+      "normal"
+    ],
+    "hp": 60,
+    "atk": 85,
+    "def": 69,
+    "sAt": 60,
+    "sDf": 69,
+    "spd": 77,
+    "bst": 420
+  },
+  {
+    "natNum": 506,
+    "name": "lillipup",
+    "types": [
+      "normal"
+    ],
+    "hp": 45,
+    "atk": 60,
+    "def": 45,
+    "sAt": 25,
+    "sDf": 45,
+    "spd": 55,
+    "bst": 275
+  },
+  {
+    "natNum": 507,
+    "name": "herdier",
+    "types": [
+      "normal"
+    ],
+    "hp": 65,
+    "atk": 80,
+    "def": 65,
+    "sAt": 35,
+    "sDf": 65,
+    "spd": 60,
+    "bst": 370
+  },
+  {
+    "natNum": 508,
+    "name": "stoutland",
+    "types": [
+      "normal"
+    ],
+    "hp": 85,
+    "atk": 110,
+    "def": 90,
+    "sAt": 45,
+    "sDf": 90,
+    "spd": 80,
+    "bst": 500
+  },
+  {
+    "natNum": 509,
+    "name": "purrloin",
+    "types": [
+      "dark"
+    ],
+    "hp": 41,
+    "atk": 50,
+    "def": 37,
+    "sAt": 50,
+    "sDf": 37,
+    "spd": 66,
+    "bst": 281
+  },
+  {
+    "natNum": 510,
+    "name": "liepard",
+    "types": [
+      "dark"
+    ],
+    "hp": 64,
+    "atk": 88,
+    "def": 50,
+    "sAt": 88,
+    "sDf": 50,
+    "spd": 106,
+    "bst": 446
+  },
+  {
+    "natNum": 511,
+    "name": "pansage",
+    "types": [
+      "grass"
+    ],
+    "hp": 50,
+    "atk": 53,
+    "def": 48,
+    "sAt": 53,
+    "sDf": 48,
+    "spd": 64,
+    "bst": 316
+  },
+  {
+    "natNum": 512,
+    "name": "simisage",
+    "types": [
+      "grass"
+    ],
+    "hp": 75,
+    "atk": 98,
+    "def": 63,
+    "sAt": 98,
+    "sDf": 63,
+    "spd": 101,
+    "bst": 498
+  },
+  {
+    "natNum": 513,
+    "name": "pansear",
+    "types": [
+      "fire"
+    ],
+    "hp": 50,
+    "atk": 53,
+    "def": 48,
+    "sAt": 53,
+    "sDf": 48,
+    "spd": 64,
+    "bst": 316
+  },
+  {
+    "natNum": 514,
+    "name": "simisear",
+    "types": [
+      "fire"
+    ],
+    "hp": 75,
+    "atk": 98,
+    "def": 63,
+    "sAt": 98,
+    "sDf": 63,
+    "spd": 101,
+    "bst": 498
+  },
+  {
+    "natNum": 515,
+    "name": "panpour",
+    "types": [
+      "water"
+    ],
+    "hp": 50,
+    "atk": 53,
+    "def": 48,
+    "sAt": 53,
+    "sDf": 48,
+    "spd": 64,
+    "bst": 316
+  },
+  {
+    "natNum": 516,
+    "name": "simipour",
+    "types": [
+      "water"
+    ],
+    "hp": 75,
+    "atk": 98,
+    "def": 63,
+    "sAt": 98,
+    "sDf": 63,
+    "spd": 101,
+    "bst": 498
+  },
+  {
+    "natNum": 517,
+    "name": "munna",
+    "types": [
+      "psychic"
+    ],
+    "hp": 76,
+    "atk": 25,
+    "def": 45,
+    "sAt": 67,
+    "sDf": 55,
+    "spd": 24,
+    "bst": 292
+  },
+  {
+    "natNum": 518,
+    "name": "musharna",
+    "types": [
+      "psychic"
+    ],
+    "hp": 116,
+    "atk": 55,
+    "def": 85,
+    "sAt": 107,
+    "sDf": 95,
+    "spd": 29,
+    "bst": 487
+  },
+  {
+    "natNum": 519,
+    "name": "pidove",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 50,
+    "atk": 55,
+    "def": 50,
+    "sAt": 36,
+    "sDf": 30,
+    "spd": 43,
+    "bst": 264
+  },
+  {
+    "natNum": 520,
+    "name": "tranquill",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 62,
+    "atk": 77,
+    "def": 62,
+    "sAt": 50,
+    "sDf": 42,
+    "spd": 65,
+    "bst": 358
+  },
+  {
+    "natNum": 521,
+    "name": "unfezant",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 80,
+    "atk": 115,
+    "def": 80,
+    "sAt": 65,
+    "sDf": 55,
+    "spd": 93,
+    "bst": 488
+  },
+  {
+    "natNum": 522,
+    "name": "blitzle",
+    "types": [
+      "electric"
+    ],
+    "hp": 45,
+    "atk": 60,
+    "def": 32,
+    "sAt": 50,
+    "sDf": 32,
+    "spd": 76,
+    "bst": 295
+  },
+  {
+    "natNum": 523,
+    "name": "zebstrika",
+    "types": [
+      "electric"
+    ],
+    "hp": 75,
+    "atk": 100,
+    "def": 63,
+    "sAt": 80,
+    "sDf": 63,
+    "spd": 116,
+    "bst": 497
+  },
+  {
+    "natNum": 524,
+    "name": "roggenrola",
+    "types": [
+      "rock"
+    ],
+    "hp": 55,
+    "atk": 75,
+    "def": 85,
+    "sAt": 25,
+    "sDf": 25,
+    "spd": 15,
+    "bst": 280
+  },
+  {
+    "natNum": 525,
+    "name": "boldore",
+    "types": [
+      "rock"
+    ],
+    "hp": 70,
+    "atk": 105,
+    "def": 105,
+    "sAt": 50,
+    "sDf": 40,
+    "spd": 20,
+    "bst": 390
+  },
+  {
+    "natNum": 526,
+    "name": "gigalith",
+    "types": [
+      "rock"
+    ],
+    "hp": 85,
+    "atk": 135,
+    "def": 130,
+    "sAt": 60,
+    "sDf": 80,
+    "spd": 25,
+    "bst": 515
+  },
+  {
+    "natNum": 527,
+    "name": "woobat",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "hp": 55,
+    "atk": 45,
+    "def": 43,
+    "sAt": 55,
+    "sDf": 43,
+    "spd": 72,
+    "bst": 313
+  },
+  {
+    "natNum": 528,
+    "name": "swoobat",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "hp": 67,
+    "atk": 57,
+    "def": 55,
+    "sAt": 77,
+    "sDf": 55,
+    "spd": 114,
+    "bst": 425
+  },
+  {
+    "natNum": 529,
+    "name": "drilbur",
+    "types": [
+      "ground"
+    ],
+    "hp": 60,
+    "atk": 85,
+    "def": 40,
+    "sAt": 30,
+    "sDf": 45,
+    "spd": 68,
+    "bst": 328
+  },
+  {
+    "natNum": 530,
+    "name": "excadrill",
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "hp": 110,
+    "atk": 135,
+    "def": 60,
+    "sAt": 50,
+    "sDf": 65,
+    "spd": 88,
+    "bst": 508
+  },
+  {
+    "natNum": 531,
+    "name": "audino",
+    "types": [
+      "normal"
+    ],
+    "hp": 103,
+    "atk": 60,
+    "def": 86,
+    "sAt": 60,
+    "sDf": 86,
+    "spd": 50,
+    "bst": 445
+  },
+  {
+    "natNum": 531,
+    "name": "mega audino",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "hp": 103,
+    "atk": 60,
+    "def": 126,
+    "sAt": 80,
+    "sDf": 126,
+    "spd": 50,
+    "bst": 545
+  },
+  {
+    "natNum": 532,
+    "name": "timburr",
+    "types": [
+      "fighting"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 55,
+    "sAt": 25,
+    "sDf": 35,
+    "spd": 35,
+    "bst": 305
+  },
+  {
+    "natNum": 533,
+    "name": "gurdurr",
+    "types": [
+      "fighting"
+    ],
+    "hp": 85,
+    "atk": 105,
+    "def": 85,
+    "sAt": 40,
+    "sDf": 50,
+    "spd": 40,
+    "bst": 405
+  },
+  {
+    "natNum": 534,
+    "name": "conkeldurr",
+    "types": [
+      "fighting"
+    ],
+    "hp": 105,
+    "atk": 140,
+    "def": 95,
+    "sAt": 55,
+    "sDf": 65,
+    "spd": 45,
+    "bst": 505
+  },
+  {
+    "natNum": 535,
+    "name": "tympole",
+    "types": [
+      "water"
+    ],
+    "hp": 50,
+    "atk": 50,
+    "def": 40,
+    "sAt": 50,
+    "sDf": 40,
+    "spd": 64,
+    "bst": 294
+  },
+  {
+    "natNum": 536,
+    "name": "palpitoad",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "hp": 75,
+    "atk": 65,
+    "def": 55,
+    "sAt": 65,
+    "sDf": 55,
+    "spd": 69,
+    "bst": 384
+  },
+  {
+    "natNum": 537,
+    "name": "seismitoad",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "hp": 105,
+    "atk": 95,
+    "def": 75,
+    "sAt": 85,
+    "sDf": 75,
+    "spd": 74,
+    "bst": 509
+  },
+  {
+    "natNum": 538,
+    "name": "throh",
+    "types": [
+      "fighting"
+    ],
+    "hp": 120,
+    "atk": 100,
+    "def": 85,
+    "sAt": 30,
+    "sDf": 85,
+    "spd": 45,
+    "bst": 465
+  },
+  {
+    "natNum": 539,
+    "name": "sawk",
+    "types": [
+      "fighting"
+    ],
+    "hp": 75,
+    "atk": 125,
+    "def": 75,
+    "sAt": 30,
+    "sDf": 75,
+    "spd": 85,
+    "bst": 465
+  },
+  {
+    "natNum": 540,
+    "name": "sewaddle",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "hp": 45,
+    "atk": 53,
+    "def": 70,
+    "sAt": 40,
+    "sDf": 60,
+    "spd": 42,
+    "bst": 310
+  },
+  {
+    "natNum": 541,
+    "name": "swadloon",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "hp": 55,
+    "atk": 63,
+    "def": 90,
+    "sAt": 50,
+    "sDf": 80,
+    "spd": 42,
+    "bst": 380
+  },
+  {
+    "natNum": 542,
+    "name": "leavanny",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "hp": 75,
+    "atk": 103,
+    "def": 80,
+    "sAt": 70,
+    "sDf": 80,
+    "spd": 92,
+    "bst": 500
+  },
+  {
+    "natNum": 543,
+    "name": "venipede",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hp": 30,
+    "atk": 45,
+    "def": 59,
+    "sAt": 30,
+    "sDf": 39,
+    "spd": 57,
+    "bst": 260
+  },
+  {
+    "natNum": 544,
+    "name": "whirlipede",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hp": 40,
+    "atk": 55,
+    "def": 99,
+    "sAt": 40,
+    "sDf": 79,
+    "spd": 47,
+    "bst": 360
+  },
+  {
+    "natNum": 545,
+    "name": "scolipede",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hp": 60,
+    "atk": 100,
+    "def": 89,
+    "sAt": 55,
+    "sDf": 69,
+    "spd": 112,
+    "bst": 485
+  },
+  {
+    "natNum": 546,
+    "name": "cottonee",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "hp": 40,
+    "atk": 27,
+    "def": 60,
+    "sAt": 37,
+    "sDf": 50,
+    "spd": 66,
+    "bst": 280
+  },
+  {
+    "natNum": 547,
+    "name": "whimsicott",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "hp": 60,
+    "atk": 67,
+    "def": 85,
+    "sAt": 77,
+    "sDf": 75,
+    "spd": 116,
+    "bst": 480
+  },
+  {
+    "natNum": 548,
+    "name": "petilil",
+    "types": [
+      "grass"
+    ],
+    "hp": 45,
+    "atk": 35,
+    "def": 50,
+    "sAt": 70,
+    "sDf": 50,
+    "spd": 30,
+    "bst": 280
+  },
+  {
+    "natNum": 549,
+    "name": "lilligant",
+    "types": [
+      "grass"
+    ],
+    "hp": 70,
+    "atk": 60,
+    "def": 75,
+    "sAt": 110,
+    "sDf": 75,
+    "spd": 90,
+    "bst": 480
+  },
+  {
+    "natNum": 550,
+    "name": "basculin",
+    "types": [
+      "water"
+    ],
+    "hp": 70,
+    "atk": 92,
+    "def": 65,
+    "sAt": 80,
+    "sDf": 55,
+    "spd": 98,
+    "bst": 460
+  },
+  {
+    "natNum": 550,
+    "name": "basculin",
+    "types": [
+      "water"
+    ],
+    "hp": 70,
+    "atk": 92,
+    "def": 65,
+    "sAt": 80,
+    "sDf": 55,
+    "spd": 98,
+    "bst": 460
+  },
+  {
+    "natNum": 551,
+    "name": "sandile",
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "hp": 50,
+    "atk": 72,
+    "def": 35,
+    "sAt": 35,
+    "sDf": 35,
+    "spd": 65,
+    "bst": 292
+  },
+  {
+    "natNum": 552,
+    "name": "krokorok",
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "hp": 60,
+    "atk": 82,
+    "def": 45,
+    "sAt": 45,
+    "sDf": 45,
+    "spd": 74,
+    "bst": 351
+  },
+  {
+    "natNum": 553,
+    "name": "krookodile",
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "hp": 95,
+    "atk": 117,
+    "def": 80,
+    "sAt": 65,
+    "sDf": 70,
+    "spd": 92,
+    "bst": 519
+  },
+  {
+    "natNum": 554,
+    "name": "darumaka",
+    "types": [
+      "fire"
+    ],
+    "hp": 70,
+    "atk": 90,
+    "def": 45,
+    "sAt": 15,
+    "sDf": 45,
+    "spd": 50,
+    "bst": 315
+  },
+  {
+    "natNum": 555,
+    "name": "darmanitan",
+    "types": [
+      "fire"
+    ],
+    "hp": 105,
+    "atk": 140,
+    "def": 55,
+    "sAt": 30,
+    "sDf": 55,
+    "spd": 95,
+    "bst": 480
+  },
+  {
+    "natNum": 555,
+    "name": "darmanitan",
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "hp": 105,
+    "atk": 30,
+    "def": 105,
+    "sAt": 140,
+    "sDf": 105,
+    "spd": 55,
+    "bst": 540
+  },
+  {
+    "natNum": 556,
+    "name": "maractus",
+    "types": [
+      "grass"
+    ],
+    "hp": 75,
+    "atk": 86,
+    "def": 67,
+    "sAt": 106,
+    "sDf": 67,
+    "spd": 60,
+    "bst": 461
+  },
+  {
+    "natNum": 557,
+    "name": "dwebble",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "hp": 50,
+    "atk": 65,
+    "def": 85,
+    "sAt": 35,
+    "sDf": 35,
+    "spd": 55,
+    "bst": 325
+  },
+  {
+    "natNum": 558,
+    "name": "crustle",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "hp": 70,
+    "atk": 95,
+    "def": 125,
+    "sAt": 65,
+    "sDf": 75,
+    "spd": 45,
+    "bst": 475
+  },
+  {
+    "natNum": 559,
+    "name": "scraggy",
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "hp": 50,
+    "atk": 75,
+    "def": 70,
+    "sAt": 35,
+    "sDf": 70,
+    "spd": 48,
+    "bst": 348
+  },
+  {
+    "natNum": 560,
+    "name": "scrafty",
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "hp": 65,
+    "atk": 90,
+    "def": 115,
+    "sAt": 45,
+    "sDf": 115,
+    "spd": 58,
+    "bst": 488
+  },
+  {
+    "natNum": 561,
+    "name": "sigilyph",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "hp": 72,
+    "atk": 58,
+    "def": 80,
+    "sAt": 103,
+    "sDf": 80,
+    "spd": 97,
+    "bst": 490
+  },
+  {
+    "natNum": 562,
+    "name": "yamask",
+    "types": [
+      "ghost"
+    ],
+    "hp": 38,
+    "atk": 30,
+    "def": 85,
+    "sAt": 55,
+    "sDf": 65,
+    "spd": 30,
+    "bst": 303
+  },
+  {
+    "natNum": 563,
+    "name": "cofagrigus",
+    "types": [
+      "ghost"
+    ],
+    "hp": 58,
+    "atk": 50,
+    "def": 145,
+    "sAt": 95,
+    "sDf": 105,
+    "spd": 30,
+    "bst": 483
+  },
+  {
+    "natNum": 564,
+    "name": "tirtouga",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "hp": 54,
+    "atk": 78,
+    "def": 103,
+    "sAt": 53,
+    "sDf": 45,
+    "spd": 22,
+    "bst": 355
+  },
+  {
+    "natNum": 565,
+    "name": "carracosta",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "hp": 74,
+    "atk": 108,
+    "def": 133,
+    "sAt": 83,
+    "sDf": 65,
+    "spd": 32,
+    "bst": 495
+  },
+  {
+    "natNum": 566,
+    "name": "archen",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "hp": 55,
+    "atk": 112,
+    "def": 45,
+    "sAt": 74,
+    "sDf": 45,
+    "spd": 70,
+    "bst": 401
+  },
+  {
+    "natNum": 567,
+    "name": "archeops",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "hp": 75,
+    "atk": 140,
+    "def": 65,
+    "sAt": 112,
+    "sDf": 65,
+    "spd": 110,
+    "bst": 567
+  },
+  {
+    "natNum": 568,
+    "name": "trubbish",
+    "types": [
+      "poison"
+    ],
+    "hp": 50,
+    "atk": 50,
+    "def": 62,
+    "sAt": 40,
+    "sDf": 62,
+    "spd": 65,
+    "bst": 329
+  },
+  {
+    "natNum": 569,
+    "name": "garbodor",
+    "types": [
+      "poison"
+    ],
+    "hp": 80,
+    "atk": 95,
+    "def": 82,
+    "sAt": 60,
+    "sDf": 82,
+    "spd": 75,
+    "bst": 474
+  },
+  {
+    "natNum": 570,
+    "name": "zorua",
+    "types": [
+      "dark"
+    ],
+    "hp": 40,
+    "atk": 65,
+    "def": 40,
+    "sAt": 80,
+    "sDf": 40,
+    "spd": 65,
+    "bst": 330
+  },
+  {
+    "natNum": 571,
+    "name": "zoroark",
+    "types": [
+      "dark"
+    ],
+    "hp": 60,
+    "atk": 105,
+    "def": 60,
+    "sAt": 120,
+    "sDf": 60,
+    "spd": 105,
+    "bst": 510
+  },
+  {
+    "natNum": 572,
+    "name": "minccino",
+    "types": [
+      "normal"
+    ],
+    "hp": 55,
+    "atk": 50,
+    "def": 40,
+    "sAt": 40,
+    "sDf": 40,
+    "spd": 75,
+    "bst": 300
+  },
+  {
+    "natNum": 573,
+    "name": "cinccino",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 95,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 60,
+    "spd": 115,
+    "bst": 470
+  },
+  {
+    "natNum": 574,
+    "name": "gothita",
+    "types": [
+      "psychic"
+    ],
+    "hp": 45,
+    "atk": 30,
+    "def": 50,
+    "sAt": 55,
+    "sDf": 65,
+    "spd": 45,
+    "bst": 290
+  },
+  {
+    "natNum": 575,
+    "name": "gothorita",
+    "types": [
+      "psychic"
+    ],
+    "hp": 60,
+    "atk": 45,
+    "def": 70,
+    "sAt": 75,
+    "sDf": 85,
+    "spd": 55,
+    "bst": 390
+  },
+  {
+    "natNum": 576,
+    "name": "gothitelle",
+    "types": [
+      "psychic"
+    ],
+    "hp": 70,
+    "atk": 55,
+    "def": 95,
+    "sAt": 95,
+    "sDf": 110,
+    "spd": 65,
+    "bst": 490
+  },
+  {
+    "natNum": 577,
+    "name": "solosis",
+    "types": [
+      "psychic"
+    ],
+    "hp": 45,
+    "atk": 30,
+    "def": 40,
+    "sAt": 105,
+    "sDf": 50,
+    "spd": 20,
+    "bst": 290
+  },
+  {
+    "natNum": 578,
+    "name": "duosion",
+    "types": [
+      "psychic"
+    ],
+    "hp": 65,
+    "atk": 40,
+    "def": 50,
+    "sAt": 125,
+    "sDf": 60,
+    "spd": 30,
+    "bst": 370
+  },
+  {
+    "natNum": 579,
+    "name": "reuniclus",
+    "types": [
+      "psychic"
+    ],
+    "hp": 110,
+    "atk": 65,
+    "def": 75,
+    "sAt": 125,
+    "sDf": 85,
+    "spd": 30,
+    "bst": 490
+  },
+  {
+    "natNum": 580,
+    "name": "ducklett",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "hp": 62,
+    "atk": 44,
+    "def": 50,
+    "sAt": 44,
+    "sDf": 50,
+    "spd": 55,
+    "bst": 305
+  },
+  {
+    "natNum": 581,
+    "name": "swanna",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "hp": 75,
+    "atk": 87,
+    "def": 63,
+    "sAt": 87,
+    "sDf": 63,
+    "spd": 98,
+    "bst": 473
+  },
+  {
+    "natNum": 582,
+    "name": "vanillite",
+    "types": [
+      "ice"
+    ],
+    "hp": 36,
+    "atk": 50,
+    "def": 50,
+    "sAt": 65,
+    "sDf": 60,
+    "spd": 44,
+    "bst": 305
+  },
+  {
+    "natNum": 583,
+    "name": "vanillish",
+    "types": [
+      "ice"
+    ],
+    "hp": 51,
+    "atk": 65,
+    "def": 65,
+    "sAt": 80,
+    "sDf": 75,
+    "spd": 59,
+    "bst": 395
+  },
+  {
+    "natNum": 584,
+    "name": "vanilluxe",
+    "types": [
+      "ice"
+    ],
+    "hp": 71,
+    "atk": 95,
+    "def": 85,
+    "sAt": 110,
+    "sDf": 95,
+    "spd": 79,
+    "bst": 535
+  },
+  {
+    "natNum": 585,
+    "name": "deerling",
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "hp": 60,
+    "atk": 60,
+    "def": 50,
+    "sAt": 40,
+    "sDf": 50,
+    "spd": 75,
+    "bst": 335
+  },
+  {
+    "natNum": 586,
+    "name": "sawsbuck",
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "hp": 80,
+    "atk": 100,
+    "def": 70,
+    "sAt": 60,
+    "sDf": 70,
+    "spd": 95,
+    "bst": 475
+  },
+  {
+    "natNum": 587,
+    "name": "emolga",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "hp": 55,
+    "atk": 75,
+    "def": 60,
+    "sAt": 75,
+    "sDf": 60,
+    "spd": 103,
+    "bst": 428
+  },
+  {
+    "natNum": 588,
+    "name": "karrablast",
+    "types": [
+      "bug"
+    ],
+    "hp": 50,
+    "atk": 75,
+    "def": 45,
+    "sAt": 40,
+    "sDf": 45,
+    "spd": 60,
+    "bst": 315
+  },
+  {
+    "natNum": 589,
+    "name": "escavalier",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "hp": 70,
+    "atk": 135,
+    "def": 105,
+    "sAt": 60,
+    "sDf": 105,
+    "spd": 20,
+    "bst": 495
+  },
+  {
+    "natNum": 590,
+    "name": "foongus",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 69,
+    "atk": 55,
+    "def": 45,
+    "sAt": 55,
+    "sDf": 55,
+    "spd": 15,
+    "bst": 294
+  },
+  {
+    "natNum": 591,
+    "name": "amoonguss",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hp": 114,
+    "atk": 85,
+    "def": 70,
+    "sAt": 85,
+    "sDf": 80,
+    "spd": 30,
+    "bst": 464
+  },
+  {
+    "natNum": 592,
+    "name": "frillish",
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "hp": 55,
+    "atk": 40,
+    "def": 50,
+    "sAt": 65,
+    "sDf": 85,
+    "spd": 40,
+    "bst": 335
+  },
+  {
+    "natNum": 593,
+    "name": "jellicent",
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "hp": 100,
+    "atk": 60,
+    "def": 70,
+    "sAt": 85,
+    "sDf": 105,
+    "spd": 60,
+    "bst": 480
+  },
+  {
+    "natNum": 594,
+    "name": "alomomola",
+    "types": [
+      "water"
+    ],
+    "hp": 165,
+    "atk": 75,
+    "def": 80,
+    "sAt": 40,
+    "sDf": 45,
+    "spd": 65,
+    "bst": 470
+  },
+  {
+    "natNum": 595,
+    "name": "joltik",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "hp": 50,
+    "atk": 47,
+    "def": 50,
+    "sAt": 57,
+    "sDf": 50,
+    "spd": 65,
+    "bst": 319
+  },
+  {
+    "natNum": 596,
+    "name": "galvantula",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "hp": 70,
+    "atk": 77,
+    "def": 60,
+    "sAt": 97,
+    "sDf": 60,
+    "spd": 108,
+    "bst": 472
+  },
+  {
+    "natNum": 597,
+    "name": "ferroseed",
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "hp": 44,
+    "atk": 50,
+    "def": 91,
+    "sAt": 24,
+    "sDf": 86,
+    "spd": 10,
+    "bst": 305
+  },
+  {
+    "natNum": 598,
+    "name": "ferrothorn",
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "hp": 74,
+    "atk": 94,
+    "def": 131,
+    "sAt": 54,
+    "sDf": 116,
+    "spd": 20,
+    "bst": 489
+  },
+  {
+    "natNum": 599,
+    "name": "klink",
+    "types": [
+      "steel"
+    ],
+    "hp": 40,
+    "atk": 55,
+    "def": 70,
+    "sAt": 45,
+    "sDf": 60,
+    "spd": 30,
+    "bst": 300
+  },
+  {
+    "natNum": 600,
+    "name": "klang",
+    "types": [
+      "steel"
+    ],
+    "hp": 60,
+    "atk": 80,
+    "def": 95,
+    "sAt": 70,
+    "sDf": 85,
+    "spd": 50,
+    "bst": 440
+  },
+  {
+    "natNum": 601,
+    "name": "klinklang",
+    "types": [
+      "steel"
+    ],
+    "hp": 60,
+    "atk": 100,
+    "def": 115,
+    "sAt": 70,
+    "sDf": 85,
+    "spd": 90,
+    "bst": 520
+  },
+  {
+    "natNum": 602,
+    "name": "tynamo",
+    "types": [
+      "electric"
+    ],
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "sAt": 45,
+    "sDf": 40,
+    "spd": 60,
+    "bst": 275
+  },
+  {
+    "natNum": 603,
+    "name": "eelektrik",
+    "types": [
+      "electric"
+    ],
+    "hp": 65,
+    "atk": 85,
+    "def": 70,
+    "sAt": 75,
+    "sDf": 70,
+    "spd": 40,
+    "bst": 405
+  },
+  {
+    "natNum": 604,
+    "name": "eelektross",
+    "types": [
+      "electric"
+    ],
+    "hp": 85,
+    "atk": 115,
+    "def": 80,
+    "sAt": 105,
+    "sDf": 80,
+    "spd": 50,
+    "bst": 515
+  },
+  {
+    "natNum": 605,
+    "name": "elgyem",
+    "types": [
+      "psychic"
+    ],
+    "hp": 55,
+    "atk": 55,
+    "def": 55,
+    "sAt": 85,
+    "sDf": 55,
+    "spd": 30,
+    "bst": 335
+  },
+  {
+    "natNum": 606,
+    "name": "beheeyem",
+    "types": [
+      "psychic"
+    ],
+    "hp": 75,
+    "atk": 75,
+    "def": 75,
+    "sAt": 125,
+    "sDf": 95,
+    "spd": 40,
+    "bst": 485
+  },
+  {
+    "natNum": 607,
+    "name": "litwick",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "hp": 50,
+    "atk": 30,
+    "def": 55,
+    "sAt": 65,
+    "sDf": 55,
+    "spd": 20,
+    "bst": 275
+  },
+  {
+    "natNum": 608,
+    "name": "lampent",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "hp": 60,
+    "atk": 40,
+    "def": 60,
+    "sAt": 95,
+    "sDf": 60,
+    "spd": 55,
+    "bst": 370
+  },
+  {
+    "natNum": 609,
+    "name": "chandelure",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "hp": 60,
+    "atk": 55,
+    "def": 90,
+    "sAt": 145,
+    "sDf": 90,
+    "spd": 80,
+    "bst": 520
+  },
+  {
+    "natNum": 610,
+    "name": "axew",
+    "types": [
+      "dragon"
+    ],
+    "hp": 46,
+    "atk": 87,
+    "def": 60,
+    "sAt": 30,
+    "sDf": 40,
+    "spd": 57,
+    "bst": 320
+  },
+  {
+    "natNum": 611,
+    "name": "fraxure",
+    "types": [
+      "dragon"
+    ],
+    "hp": 66,
+    "atk": 117,
+    "def": 70,
+    "sAt": 40,
+    "sDf": 50,
+    "spd": 67,
+    "bst": 410
+  },
+  {
+    "natNum": 612,
+    "name": "haxorus",
+    "types": [
+      "dragon"
+    ],
+    "hp": 76,
+    "atk": 147,
+    "def": 90,
+    "sAt": 60,
+    "sDf": 70,
+    "spd": 97,
+    "bst": 540
+  },
+  {
+    "natNum": 613,
+    "name": "cubchoo",
+    "types": [
+      "ice"
+    ],
+    "hp": 55,
+    "atk": 70,
+    "def": 40,
+    "sAt": 60,
+    "sDf": 40,
+    "spd": 40,
+    "bst": 305
+  },
+  {
+    "natNum": 614,
+    "name": "beartic",
+    "types": [
+      "ice"
+    ],
+    "hp": 95,
+    "atk": 110,
+    "def": 80,
+    "sAt": 70,
+    "sDf": 80,
+    "spd": 50,
+    "bst": 485
+  },
+  {
+    "natNum": 615,
+    "name": "cryogonal",
+    "types": [
+      "ice"
+    ],
+    "hp": 70,
+    "atk": 50,
+    "def": 30,
+    "sAt": 95,
+    "sDf": 135,
+    "spd": 105,
+    "bst": 485
+  },
+  {
+    "natNum": 616,
+    "name": "shelmet",
+    "types": [
+      "bug"
+    ],
+    "hp": 50,
+    "atk": 40,
+    "def": 85,
+    "sAt": 40,
+    "sDf": 65,
+    "spd": 25,
+    "bst": 305
+  },
+  {
+    "natNum": 617,
+    "name": "accelgor",
+    "types": [
+      "bug"
+    ],
+    "hp": 80,
+    "atk": 70,
+    "def": 40,
+    "sAt": 100,
+    "sDf": 60,
+    "spd": 145,
+    "bst": 495
+  },
+  {
+    "natNum": 618,
+    "name": "stunfisk",
+    "types": [
+      "ground",
+      "electric"
+    ],
+    "hp": 109,
+    "atk": 66,
+    "def": 84,
+    "sAt": 81,
+    "sDf": 99,
+    "spd": 32,
+    "bst": 471
+  },
+  {
+    "natNum": 619,
+    "name": "mienfoo",
+    "types": [
+      "fighting"
+    ],
+    "hp": 45,
+    "atk": 85,
+    "def": 50,
+    "sAt": 55,
+    "sDf": 50,
+    "spd": 65,
+    "bst": 350
+  },
+  {
+    "natNum": 620,
+    "name": "mienshao",
+    "types": [
+      "fighting"
+    ],
+    "hp": 65,
+    "atk": 125,
+    "def": 60,
+    "sAt": 95,
+    "sDf": 60,
+    "spd": 105,
+    "bst": 510
+  },
+  {
+    "natNum": 621,
+    "name": "druddigon",
+    "types": [
+      "dragon"
+    ],
+    "hp": 77,
+    "atk": 120,
+    "def": 90,
+    "sAt": 60,
+    "sDf": 90,
+    "spd": 48,
+    "bst": 485
+  },
+  {
+    "natNum": 622,
+    "name": "golett",
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "hp": 59,
+    "atk": 74,
+    "def": 50,
+    "sAt": 35,
+    "sDf": 50,
+    "spd": 35,
+    "bst": 303
+  },
+  {
+    "natNum": 623,
+    "name": "golurk",
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "hp": 89,
+    "atk": 124,
+    "def": 80,
+    "sAt": 55,
+    "sDf": 80,
+    "spd": 55,
+    "bst": 483
+  },
+  {
+    "natNum": 624,
+    "name": "pawniard",
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "hp": 45,
+    "atk": 85,
+    "def": 70,
+    "sAt": 40,
+    "sDf": 40,
+    "spd": 60,
+    "bst": 340
+  },
+  {
+    "natNum": 625,
+    "name": "bisharp",
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "hp": 65,
+    "atk": 125,
+    "def": 100,
+    "sAt": 60,
+    "sDf": 70,
+    "spd": 70,
+    "bst": 490
+  },
+  {
+    "natNum": 626,
+    "name": "bouffalant",
+    "types": [
+      "normal"
+    ],
+    "hp": 95,
+    "atk": 110,
+    "def": 95,
+    "sAt": 40,
+    "sDf": 95,
+    "spd": 55,
+    "bst": 490
+  },
+  {
+    "natNum": 627,
+    "name": "rufflet",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 70,
+    "atk": 83,
+    "def": 50,
+    "sAt": 37,
+    "sDf": 50,
+    "spd": 60,
+    "bst": 350
+  },
+  {
+    "natNum": 628,
+    "name": "braviary",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 100,
+    "atk": 123,
+    "def": 75,
+    "sAt": 57,
+    "sDf": 75,
+    "spd": 80,
+    "bst": 510
+  },
+  {
+    "natNum": 629,
+    "name": "vullaby",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "hp": 70,
+    "atk": 55,
+    "def": 75,
+    "sAt": 45,
+    "sDf": 65,
+    "spd": 60,
+    "bst": 370
+  },
+  {
+    "natNum": 630,
+    "name": "mandibuzz",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "hp": 110,
+    "atk": 65,
+    "def": 105,
+    "sAt": 55,
+    "sDf": 95,
+    "spd": 80,
+    "bst": 510
+  },
+  {
+    "natNum": 631,
+    "name": "heatmor",
+    "types": [
+      "fire"
+    ],
+    "hp": 85,
+    "atk": 97,
+    "def": 66,
+    "sAt": 105,
+    "sDf": 66,
+    "spd": 65,
+    "bst": 484
+  },
+  {
+    "natNum": 632,
+    "name": "durant",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "hp": 58,
+    "atk": 109,
+    "def": 112,
+    "sAt": 48,
+    "sDf": 48,
+    "spd": 109,
+    "bst": 484
+  },
+  {
+    "natNum": 633,
+    "name": "deino",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "hp": 52,
+    "atk": 65,
+    "def": 50,
+    "sAt": 45,
+    "sDf": 50,
+    "spd": 38,
+    "bst": 300
+  },
+  {
+    "natNum": 634,
+    "name": "zweilous",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "hp": 72,
+    "atk": 85,
+    "def": 70,
+    "sAt": 65,
+    "sDf": 70,
+    "spd": 58,
+    "bst": 420
+  },
+  {
+    "natNum": 635,
+    "name": "hydreigon",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "hp": 92,
+    "atk": 105,
+    "def": 90,
+    "sAt": 125,
+    "sDf": 90,
+    "spd": 98,
+    "bst": 600
+  },
+  {
+    "natNum": 636,
+    "name": "larvesta",
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "hp": 55,
+    "atk": 85,
+    "def": 55,
+    "sAt": 50,
+    "sDf": 55,
+    "spd": 60,
+    "bst": 360
+  },
+  {
+    "natNum": 637,
+    "name": "volcarona",
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "hp": 85,
+    "atk": 60,
+    "def": 65,
+    "sAt": 135,
+    "sDf": 105,
+    "spd": 100,
+    "bst": 550
+  },
+  {
+    "natNum": 638,
+    "name": "cobalion",
+    "types": [
+      "steel",
+      "fighting"
+    ],
+    "hp": 91,
+    "atk": 90,
+    "def": 129,
+    "sAt": 90,
+    "sDf": 72,
+    "spd": 108,
+    "bst": 580
+  },
+  {
+    "natNum": 639,
+    "name": "terrakion",
+    "types": [
+      "rock",
+      "fighting"
+    ],
+    "hp": 91,
+    "atk": 129,
+    "def": 90,
+    "sAt": 72,
+    "sDf": 90,
+    "spd": 108,
+    "bst": 580
+  },
+  {
+    "natNum": 640,
+    "name": "virizion",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "hp": 91,
+    "atk": 90,
+    "def": 72,
+    "sAt": 90,
+    "sDf": 129,
+    "spd": 108,
+    "bst": 580
+  },
+  {
+    "natNum": 641,
+    "name": "tornadus",
+    "types": [
+      "flying"
+    ],
+    "hp": 79,
+    "atk": 115,
+    "def": 70,
+    "sAt": 125,
+    "sDf": 80,
+    "spd": 111,
+    "bst": 580
+  },
+  {
+    "natNum": 641,
+    "name": "tornadus",
+    "types": [
+      "flying"
+    ],
+    "hp": 79,
+    "atk": 100,
+    "def": 80,
+    "sAt": 110,
+    "sDf": 90,
+    "spd": 121,
+    "bst": 580
+  },
+  {
+    "natNum": 642,
+    "name": "thundurus",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "hp": 79,
+    "atk": 115,
+    "def": 70,
+    "sAt": 125,
+    "sDf": 80,
+    "spd": 111,
+    "bst": 580
+  },
+  {
+    "natNum": 642,
+    "name": "thundurus",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "hp": 79,
+    "atk": 105,
+    "def": 70,
+    "sAt": 145,
+    "sDf": 80,
+    "spd": 101,
+    "bst": 580
+  },
+  {
+    "natNum": 643,
+    "name": "reshiram",
+    "types": [
+      "dragon",
+      "fire"
+    ],
+    "hp": 100,
+    "atk": 120,
+    "def": 100,
+    "sAt": 150,
+    "sDf": 120,
+    "spd": 90,
+    "bst": 680
+  },
+  {
+    "natNum": 644,
+    "name": "zekrom",
+    "types": [
+      "dragon",
+      "electric"
+    ],
+    "hp": 100,
+    "atk": 150,
+    "def": 120,
+    "sAt": 120,
+    "sDf": 100,
+    "spd": 90,
+    "bst": 680
+  },
+  {
+    "natNum": 645,
+    "name": "landorus",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "hp": 89,
+    "atk": 125,
+    "def": 90,
+    "sAt": 115,
+    "sDf": 80,
+    "spd": 101,
+    "bst": 600
+  },
+  {
+    "natNum": 645,
+    "name": "landorus",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "hp": 89,
+    "atk": 145,
+    "def": 90,
+    "sAt": 105,
+    "sDf": 80,
+    "spd": 91,
+    "bst": 600
+  },
+  {
+    "natNum": 646,
+    "name": "kyurem",
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "hp": 125,
+    "atk": 130,
+    "def": 90,
+    "sAt": 130,
+    "sDf": 90,
+    "spd": 95,
+    "bst": 660
+  },
+  {
+    "natNum": 646,
+    "name": "kyurem",
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "hp": 125,
+    "atk": 120,
+    "def": 90,
+    "sAt": 170,
+    "sDf": 100,
+    "spd": 95,
+    "bst": 700
+  },
+  {
+    "natNum": 646,
+    "name": "kyurem",
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "hp": 125,
+    "atk": 170,
+    "def": 100,
+    "sAt": 120,
+    "sDf": 90,
+    "spd": 95,
+    "bst": 700
+  },
+  {
+    "natNum": 647,
+    "name": "keldeo",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "hp": 91,
+    "atk": 72,
+    "def": 90,
+    "sAt": 129,
+    "sDf": 90,
+    "spd": 108,
+    "bst": 580
+  },
+  {
+    "natNum": 647,
+    "name": "keldeo",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "hp": 91,
+    "atk": 72,
+    "def": 90,
+    "sAt": 129,
+    "sDf": 90,
+    "spd": 108,
+    "bst": 580
+  },
+  {
+    "natNum": 648,
+    "name": "meloetta",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "hp": 100,
+    "atk": 77,
+    "def": 77,
+    "sAt": 128,
+    "sDf": 128,
+    "spd": 90,
+    "bst": 600
+  },
+  {
+    "natNum": 648,
+    "name": "meloetta",
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "hp": 100,
+    "atk": 128,
+    "def": 90,
+    "sAt": 77,
+    "sDf": 77,
+    "spd": 128,
+    "bst": 600
+  },
+  {
+    "natNum": 649,
+    "name": "genesect",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "hp": 71,
+    "atk": 120,
+    "def": 95,
+    "sAt": 120,
+    "sDf": 95,
+    "spd": 99,
+    "bst": 600
+  },
+  {
+    "natNum": 650,
+    "name": "chespin",
+    "types": [
+      "grass"
+    ],
+    "hp": 56,
+    "atk": 61,
+    "def": 65,
+    "sAt": 48,
+    "sDf": 45,
+    "spd": 38,
+    "bst": 313
+  },
+  {
+    "natNum": 650,
+    "name": "chespin",
+    "types": [
+      "grass"
+    ],
+    "hp": 56,
+    "atk": 61,
+    "def": 65,
+    "sAt": 48,
+    "sDf": 45,
+    "spd": 38,
+    "bst": 313
+  },
+  {
+    "natNum": 651,
+    "name": "quilladin",
+    "types": [
+      "grass"
+    ],
+    "hp": 61,
+    "atk": 78,
+    "def": 95,
+    "sAt": 56,
+    "sDf": 58,
+    "spd": 57,
+    "bst": 405
+  },
+  {
+    "natNum": 652,
+    "name": "chesnaught",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "hp": 88,
+    "atk": 107,
+    "def": 122,
+    "sAt": 74,
+    "sDf": 75,
+    "spd": 64,
+    "bst": 530
+  },
+  {
+    "natNum": 653,
+    "name": "fennekin",
+    "types": [
+      "fire"
+    ],
+    "hp": 40,
+    "atk": 45,
+    "def": 40,
+    "sAt": 62,
+    "sDf": 60,
+    "spd": 60,
+    "bst": 307
+  },
+  {
+    "natNum": 654,
+    "name": "braixen",
+    "types": [
+      "fire"
+    ],
+    "hp": 59,
+    "atk": 59,
+    "def": 58,
+    "sAt": 90,
+    "sDf": 70,
+    "spd": 73,
+    "bst": 409
+  },
+  {
+    "natNum": 655,
+    "name": "delphox",
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "hp": 75,
+    "atk": 69,
+    "def": 72,
+    "sAt": 114,
+    "sDf": 100,
+    "spd": 104,
+    "bst": 534
+  },
+  {
+    "natNum": 656,
+    "name": "froakie",
+    "types": [
+      "water"
+    ],
+    "hp": 41,
+    "atk": 56,
+    "def": 40,
+    "sAt": 62,
+    "sDf": 44,
+    "spd": 71,
+    "bst": 314
+  },
+  {
+    "natNum": 657,
+    "name": "frogadier",
+    "types": [
+      "water"
+    ],
+    "hp": 54,
+    "atk": 63,
+    "def": 52,
+    "sAt": 83,
+    "sDf": 56,
+    "spd": 97,
+    "bst": 405
+  },
+  {
+    "natNum": 658,
+    "name": "greninja",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "hp": 72,
+    "atk": 95,
+    "def": 67,
+    "sAt": 103,
+    "sDf": 71,
+    "spd": 122,
+    "bst": 530
+  },
+  {
+    "natNum": 659,
+    "name": "bunnelby",
+    "types": [
+      "normal"
+    ],
+    "hp": 38,
+    "atk": 36,
+    "def": 38,
+    "sAt": 32,
+    "sDf": 36,
+    "spd": 57,
+    "bst": 237
+  },
+  {
+    "natNum": 660,
+    "name": "diggersby",
+    "types": [
+      "normal",
+      "ground"
+    ],
+    "hp": 85,
+    "atk": 56,
+    "def": 77,
+    "sAt": 50,
+    "sDf": 77,
+    "spd": 78,
+    "bst": 423
+  },
+  {
+    "natNum": 661,
+    "name": "fletchling",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hp": 45,
+    "atk": 50,
+    "def": 43,
+    "sAt": 40,
+    "sDf": 38,
+    "spd": 62,
+    "bst": 278
+  },
+  {
+    "natNum": 662,
+    "name": "fletchinder",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "hp": 62,
+    "atk": 73,
+    "def": 55,
+    "sAt": 56,
+    "sDf": 52,
+    "spd": 84,
+    "bst": 382
+  },
+  {
+    "natNum": 663,
+    "name": "talonflame",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "hp": 78,
+    "atk": 81,
+    "def": 71,
+    "sAt": 74,
+    "sDf": 69,
+    "spd": 126,
+    "bst": 499
+  },
+  {
+    "natNum": 664,
+    "name": "scatterbug",
+    "types": [
+      "bug"
+    ],
+    "hp": 38,
+    "atk": 35,
+    "def": 40,
+    "sAt": 27,
+    "sDf": 25,
+    "spd": 35,
+    "bst": 200
+  },
+  {
+    "natNum": 665,
+    "name": "spewpa",
+    "types": [
+      "bug"
+    ],
+    "hp": 45,
+    "atk": 22,
+    "def": 60,
+    "sAt": 27,
+    "sDf": 30,
+    "spd": 29,
+    "bst": 213
+  },
+  {
+    "natNum": 666,
+    "name": "vivillon",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hp": 80,
+    "atk": 52,
+    "def": 50,
+    "sAt": 90,
+    "sDf": 50,
+    "spd": 89,
+    "bst": 411
+  },
+  {
+    "natNum": 667,
+    "name": "litleo",
+    "types": [
+      "fire",
+      "normal"
+    ],
+    "hp": 62,
+    "atk": 50,
+    "def": 58,
+    "sAt": 73,
+    "sDf": 54,
+    "spd": 72,
+    "bst": 369
+  },
+  {
+    "natNum": 668,
+    "name": "pyroar",
+    "types": [
+      "fire",
+      "normal"
+    ],
+    "hp": 86,
+    "atk": 68,
+    "def": 72,
+    "sAt": 109,
+    "sDf": 66,
+    "spd": 106,
+    "bst": 507
+  },
+  {
+    "natNum": 669,
+    "name": "flabébé",
+    "types": [
+      "fairy"
+    ],
+    "hp": 44,
+    "atk": 38,
+    "def": 39,
+    "sAt": 61,
+    "sDf": 79,
+    "spd": 42,
+    "bst": 303
+  },
+  {
+    "natNum": 670,
+    "name": "floette",
+    "types": [
+      "fairy"
+    ],
+    "hp": 54,
+    "atk": 45,
+    "def": 47,
+    "sAt": 75,
+    "sDf": 98,
+    "spd": 52,
+    "bst": 371
+  },
+  {
+    "natNum": 670,
+    "name": "floette",
+    "types": [
+      "fairy"
+    ],
+    "hp": 74,
+    "atk": 65,
+    "def": 67,
+    "sAt": 125,
+    "sDf": 128,
+    "spd": 92,
+    "bst": 551
+  },
+  {
+    "natNum": 670,
+    "name": "floette",
+    "types": [
+      "fairy"
+    ],
+    "hp": 54,
+    "atk": 45,
+    "def": 47,
+    "sAt": 75,
+    "sDf": 98,
+    "spd": 52,
+    "bst": 371
+  },
+  {
+    "natNum": 670,
+    "name": "floette",
+    "types": [
+      "fairy"
+    ],
+    "hp": 54,
+    "atk": 45,
+    "def": 47,
+    "sAt": 75,
+    "sDf": 98,
+    "spd": 52,
+    "bst": 371
+  },
+  {
+    "natNum": 670,
+    "name": "floette",
+    "types": [
+      "fairy"
+    ],
+    "hp": 54,
+    "atk": 45,
+    "def": 47,
+    "sAt": 75,
+    "sDf": 98,
+    "spd": 52,
+    "bst": 371
+  },
+  {
+    "natNum": 670,
+    "name": "floette",
+    "types": [
+      "fairy"
+    ],
+    "hp": 54,
+    "atk": 45,
+    "def": 47,
+    "sAt": 75,
+    "sDf": 98,
+    "spd": 52,
+    "bst": 371
+  },
+  {
+    "natNum": 671,
+    "name": "florges",
+    "types": [
+      "fairy"
+    ],
+    "hp": 78,
+    "atk": 65,
+    "def": 68,
+    "sAt": 112,
+    "sDf": 154,
+    "spd": 75,
+    "bst": 552
+  },
+  {
+    "natNum": 672,
+    "name": "skiddo",
+    "types": [
+      "grass"
+    ],
+    "hp": 66,
+    "atk": 65,
+    "def": 48,
+    "sAt": 62,
+    "sDf": 57,
+    "spd": 52,
+    "bst": 350
+  },
+  {
+    "natNum": 673,
+    "name": "gogoat",
+    "types": [
+      "grass"
+    ],
+    "hp": 123,
+    "atk": 100,
+    "def": 62,
+    "sAt": 97,
+    "sDf": 81,
+    "spd": 68,
+    "bst": 531
+  },
+  {
+    "natNum": 674,
+    "name": "pancham",
+    "types": [
+      "fighting"
+    ],
+    "hp": 67,
+    "atk": 82,
+    "def": 62,
+    "sAt": 46,
+    "sDf": 48,
+    "spd": 43,
+    "bst": 348
+  },
+  {
+    "natNum": 675,
+    "name": "pangoro",
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "hp": 95,
+    "atk": 124,
+    "def": 78,
+    "sAt": 69,
+    "sDf": 71,
+    "spd": 58,
+    "bst": 495
+  },
+  {
+    "natNum": 676,
+    "name": "furfrou",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 90,
+    "spd": 102,
+    "bst": 472
+  },
+  {
+    "natNum": 676,
+    "name": "furfrou",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 90,
+    "spd": 102,
+    "bst": 472
+  },
+  {
+    "natNum": 676,
+    "name": "furfrou",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 90,
+    "spd": 102,
+    "bst": 472
+  },
+  {
+    "natNum": 676,
+    "name": "furfrou",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 90,
+    "spd": 102,
+    "bst": 472
+  },
+  {
+    "natNum": 676,
+    "name": "furfrou",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 90,
+    "spd": 102,
+    "bst": 472
+  },
+  {
+    "natNum": 676,
+    "name": "furfrou",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 90,
+    "spd": 102,
+    "bst": 472
+  },
+  {
+    "natNum": 676,
+    "name": "furfrou",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 90,
+    "spd": 102,
+    "bst": 472
+  },
+  {
+    "natNum": 676,
+    "name": "furfrou",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 90,
+    "spd": 102,
+    "bst": 472
+  },
+  {
+    "natNum": 676,
+    "name": "furfrou",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 90,
+    "spd": 102,
+    "bst": 472
+  },
+  {
+    "natNum": 676,
+    "name": "furfrou",
+    "types": [
+      "normal"
+    ],
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "sAt": 65,
+    "sDf": 90,
+    "spd": 102,
+    "bst": 472
+  },
+  {
+    "natNum": 677,
+    "name": "espurr",
+    "types": [
+      "psychic"
+    ],
+    "hp": 62,
+    "atk": 48,
+    "def": 54,
+    "sAt": 63,
+    "sDf": 60,
+    "spd": 68,
+    "bst": 355
+  },
+  {
+    "natNum": 678,
+    "name": "meowstic",
+    "types": [
+      "psychic"
+    ],
+    "hp": 74,
+    "atk": 48,
+    "def": 76,
+    "sAt": 83,
+    "sDf": 81,
+    "spd": 104,
+    "bst": 466
+  },
+  {
+    "natNum": 678,
+    "name": "meowstic",
+    "types": [
+      "psychic"
+    ],
+    "hp": 74,
+    "atk": 48,
+    "def": 76,
+    "sAt": 83,
+    "sDf": 81,
+    "spd": 104,
+    "bst": 466
+  },
+  {
+    "natNum": 679,
+    "name": "honedge",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "hp": 45,
+    "atk": 80,
+    "def": 100,
+    "sAt": 35,
+    "sDf": 37,
+    "spd": 28,
+    "bst": 325
+  },
+  {
+    "natNum": 680,
+    "name": "doublade",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "hp": 59,
+    "atk": 110,
+    "def": 150,
+    "sAt": 45,
+    "sDf": 49,
+    "spd": 35,
+    "bst": 448
+  },
+  {
+    "natNum": 681,
+    "name": "aegislash",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "hp": 60,
+    "atk": 50,
+    "def": 150,
+    "sAt": 50,
+    "sDf": 150,
+    "spd": 60,
+    "bst": 520
+  },
+  {
+    "natNum": 681,
+    "name": "aegislash",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "hp": 60,
+    "atk": 150,
+    "def": 50,
+    "sAt": 150,
+    "sDf": 50,
+    "spd": 60,
+    "bst": 520
+  },
+  {
+    "natNum": 682,
+    "name": "spritzee",
+    "types": [
+      "fairy"
+    ],
+    "hp": 78,
+    "atk": 52,
+    "def": 60,
+    "sAt": 63,
+    "sDf": 65,
+    "spd": 23,
+    "bst": 341
+  },
+  {
+    "natNum": 683,
+    "name": "aromatisse",
+    "types": [
+      "fairy"
+    ],
+    "hp": 101,
+    "atk": 72,
+    "def": 72,
+    "sAt": 99,
+    "sDf": 89,
+    "spd": 29,
+    "bst": 462
+  },
+  {
+    "natNum": 684,
+    "name": "swirlix",
+    "types": [
+      "fairy"
+    ],
+    "hp": 62,
+    "atk": 48,
+    "def": 66,
+    "sAt": 59,
+    "sDf": 57,
+    "spd": 49,
+    "bst": 341
+  },
+  {
+    "natNum": 685,
+    "name": "slurpuff",
+    "types": [
+      "fairy"
+    ],
+    "hp": 82,
+    "atk": 80,
+    "def": 86,
+    "sAt": 85,
+    "sDf": 75,
+    "spd": 72,
+    "bst": 480
+  },
+  {
+    "natNum": 686,
+    "name": "inkay",
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "hp": 53,
+    "atk": 54,
+    "def": 53,
+    "sAt": 37,
+    "sDf": 46,
+    "spd": 45,
+    "bst": 288
+  },
+  {
+    "natNum": 687,
+    "name": "malamar",
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "hp": 86,
+    "atk": 92,
+    "def": 88,
+    "sAt": 68,
+    "sDf": 75,
+    "spd": 73,
+    "bst": 482
+  },
+  {
+    "natNum": 688,
+    "name": "binacle",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "hp": 42,
+    "atk": 52,
+    "def": 67,
+    "sAt": 39,
+    "sDf": 56,
+    "spd": 50,
+    "bst": 306
+  },
+  {
+    "natNum": 689,
+    "name": "barbaracle",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "hp": 72,
+    "atk": 105,
+    "def": 115,
+    "sAt": 54,
+    "sDf": 86,
+    "spd": 68,
+    "bst": 500
+  },
+  {
+    "natNum": 690,
+    "name": "skrelp",
+    "types": [
+      "poison",
+      "water"
+    ],
+    "hp": 50,
+    "atk": 60,
+    "def": 60,
+    "sAt": 60,
+    "sDf": 60,
+    "spd": 30,
+    "bst": 320
+  },
+  {
+    "natNum": 691,
+    "name": "dragalge",
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "hp": 65,
+    "atk": 75,
+    "def": 90,
+    "sAt": 97,
+    "sDf": 123,
+    "spd": 44,
+    "bst": 494
+  },
+  {
+    "natNum": 692,
+    "name": "clauncher",
+    "types": [
+      "water"
+    ],
+    "hp": 50,
+    "atk": 53,
+    "def": 62,
+    "sAt": 58,
+    "sDf": 63,
+    "spd": 44,
+    "bst": 330
+  },
+  {
+    "natNum": 693,
+    "name": "clawitzer",
+    "types": [
+      "water"
+    ],
+    "hp": 71,
+    "atk": 73,
+    "def": 88,
+    "sAt": 120,
+    "sDf": 89,
+    "spd": 59,
+    "bst": 500
+  },
+  {
+    "natNum": 694,
+    "name": "helioptile",
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "hp": 44,
+    "atk": 38,
+    "def": 33,
+    "sAt": 61,
+    "sDf": 43,
+    "spd": 70,
+    "bst": 289
+  },
+  {
+    "natNum": 695,
+    "name": "heliolisk",
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "hp": 62,
+    "atk": 55,
+    "def": 52,
+    "sAt": 109,
+    "sDf": 94,
+    "spd": 109,
+    "bst": 481
+  },
+  {
+    "natNum": 696,
+    "name": "tyrunt",
+    "types": [
+      "rock",
+      "dragon"
+    ],
+    "hp": 58,
+    "atk": 89,
+    "def": 77,
+    "sAt": 45,
+    "sDf": 45,
+    "spd": 48,
+    "bst": 362
+  },
+  {
+    "natNum": 697,
+    "name": "tyrantrum",
+    "types": [
+      "rock",
+      "dragon"
+    ],
+    "hp": 82,
+    "atk": 121,
+    "def": 119,
+    "sAt": 69,
+    "sDf": 59,
+    "spd": 71,
+    "bst": 521
+  },
+  {
+    "natNum": 698,
+    "name": "amaura",
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "hp": 77,
+    "atk": 59,
+    "def": 50,
+    "sAt": 67,
+    "sDf": 63,
+    "spd": 46,
+    "bst": 362
+  },
+  {
+    "natNum": 699,
+    "name": "aurorus",
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "hp": 123,
+    "atk": 77,
+    "def": 72,
+    "sAt": 99,
+    "sDf": 92,
+    "spd": 58,
+    "bst": 521
+  },
+  {
+    "natNum": 700,
+    "name": "sylveon",
+    "types": [
+      "fairy"
+    ],
+    "hp": 95,
+    "atk": 65,
+    "def": 65,
+    "sAt": 110,
+    "sDf": 130,
+    "spd": 60,
+    "bst": 525
+  },
+  {
+    "natNum": 701,
+    "name": "hawlucha",
+    "types": [
+      "fighting",
+      "flying"
+    ],
+    "hp": 78,
+    "atk": 92,
+    "def": 75,
+    "sAt": 74,
+    "sDf": 63,
+    "spd": 118,
+    "bst": 500
+  },
+  {
+    "natNum": 702,
+    "name": "dedenne",
+    "types": [
+      "electric",
+      "fairy"
+    ],
+    "hp": 67,
+    "atk": 58,
+    "def": 57,
+    "sAt": 81,
+    "sDf": 67,
+    "spd": 101,
+    "bst": 431
+  },
+  {
+    "natNum": 703,
+    "name": "carbink",
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "hp": 50,
+    "atk": 50,
+    "def": 150,
+    "sAt": 50,
+    "sDf": 150,
+    "spd": 50,
+    "bst": 500
+  },
+  {
+    "natNum": 704,
+    "name": "goomy",
+    "types": [
+      "dragon"
+    ],
+    "hp": 45,
+    "atk": 50,
+    "def": 35,
+    "sAt": 55,
+    "sDf": 75,
+    "spd": 40,
+    "bst": 300
+  },
+  {
+    "natNum": 705,
+    "name": "sliggoo",
+    "types": [
+      "dragon"
+    ],
+    "hp": 68,
+    "atk": 75,
+    "def": 53,
+    "sAt": 83,
+    "sDf": 113,
+    "spd": 60,
+    "bst": 452
+  },
+  {
+    "natNum": 706,
+    "name": "goodra",
+    "types": [
+      "dragon"
+    ],
+    "hp": 90,
+    "atk": 100,
+    "def": 70,
+    "sAt": 110,
+    "sDf": 150,
+    "spd": 80,
+    "bst": 600
+  },
+  {
+    "natNum": 707,
+    "name": "klefki",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "hp": 57,
+    "atk": 80,
+    "def": 91,
+    "sAt": 80,
+    "sDf": 87,
+    "spd": 75,
+    "bst": 470
+  },
+  {
+    "natNum": 708,
+    "name": "phantump",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hp": 43,
+    "atk": 70,
+    "def": 48,
+    "sAt": 50,
+    "sDf": 60,
+    "spd": 38,
+    "bst": 309
+  },
+  {
+    "natNum": 709,
+    "name": "trevenant",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hp": 85,
+    "atk": 110,
+    "def": 76,
+    "sAt": 65,
+    "sDf": 82,
+    "spd": 56,
+    "bst": 474
+  },
+  {
+    "natNum": 710,
+    "name": "pumpkaboo",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hp": 49,
+    "atk": 66,
+    "def": 70,
+    "sAt": 44,
+    "sDf": 55,
+    "spd": 51,
+    "bst": 335
+  },
+  {
+    "natNum": 710,
+    "name": "pumpkaboo",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hp": 44,
+    "atk": 66,
+    "def": 70,
+    "sAt": 44,
+    "sDf": 55,
+    "spd": 56,
+    "bst": 335
+  },
+  {
+    "natNum": 710,
+    "name": "pumpkaboo",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hp": 54,
+    "atk": 66,
+    "def": 70,
+    "sAt": 44,
+    "sDf": 55,
+    "spd": 46,
+    "bst": 335
+  },
+  {
+    "natNum": 710,
+    "name": "pumpkaboo",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hp": 59,
+    "atk": 66,
+    "def": 70,
+    "sAt": 44,
+    "sDf": 55,
+    "spd": 41,
+    "bst": 335
+  },
+  {
+    "natNum": 710,
+    "name": "pumpkaboo",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hp": 44,
+    "atk": 66,
+    "def": 70,
+    "sAt": 44,
+    "sDf": 55,
+    "spd": 56,
+    "bst": 335
+  },
+  {
+    "natNum": 711,
+    "name": "gourgeist",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hp": 65,
+    "atk": 90,
+    "def": 122,
+    "sAt": 58,
+    "sDf": 75,
+    "spd": 84,
+    "bst": 494
+  },
+  {
+    "natNum": 711,
+    "name": "gourgeist",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hp": 55,
+    "atk": 85,
+    "def": 122,
+    "sAt": 58,
+    "sDf": 75,
+    "spd": 99,
+    "bst": 494
+  },
+  {
+    "natNum": 711,
+    "name": "gourgeist",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hp": 75,
+    "atk": 95,
+    "def": 122,
+    "sAt": 58,
+    "sDf": 75,
+    "spd": 69,
+    "bst": 494
+  },
+  {
+    "natNum": 711,
+    "name": "gourgeist",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hp": 85,
+    "atk": 100,
+    "def": 122,
+    "sAt": 58,
+    "sDf": 75,
+    "spd": 54,
+    "bst": 494
+  },
+  {
+    "natNum": 711,
+    "name": "gourgeist",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hp": 55,
+    "atk": 85,
+    "def": 122,
+    "sAt": 58,
+    "sDf": 75,
+    "spd": 99,
+    "bst": 494
+  },
+  {
+    "natNum": 712,
+    "name": "bergmite",
+    "types": [
+      "ice"
+    ],
+    "hp": 55,
+    "atk": 69,
+    "def": 85,
+    "sAt": 32,
+    "sDf": 35,
+    "spd": 28,
+    "bst": 304
+  },
+  {
+    "natNum": 713,
+    "name": "avalugg",
+    "types": [
+      "ice"
+    ],
+    "hp": 95,
+    "atk": 117,
+    "def": 184,
+    "sAt": 44,
+    "sDf": 46,
+    "spd": 28,
+    "bst": 514
+  },
+  {
+    "natNum": 714,
+    "name": "noibat",
+    "types": [
+      "flying",
+      "dragon"
+    ],
+    "hp": 40,
+    "atk": 30,
+    "def": 35,
+    "sAt": 45,
+    "sDf": 40,
+    "spd": 55,
+    "bst": 245
+  },
+  {
+    "natNum": 715,
+    "name": "noivern",
+    "types": [
+      "flying",
+      "dragon"
+    ],
+    "hp": 85,
+    "atk": 70,
+    "def": 80,
+    "sAt": 97,
+    "sDf": 80,
+    "spd": 123,
+    "bst": 535
+  },
+  {
+    "natNum": 716,
+    "name": "xerneas",
+    "types": [
+      "fairy"
+    ],
+    "hp": 126,
+    "atk": 131,
+    "def": 95,
+    "sAt": 131,
+    "sDf": 98,
+    "spd": 99,
+    "bst": 680
+  },
+  {
+    "natNum": 717,
+    "name": "yveltal",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "hp": 126,
+    "atk": 131,
+    "def": 95,
+    "sAt": 131,
+    "sDf": 98,
+    "spd": 99,
+    "bst": 680
+  },
+  {
+    "natNum": 718,
+    "name": "zygarde",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "hp": 108,
+    "atk": 100,
+    "def": 121,
+    "sAt": 81,
+    "sDf": 95,
+    "spd": 95,
+    "bst": 600
+  }
+]

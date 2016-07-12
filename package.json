@@ -1,0 +1,26 @@
+{
+  "name": "pokewrapper",
+  "version": "1.0.0",
+  "description": "wrapper to interact with all things pokemon",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpedersen2054/pokewrapper.git"
+  },
+  "keywords": [
+    "pokemon",
+    "pokemon_wrapper"
+  ],
+  "author": "matt pedersen <matthewnpedersen@gmail.com> (http://patmedersen.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpedersen2054/pokewrapper/issues"
+  },
+  "homepage": "https://github.com/mpedersen2054/pokewrapper#readme",
+  "dependencies": {
+    "lodash": "4.13.1"
+  }
+}
