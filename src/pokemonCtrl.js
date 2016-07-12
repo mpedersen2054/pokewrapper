@@ -1,5 +1,4 @@
-// var lodash = require('lodash');
-// var _ = lodash;
+var _ = require('lodash');
 
 var Pokemon = (function() {
 

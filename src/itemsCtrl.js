@@ -1,8 +1,23 @@
-// var lodash = require('lodash');
-// var _ = lodash;
+var _ = require('lodash');
 
-export function byAll() {
-  return {
-    hello: 'there'
+var Items = (function() {
+
+  var all = function() {
+    return {
+      by: 'all'
+    }
   }
-}
+
+  var byAlphabetical = function() {
+    return {
+      by: 'alphabetical'
+    }
+  }
+
+  return {
+    all,
+    byAlphabetical
+  }
+})();
+
+module.exports = Items;
