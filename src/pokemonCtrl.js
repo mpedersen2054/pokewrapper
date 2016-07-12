@@ -1,10 +1,11 @@
 var _ = require('lodash');
+var pokeData = require('../data/pokemonList.json');
 
 var Pokemon = (function() {
 
   var all = function() {
     return {
-      by: 'all'
+      by: pokeData.length
     }
   }
 
@@ -14,7 +15,8 @@ var Pokemon = (function() {
     }
   }
 
-  var byType = function() {
+  // types=[]
+  var byType = function(types) {
     return {
       by: 'type'
     }

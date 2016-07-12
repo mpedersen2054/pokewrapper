@@ -1,10 +1,11 @@
 var _ = require('lodash');
+var itemData = require('../data/itemList.json');
 
 var Items = (function() {
 
   var all = function() {
     return {
-      by: 'all'
+      by: itemData
     }
   }
 

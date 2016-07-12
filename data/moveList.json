@@ -1,0 +1,6212 @@
+[
+  {
+    "tmNum": "71",
+    "name": "Absorb",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "51",
+    "name": "Acid",
+    "type": "Poison",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "151",
+    "name": "Acid Armor",
+    "type": "Poison",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "491",
+    "name": "Acid Spray",
+    "type": "Poison",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "512",
+    "name": "Acrobatics",
+    "type": "Flying",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "367",
+    "name": "Acupressure",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "Self or Ally"
+  },
+  {
+    "tmNum": "332",
+    "name": "Aerial Ace",
+    "type": "Flying",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "177",
+    "name": "Aeroblast",
+    "type": "Flying",
+    "category": "Special",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "495",
+    "name": "After You",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "97",
+    "name": "Agility",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "Self"
+  },
+  {
+    "tmNum": "314",
+    "name": "Air Cutter",
+    "type": "Flying",
+    "category": "Special",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "25",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "403",
+    "name": "Air Slash",
+    "type": "Flying",
+    "category": "Special",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "502",
+    "name": "Ally Switch",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "Self"
+  },
+  {
+    "tmNum": "133",
+    "name": "Amnesia",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "246",
+    "name": "Ancient Power",
+    "type": "Rock",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "453",
+    "name": "Aqua Jet",
+    "type": "Water",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "392",
+    "name": "Aqua Ring",
+    "type": "Water",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "401",
+    "name": "Aqua Tail",
+    "type": "Water",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "292",
+    "name": "Arm Thrust",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "312",
+    "name": "Aromatherapy",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Heal Bell"
+  },
+  {
+    "tmNum": "597",
+    "name": "Aromatic Mist",
+    "type": "Fairy",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "A Nearby Ally"
+  },
+  {
+    "tmNum": "274",
+    "name": "Assist",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "372",
+    "name": "Assurance",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "310",
+    "name": "Astonish",
+    "type": "Ghost",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "454",
+    "name": "Attack Order",
+    "type": "Bug",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "213",
+    "name": "Attract",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "396",
+    "name": "Aura Sphere",
+    "type": "Fight",
+    "category": "Special",
+    "power": "",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "62",
+    "name": "Aurora Beam",
+    "type": "Ice",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "475",
+    "name": "Autotomize",
+    "type": "Steel",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "Self"
+  },
+  {
+    "tmNum": "419",
+    "name": "Avalanche",
+    "type": "Ice",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "608",
+    "name": "Baby-Doll Eyes",
+    "type": "Fairy",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "140",
+    "name": "Barrage",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "112",
+    "name": "Barrier",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "226",
+    "name": "Baton Pass",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "40",
+    "target": "Self"
+  },
+  {
+    "tmNum": "251",
+    "name": "Beat Up",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "562",
+    "name": "Belch",
+    "type": "Poison",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "187",
+    "name": "Belly Drum",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "516",
+    "name": "Bestow",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "117",
+    "name": "Bide",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "20",
+    "name": "Bind",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "44",
+    "name": "Bite",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "307",
+    "name": "Blast Burn",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "299",
+    "name": "Blaze Kick",
+    "type": "Fire",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "59",
+    "name": "Blizzard",
+    "type": "Ice",
+    "category": "Special",
+    "power": "",
+    "accuracy": "70%",
+    "pp": "5",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "335",
+    "name": "Block",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "551",
+    "name": "Blue Flare",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "34",
+    "name": "Body Slam",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "550",
+    "name": "Bolt Strike",
+    "type": "Electr",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "125",
+    "name": "Bone Club",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "198",
+    "name": "Bone Rush",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "155",
+    "name": "Bonemerang",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "586",
+    "name": "Boomburst",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "340",
+    "name": "Bounce",
+    "type": "Flying",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "413",
+    "name": "Brave Bird",
+    "type": "Flying",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "280",
+    "name": "Brick Break",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "362",
+    "name": "Brine",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "145",
+    "name": "Bubble",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "61",
+    "name": "Bubble Beam",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "450",
+    "name": "Bug Bite",
+    "type": "Bug",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "405",
+    "name": "Bug Buzz",
+    "type": "Bug",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "339",
+    "name": "Bulk Up",
+    "type": "Fight",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "523",
+    "name": "Bulldoze",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "418",
+    "name": "Bullet Punch",
+    "type": "Steel",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "331",
+    "name": "Bullet Seed",
+    "type": "Grass",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "347",
+    "name": "Calm Mind",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "293",
+    "name": "Camouflage",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "445",
+    "name": "Captivate",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "606",
+    "name": "Celebrate",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "40",
+    "target": "Self"
+  },
+  {
+    "tmNum": "268",
+    "name": "Charge",
+    "type": "Electr",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "451",
+    "name": "Charge Beam",
+    "type": "Electr",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "204",
+    "name": "Charm",
+    "type": "Fairy",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "448",
+    "name": "Chatter",
+    "type": "Flying",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "498",
+    "name": "Chip Away",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "509",
+    "name": "Circle Throw",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "128",
+    "name": "Clamp",
+    "type": "Water",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "499",
+    "name": "Clear Smog",
+    "type": "Poison",
+    "category": "Special",
+    "power": "",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "370",
+    "name": "Close Combat",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "489",
+    "name": "Coil",
+    "type": "Poison",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "4",
+    "name": "Comet Punch",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "590",
+    "name": "Confide",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "109",
+    "name": "Confuse Ray",
+    "type": "Ghost",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "93",
+    "name": "Confusion",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "132",
+    "name": "Constrict",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "35",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "160",
+    "name": "Conversion",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "Self"
+  },
+  {
+    "tmNum": "176",
+    "name": "Conversion 2",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "383",
+    "name": "Copycat",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "322",
+    "name": "Cosmic Power",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "538",
+    "name": "Cotton Guard",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "178",
+    "name": "Cotton Spore",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "40",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "68",
+    "name": "Counter",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "Last Foe to Act"
+  },
+  {
+    "tmNum": "343",
+    "name": "Covet",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "152",
+    "name": "Crabhammer",
+    "type": "Water",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "578",
+    "name": "Crafty Shield",
+    "type": "Fairy",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "User's Field"
+  },
+  {
+    "tmNum": "238",
+    "name": "Cross Chop",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "80%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "440",
+    "name": "Cross Poison",
+    "type": "Poison",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "242",
+    "name": "Crunch",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "306",
+    "name": "Crush Claw",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "462",
+    "name": "Crush Grip",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "174",
+    "name": "Curse",
+    "type": "Ghost",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Last Foe to Act"
+  },
+  {
+    "tmNum": "15",
+    "name": "Cut",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "399",
+    "name": "Dark Pulse",
+    "type": "Dark",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "464",
+    "name": "Dark Void",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "80%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "605",
+    "name": "Dazzling Gleam",
+    "type": "Fairy",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "455",
+    "name": "Defend Order",
+    "type": "Bug",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "111",
+    "name": "Defense Curl",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "40",
+    "target": "Self"
+  },
+  {
+    "tmNum": "432",
+    "name": "Defog",
+    "type": "Flying",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "194",
+    "name": "Destiny Bond",
+    "type": "Ghost",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Self"
+  },
+  {
+    "tmNum": "197",
+    "name": "Detect",
+    "type": "Fight",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Self"
+  },
+  {
+    "tmNum": "591",
+    "name": "Diamond Storm",
+    "type": "Rock",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "5",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "91",
+    "name": "Dig",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "50",
+    "name": "Disable",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "574",
+    "name": "Disarming Voice",
+    "type": "Fairy",
+    "category": "Special",
+    "power": "",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "435",
+    "name": "Discharge",
+    "type": "Electr",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "291",
+    "name": "Dive",
+    "type": "Water",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "146",
+    "name": "Dizzy Punch",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "353",
+    "name": "Doom Desire",
+    "type": "Steel",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "458",
+    "name": "Double Hit",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "24",
+    "name": "Double Kick",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "3",
+    "name": "Double Slap",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "104",
+    "name": "Double Team",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "Self"
+  },
+  {
+    "tmNum": "38",
+    "name": "Double-Edge",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "434",
+    "name": "Draco Meteor",
+    "type": "Dragon",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "620",
+    "name": "Dragon Ascent",
+    "type": "Flying",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "225",
+    "name": "Dragon Breath",
+    "type": "Dragon",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "337",
+    "name": "Dragon Claw",
+    "type": "Dragon",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "349",
+    "name": "Dragon Dance",
+    "type": "Dragon",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "406",
+    "name": "Dragon Pulse",
+    "type": "Dragon",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "82",
+    "name": "Dragon Rage",
+    "type": "Dragon",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "407",
+    "name": "Dragon Rush",
+    "type": "Dragon",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "75%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "525",
+    "name": "Dragon Tail",
+    "type": "Dragon",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "409",
+    "name": "Drain Punch",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "577",
+    "name": "Draining Kiss",
+    "type": "Fairy",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "138",
+    "name": "Dream Eater",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "65",
+    "name": "Drill Peck",
+    "type": "Flying",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "529",
+    "name": "Drill Run",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "530",
+    "name": "Dual Chop",
+    "type": "Dragon",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "223",
+    "name": "Dynamic Punch",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "50%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "414",
+    "name": "Earth Power",
+    "type": "Ground",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "89",
+    "name": "Earthquake",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "497",
+    "name": "Echoed Voice",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "598",
+    "name": "Eerie Impulse",
+    "type": "Electr",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "121",
+    "name": "Egg Bomb",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "75%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "604",
+    "name": "Electric Terrain",
+    "type": "Electr",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "582",
+    "name": "Electrify",
+    "type": "Electr",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "486",
+    "name": "Electro Ball",
+    "type": "Electr",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "527",
+    "name": "Electroweb",
+    "type": "Electr",
+    "category": "Special",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "15",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "373",
+    "name": "Embargo",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "52",
+    "name": "Ember",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "227",
+    "name": "Encore",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "283",
+    "name": "Endeavor",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "203",
+    "name": "Endure",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "412",
+    "name": "Energy Ball",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "494",
+    "name": "Entrainment",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "284",
+    "name": "Eruption",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "153",
+    "name": "Explosion",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "326",
+    "name": "Extrasensory",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "245",
+    "name": "Extreme Speed",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "263",
+    "name": "Facade",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "587",
+    "name": "Fairy Lock",
+    "type": "Fairy",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "584",
+    "name": "Fairy Wind",
+    "type": "Fairy",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "252",
+    "name": "Fake Out",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "313",
+    "name": "Fake Tears",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "206",
+    "name": "False Swipe",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "40",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "297",
+    "name": "Feather Dance",
+    "type": "Flying",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "364",
+    "name": "Feint",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "185",
+    "name": "Feint Attack",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "565",
+    "name": "Fell Stinger",
+    "type": "Bug",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "552",
+    "name": "Fiery Dance",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "515",
+    "name": "Final Gambit",
+    "type": "Fight",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "126",
+    "name": "Fire Blast",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "424",
+    "name": "Fire Fang",
+    "type": "Fire",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "519",
+    "name": "Fire Pledge",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "7",
+    "name": "Fire Punch",
+    "type": "Fire",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "83",
+    "name": "Fire Spin",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "90",
+    "name": "Fissure",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "30%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "175",
+    "name": "Flail",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "481",
+    "name": "Flame Burst",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "488",
+    "name": "Flame Charge",
+    "type": "Fire",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "172",
+    "name": "Flame Wheel",
+    "type": "Fire",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "53",
+    "name": "Flamethrower",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "394",
+    "name": "Flare Blitz",
+    "type": "Fire",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "148",
+    "name": "Flash",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "430",
+    "name": "Flash Cannon",
+    "type": "Steel",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "260",
+    "name": "Flatter",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "374",
+    "name": "Fling",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "579",
+    "name": "Flower Shield",
+    "type": "Fairy",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Perish Song"
+  },
+  {
+    "tmNum": "19",
+    "name": "Fly",
+    "type": "Flying",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "560",
+    "name": "Flying Press",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "411",
+    "name": "Focus Blast",
+    "type": "Fight",
+    "category": "Special",
+    "power": "",
+    "accuracy": "70%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "116",
+    "name": "Focus Energy",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "Self"
+  },
+  {
+    "tmNum": "264",
+    "name": "Focus Punch",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "266",
+    "name": "Follow Me",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "395",
+    "name": "Force Palm",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "193",
+    "name": "Foresight",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "40",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "571",
+    "name": "Forest’s Curse",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "492",
+    "name": "Foul Play",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "553",
+    "name": "Freeze Shock",
+    "type": "Ice",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "573",
+    "name": "Freeze-Dry",
+    "type": "Ice",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "338",
+    "name": "Frenzy Plant",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "524",
+    "name": "Frost Breath",
+    "type": "Ice",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "218",
+    "name": "Frustration",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "31",
+    "name": "Fury Attack",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "210",
+    "name": "Fury Cutter",
+    "type": "Bug",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "154",
+    "name": "Fury Swipes",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "80%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "559",
+    "name": "Fusion Bolt",
+    "type": "Electr",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "558",
+    "name": "Fusion Flare",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "248",
+    "name": "Future Sight",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "380",
+    "name": "Gastro Acid",
+    "type": "Poison",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "544",
+    "name": "Gear Grind",
+    "type": "Steel",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "601",
+    "name": "Geomancy",
+    "type": "Fairy",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "202",
+    "name": "Giga Drain",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "416",
+    "name": "Giga Impact",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "549",
+    "name": "Glaciate",
+    "type": "Ice",
+    "category": "Special",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "137",
+    "name": "Glare",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "447",
+    "name": "Grass Knot",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "520",
+    "name": "Grass Pledge",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "320",
+    "name": "Grass Whistle",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "55%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "580",
+    "name": "Grassy Terrain",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "356",
+    "name": "Gravity",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "45",
+    "name": "Growl",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "40",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "74",
+    "name": "Growth",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "288",
+    "name": "Grudge",
+    "type": "Ghost",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Self"
+  },
+  {
+    "tmNum": "470",
+    "name": "Guard Split",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "385",
+    "name": "Guard Swap",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "12",
+    "name": "Guillotine",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "30%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "441",
+    "name": "Gunk Shot",
+    "type": "Poison",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "80%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "16",
+    "name": "Gust",
+    "type": "Flying",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "35",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "360",
+    "name": "Gyro Ball",
+    "type": "Steel",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "258",
+    "name": "Hail",
+    "type": "Ice",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "359",
+    "name": "Hammer Arm",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "603",
+    "name": "Happy Hour",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "User's Field"
+  },
+  {
+    "tmNum": "106",
+    "name": "Harden",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "Self"
+  },
+  {
+    "tmNum": "114",
+    "name": "Haze",
+    "type": "Ice",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "543",
+    "name": "Head Charge",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "457",
+    "name": "Head Smash",
+    "type": "Rock",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "80%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "29",
+    "name": "Headbutt",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "215",
+    "name": "Heal Bell",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Heal Bell"
+  },
+  {
+    "tmNum": "377",
+    "name": "Heal Block",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "456",
+    "name": "Heal Order",
+    "type": "Bug",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "505",
+    "name": "Heal Pulse",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "361",
+    "name": "Healing Wish",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "531",
+    "name": "Heart Stamp",
+    "type": "Psychc",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "391",
+    "name": "Heart Swap",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "535",
+    "name": "Heat Crash",
+    "type": "Fire",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "257",
+    "name": "Heat Wave",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "484",
+    "name": "Heavy Slam",
+    "type": "Steel",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "270",
+    "name": "Helping Hand",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "A Nearby Ally"
+  },
+  {
+    "tmNum": "506",
+    "name": "Hex",
+    "type": "Ghost",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "237",
+    "name": "Hidden Power",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "136",
+    "name": "High Jump Kick",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "610",
+    "name": "Hold Back",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "40",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "607",
+    "name": "Hold Hands",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "40",
+    "target": "A Nearby Ally"
+  },
+  {
+    "tmNum": "468",
+    "name": "Hone Claws",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "Self"
+  },
+  {
+    "tmNum": "30",
+    "name": "Horn Attack",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "32",
+    "name": "Horn Drill",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "30%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "532",
+    "name": "Horn Leech",
+    "type": "Grass",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "336",
+    "name": "Howl",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "40",
+    "target": "Self"
+  },
+  {
+    "tmNum": "542",
+    "name": "Hurricane",
+    "type": "Flying",
+    "category": "Special",
+    "power": "",
+    "accuracy": "70%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "308",
+    "name": "Hydro Cannon",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "56",
+    "name": "Hydro Pump",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "80%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "63",
+    "name": "Hyper Beam",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "158",
+    "name": "Hyper Fang",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "304",
+    "name": "Hyper Voice",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "621",
+    "name": "Hyperspace Fury",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "593",
+    "name": "Hyperspace Hole",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "95",
+    "name": "Hypnosis",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "60%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "301",
+    "name": "Ice Ball",
+    "type": "Ice",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "58",
+    "name": "Ice Beam",
+    "type": "Ice",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "554",
+    "name": "Ice Burn",
+    "type": "Ice",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "423",
+    "name": "Ice Fang",
+    "type": "Ice",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "8",
+    "name": "Ice Punch",
+    "type": "Ice",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "420",
+    "name": "Ice Shard",
+    "type": "Ice",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "556",
+    "name": "Icicle Crash",
+    "type": "Ice",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "333",
+    "name": "Icicle Spear",
+    "type": "Ice",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "196",
+    "name": "Icy Wind",
+    "type": "Ice",
+    "category": "Special",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "15",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "286",
+    "name": "Imprison",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "510",
+    "name": "Incinerate",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "517",
+    "name": "Inferno",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "50%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "611",
+    "name": "Infestation",
+    "type": "Bug",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "275",
+    "name": "Ingrain",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "569",
+    "name": "Ion Deluge",
+    "type": "Electr",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "25",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "334",
+    "name": "Iron Defense",
+    "type": "Steel",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "Self"
+  },
+  {
+    "tmNum": "442",
+    "name": "Iron Head",
+    "type": "Steel",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "231",
+    "name": "Iron Tail",
+    "type": "Steel",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "75%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "449",
+    "name": "Judgment",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "26",
+    "name": "Jump Kick",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "2",
+    "name": "Karate Chop",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "134",
+    "name": "Kinesis",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "80%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "588",
+    "name": "King’s Shield",
+    "type": "Steel",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "282",
+    "name": "Knock Off",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "616",
+    "name": "Land’s Wrath",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "387",
+    "name": "Last Resort",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "436",
+    "name": "Lava Plume",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "348",
+    "name": "Leaf Blade",
+    "type": "Grass",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "437",
+    "name": "Leaf Storm",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "536",
+    "name": "Leaf Tornado",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "141",
+    "name": "Leech Life",
+    "type": "Bug",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "73",
+    "name": "Leech Seed",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "43",
+    "name": "Leer",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "122",
+    "name": "Lick",
+    "type": "Ghost",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "617",
+    "name": "Light of Ruin",
+    "type": "Fairy",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "113",
+    "name": "Light Screen",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "User's Field"
+  },
+  {
+    "tmNum": "199",
+    "name": "Lock-On",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "142",
+    "name": "Lovely Kiss",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "75%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "67",
+    "name": "Low Kick",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "490",
+    "name": "Low Sweep",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "381",
+    "name": "Lucky Chant",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "User's Field"
+  },
+  {
+    "tmNum": "461",
+    "name": "Lunar Dance",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "295",
+    "name": "Luster Purge",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "183",
+    "name": "Mach Punch",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "277",
+    "name": "Magic Coat",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "Self"
+  },
+  {
+    "tmNum": "478",
+    "name": "Magic Room",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "345",
+    "name": "Magical Leaf",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "463",
+    "name": "Magma Storm",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "75%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "443",
+    "name": "Magnet Bomb",
+    "type": "Steel",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "393",
+    "name": "Magnet Rise",
+    "type": "Electr",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "602",
+    "name": "Magnetic Flux",
+    "type": "Electr",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Heal Bell"
+  },
+  {
+    "tmNum": "222",
+    "name": "Magnitude",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "561",
+    "name": "Mat Block",
+    "type": "Fight",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "User's Field"
+  },
+  {
+    "tmNum": "382",
+    "name": "Me First",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Me First"
+  },
+  {
+    "tmNum": "212",
+    "name": "Mean Look",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "96",
+    "name": "Meditate",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "40",
+    "target": "Self"
+  },
+  {
+    "tmNum": "72",
+    "name": "Mega Drain",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "25",
+    "name": "Mega Kick",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "75%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "5",
+    "name": "Mega Punch",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "224",
+    "name": "Megahorn",
+    "type": "Bug",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "262",
+    "name": "Memento",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "368",
+    "name": "Metal Burst",
+    "type": "Steel",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "Last Foe to Act"
+  },
+  {
+    "tmNum": "232",
+    "name": "Metal Claw",
+    "type": "Steel",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "35",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "319",
+    "name": "Metal Sound",
+    "type": "Steel",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "85%",
+    "pp": "40",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "309",
+    "name": "Meteor Mash",
+    "type": "Steel",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "118",
+    "name": "Metronome",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "208",
+    "name": "Milk Drink",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "102",
+    "name": "Mimic",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "170",
+    "name": "Mind Reader",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "107",
+    "name": "Minimize",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "357",
+    "name": "Miracle Eye",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "40",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "243",
+    "name": "Mirror Coat",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "Last Foe to Act"
+  },
+  {
+    "tmNum": "119",
+    "name": "Mirror Move",
+    "type": "Flying",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "429",
+    "name": "Mirror Shot",
+    "type": "Steel",
+    "category": "Special",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "54",
+    "name": "Mist",
+    "type": "Ice",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "User's Field"
+  },
+  {
+    "tmNum": "296",
+    "name": "Mist Ball",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "581",
+    "name": "Misty Terrain",
+    "type": "Fairy",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "585",
+    "name": "Moonblast",
+    "type": "Fairy",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "236",
+    "name": "Moonlight",
+    "type": "Fairy",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Self"
+  },
+  {
+    "tmNum": "234",
+    "name": "Morning Sun",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Self"
+  },
+  {
+    "tmNum": "426",
+    "name": "Mud Bomb",
+    "type": "Ground",
+    "category": "Special",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "341",
+    "name": "Mud Shot",
+    "type": "Ground",
+    "category": "Special",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "300",
+    "name": "Mud Sport",
+    "type": "Ground",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "330",
+    "name": "Muddy Water",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "189",
+    "name": "Mud-Slap",
+    "type": "Ground",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "595",
+    "name": "Mystical Fire",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "417",
+    "name": "Nasty Plot",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "363",
+    "name": "Natural Gift",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "267",
+    "name": "Nature Power",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "302",
+    "name": "Needle Arm",
+    "type": "Grass",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "539",
+    "name": "Night Daze",
+    "type": "Dark",
+    "category": "Special",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "101",
+    "name": "Night Shade",
+    "type": "Ghost",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "400",
+    "name": "Night Slash",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "171",
+    "name": "Nightmare",
+    "type": "Ghost",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "568",
+    "name": "Noble Roar",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "609",
+    "name": "Nuzzle",
+    "type": "Electr",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "613",
+    "name": "Oblivion Wing",
+    "type": "Flying",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "190",
+    "name": "Octazooka",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "316",
+    "name": "Odor Sleuth",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "40",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "466",
+    "name": "Ominous Wind",
+    "type": "Ghost",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "618",
+    "name": "Origin Pulse",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "200",
+    "name": "Outrage",
+    "type": "Dragon",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "Random Foe"
+  },
+  {
+    "tmNum": "315",
+    "name": "Overheat",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "220",
+    "name": "Pain Split",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "570",
+    "name": "Parabolic Charge",
+    "type": "Electr",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "575",
+    "name": "Parting Shot",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "6",
+    "name": "Pay Day",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "371",
+    "name": "Payback",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "64",
+    "name": "Peck",
+    "type": "Flying",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "35",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "195",
+    "name": "Perish Song",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Perish Song"
+  },
+  {
+    "tmNum": "572",
+    "name": "Petal Blizzard",
+    "type": "Grass",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "80",
+    "name": "Petal Dance",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "Random Foe"
+  },
+  {
+    "tmNum": "566",
+    "name": "Phantom Force",
+    "type": "Ghost",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "42",
+    "name": "Pin Missile",
+    "type": "Bug",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "589",
+    "name": "Play Nice",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "583",
+    "name": "Play Rough",
+    "type": "Fairy",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "365",
+    "name": "Pluck",
+    "type": "Flying",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "305",
+    "name": "Poison Fang",
+    "type": "Poison",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "139",
+    "name": "Poison Gas",
+    "type": "Poison",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "90%",
+    "pp": "40",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "398",
+    "name": "Poison Jab",
+    "type": "Poison",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "77",
+    "name": "Poison Powder",
+    "type": "Poison",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "75%",
+    "pp": "35",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "40",
+    "name": "Poison Sting",
+    "type": "Poison",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "35",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "342",
+    "name": "Poison Tail",
+    "type": "Poison",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "1",
+    "name": "Pound",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "35",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "600",
+    "name": "Powder",
+    "type": "Bug",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "181",
+    "name": "Powder Snow",
+    "type": "Ice",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "408",
+    "name": "Power Gem",
+    "type": "Rock",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "471",
+    "name": "Power Split",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "384",
+    "name": "Power Swap",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "379",
+    "name": "Power Trick",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "438",
+    "name": "Power Whip",
+    "type": "Grass",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "612",
+    "name": "Power-Up Punch",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "619",
+    "name": "Precipice Blades",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "217",
+    "name": "Present",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "182",
+    "name": "Protect",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "60",
+    "name": "Psybeam",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "244",
+    "name": "Psych Up",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "94",
+    "name": "Psychic",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "354",
+    "name": "Psycho Boost",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "427",
+    "name": "Psycho Cut",
+    "type": "Psychc",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "375",
+    "name": "Psycho Shift",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "473",
+    "name": "Psyshock",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "540",
+    "name": "Psystrike",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "149",
+    "name": "Psywave",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "386",
+    "name": "Punishment",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "228",
+    "name": "Pursuit",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "511",
+    "name": "Quash",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "98",
+    "name": "Quick Attack",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "501",
+    "name": "Quick Guard",
+    "type": "Fight",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "User's Field"
+  },
+  {
+    "tmNum": "483",
+    "name": "Quiver Dance",
+    "type": "Bug",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "99",
+    "name": "Rage",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "476",
+    "name": "Rage Powder",
+    "type": "Bug",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "240",
+    "name": "Rain Dance",
+    "type": "Water",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "229",
+    "name": "Rapid Spin",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "40",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "75",
+    "name": "Razor Leaf",
+    "type": "Grass",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "25",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "534",
+    "name": "Razor Shell",
+    "type": "Water",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "13",
+    "name": "Razor Wind",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "105",
+    "name": "Recover",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "278",
+    "name": "Recycle",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "115",
+    "name": "Reflect",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "User's Field"
+  },
+  {
+    "tmNum": "513",
+    "name": "Reflect Type",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "287",
+    "name": "Refresh",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "547",
+    "name": "Relic Song",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "156",
+    "name": "Rest",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "514",
+    "name": "Retaliate",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "216",
+    "name": "Return",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "279",
+    "name": "Revenge",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "179",
+    "name": "Reversal",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "46",
+    "name": "Roar",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "459",
+    "name": "Roar of Time",
+    "type": "Dragon",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "350",
+    "name": "Rock Blast",
+    "type": "Rock",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "431",
+    "name": "Rock Climb",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "397",
+    "name": "Rock Polish",
+    "type": "Rock",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "157",
+    "name": "Rock Slide",
+    "type": "Rock",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "249",
+    "name": "Rock Smash",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "88",
+    "name": "Rock Throw",
+    "type": "Rock",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "317",
+    "name": "Rock Tomb",
+    "type": "Rock",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "439",
+    "name": "Rock Wrecker",
+    "type": "Rock",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "272",
+    "name": "Role Play",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "27",
+    "name": "Rolling Kick",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "205",
+    "name": "Rollout",
+    "type": "Rock",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "355",
+    "name": "Roost",
+    "type": "Flying",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "563",
+    "name": "Rototiller",
+    "type": "Ground",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Perish Song"
+  },
+  {
+    "tmNum": "496",
+    "name": "Round",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "221",
+    "name": "Sacred Fire",
+    "type": "Fire",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "533",
+    "name": "Sacred Sword",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "219",
+    "name": "Safeguard",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "25",
+    "target": "User's Field"
+  },
+  {
+    "tmNum": "28",
+    "name": "Sand Attack",
+    "type": "Ground",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "328",
+    "name": "Sand Tomb",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "201",
+    "name": "Sandstorm",
+    "type": "Rock",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "503",
+    "name": "Scald",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "184",
+    "name": "Scary Face",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "10",
+    "name": "Scratch",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "35",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "103",
+    "name": "Screech",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "85%",
+    "pp": "40",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "545",
+    "name": "Searing Shot",
+    "type": "Fire",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "290",
+    "name": "Secret Power",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "548",
+    "name": "Secret Sword",
+    "type": "Fight",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "402",
+    "name": "Seed Bomb",
+    "type": "Grass",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "465",
+    "name": "Seed Flare",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "69",
+    "name": "Seismic Toss",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "120",
+    "name": "Self-Destruct",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "247",
+    "name": "Shadow Ball",
+    "type": "Ghost",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "421",
+    "name": "Shadow Claw",
+    "type": "Ghost",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "467",
+    "name": "Shadow Force",
+    "type": "Ghost",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "325",
+    "name": "Shadow Punch",
+    "type": "Ghost",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "425",
+    "name": "Shadow Sneak",
+    "type": "Ghost",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "159",
+    "name": "Sharpen",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "Self"
+  },
+  {
+    "tmNum": "329",
+    "name": "Sheer Cold",
+    "type": "Ice",
+    "category": "Special",
+    "power": "",
+    "accuracy": "30%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "504",
+    "name": "Shell Smash",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "Self"
+  },
+  {
+    "tmNum": "508",
+    "name": "Shift Gear",
+    "type": "Steel",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "351",
+    "name": "Shock Wave",
+    "type": "Electr",
+    "category": "Special",
+    "power": "",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "324",
+    "name": "Signal Beam",
+    "type": "Bug",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "318",
+    "name": "Silver Wind",
+    "type": "Bug",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "493",
+    "name": "Simple Beam",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "47",
+    "name": "Sing",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "55%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "166",
+    "name": "Sketch",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "1",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "285",
+    "name": "Skill Swap",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "130",
+    "name": "Skull Bash",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "143",
+    "name": "Sky Attack",
+    "type": "Flying",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "507",
+    "name": "Sky Drop",
+    "type": "Flying",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "327",
+    "name": "Sky Uppercut",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "303",
+    "name": "Slack Off",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "21",
+    "name": "Slam",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "75%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "163",
+    "name": "Slash",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "79",
+    "name": "Sleep Powder",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "75%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "214",
+    "name": "Sleep Talk",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "124",
+    "name": "Sludge",
+    "type": "Poison",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "188",
+    "name": "Sludge Bomb",
+    "type": "Poison",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "482",
+    "name": "Sludge Wave",
+    "type": "Poison",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "479",
+    "name": "Smack Down",
+    "type": "Rock",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "265",
+    "name": "Smelling Salts",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "123",
+    "name": "Smog",
+    "type": "Poison",
+    "category": "Special",
+    "power": "",
+    "accuracy": "70%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "108",
+    "name": "Smokescreen",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "555",
+    "name": "Snarl",
+    "type": "Dark",
+    "category": "Special",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "15",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "289",
+    "name": "Snatch",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "173",
+    "name": "Snore",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "487",
+    "name": "Soak",
+    "type": "Water",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "135",
+    "name": "Soft-Boiled",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "76",
+    "name": "Solar Beam",
+    "type": "Grass",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "49",
+    "name": "Sonic Boom",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "460",
+    "name": "Spacial Rend",
+    "type": "Dragon",
+    "category": "Special",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "209",
+    "name": "Spark",
+    "type": "Electr",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "169",
+    "name": "Spider Web",
+    "type": "Bug",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "131",
+    "name": "Spike Cannon",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "191",
+    "name": "Spikes",
+    "type": "Ground",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Foe's Field"
+  },
+  {
+    "tmNum": "596",
+    "name": "Spiky Shield",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "255",
+    "name": "Spit Up",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "180",
+    "name": "Spite",
+    "type": "Ghost",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "150",
+    "name": "Splash",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "40",
+    "target": "Self"
+  },
+  {
+    "tmNum": "147",
+    "name": "Spore",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "446",
+    "name": "Stealth Rock",
+    "type": "Rock",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Foe's Field"
+  },
+  {
+    "tmNum": "592",
+    "name": "Steam Eruption",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "537",
+    "name": "Steamroller",
+    "type": "Bug",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "211",
+    "name": "Steel Wing",
+    "type": "Steel",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "564",
+    "name": "Sticky Web",
+    "type": "Bug",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Foe's Field"
+  },
+  {
+    "tmNum": "254",
+    "name": "Stockpile",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "23",
+    "name": "Stomp",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "444",
+    "name": "Stone Edge",
+    "type": "Rock",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "80%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "500",
+    "name": "Stored Power",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "480",
+    "name": "Storm Throw",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "70",
+    "name": "Strength",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "81",
+    "name": "String Shot",
+    "type": "Bug",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "95%",
+    "pp": "40",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "165",
+    "name": "Struggle",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "--",
+    "pp": "1",
+    "target": "Random Foe"
+  },
+  {
+    "tmNum": "522",
+    "name": "Struggle Bug",
+    "type": "Bug",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "78",
+    "name": "Stun Spore",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "75%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "66",
+    "name": "Submission",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "80%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "164",
+    "name": "Substitute",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "389",
+    "name": "Sucker Punch",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "241",
+    "name": "Sunny Day",
+    "type": "Fire",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "162",
+    "name": "Super Fang",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "276",
+    "name": "Superpower",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "48",
+    "name": "Supersonic",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "55%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "57",
+    "name": "Surf",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "207",
+    "name": "Swagger",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "90%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "256",
+    "name": "Swallow",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "186",
+    "name": "Sweet Kiss",
+    "type": "Fairy",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "75%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "230",
+    "name": "Sweet Scent",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "129",
+    "name": "Swift",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "415",
+    "name": "Switcheroo",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "14",
+    "name": "Swords Dance",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "485",
+    "name": "Synchronoise",
+    "type": "Psychc",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "235",
+    "name": "Synthesis",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Self"
+  },
+  {
+    "tmNum": "33",
+    "name": "Tackle",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "35",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "294",
+    "name": "Tail Glow",
+    "type": "Bug",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "541",
+    "name": "Tail Slap",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "39",
+    "name": "Tail Whip",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "366",
+    "name": "Tailwind",
+    "type": "Flying",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "User's Field"
+  },
+  {
+    "tmNum": "36",
+    "name": "Take Down",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "269",
+    "name": "Taunt",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "546",
+    "name": "Techno Blast",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "298",
+    "name": "Teeter Dance",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "All Nearby"
+  },
+  {
+    "tmNum": "477",
+    "name": "Telekinesis",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "100",
+    "name": "Teleport",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Self"
+  },
+  {
+    "tmNum": "168",
+    "name": "Thief",
+    "type": "Dark",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "614",
+    "name": "Thousand Arrows",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "615",
+    "name": "Thousand Waves",
+    "type": "Ground",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "37",
+    "name": "Thrash",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "Random Foe"
+  },
+  {
+    "tmNum": "87",
+    "name": "Thunder",
+    "type": "Electr",
+    "category": "Special",
+    "power": "",
+    "accuracy": "70%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "422",
+    "name": "Thunder Fang",
+    "type": "Electr",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "9",
+    "name": "Thunder Punch",
+    "type": "Electr",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "84",
+    "name": "Thunder Shock",
+    "type": "Electr",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "86",
+    "name": "Thunder Wave",
+    "type": "Electr",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "85",
+    "name": "Thunderbolt",
+    "type": "Electr",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "321",
+    "name": "Tickle",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "576",
+    "name": "Topsy-Turvy",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "259",
+    "name": "Torment",
+    "type": "Dark",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "92",
+    "name": "Toxic",
+    "type": "Poison",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "390",
+    "name": "Toxic Spikes",
+    "type": "Poison",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "Foe's Field"
+  },
+  {
+    "tmNum": "144",
+    "name": "Transform",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "161",
+    "name": "Tri Attack",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "271",
+    "name": "Trick",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "433",
+    "name": "Trick Room",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "567",
+    "name": "Trick-or-Treat",
+    "type": "Ghost",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "167",
+    "name": "Triple Kick",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "376",
+    "name": "Trump Card",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "--",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "41",
+    "name": "Twineedle",
+    "type": "Bug",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "239",
+    "name": "Twister",
+    "type": "Dragon",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "253",
+    "name": "Uproar",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "Random Foe"
+  },
+  {
+    "tmNum": "369",
+    "name": "U-turn",
+    "type": "Bug",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "410",
+    "name": "Vacuum Wave",
+    "type": "Fight",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "557",
+    "name": "V-create",
+    "type": "Fire",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "95%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "599",
+    "name": "Venom Drench",
+    "type": "Poison",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "474",
+    "name": "Venoshock",
+    "type": "Poison",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "11",
+    "name": "Vice Grip",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "30",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "22",
+    "name": "Vine Whip",
+    "type": "Grass",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "233",
+    "name": "Vital Throw",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "521",
+    "name": "Volt Switch",
+    "type": "Electr",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "344",
+    "name": "Volt Tackle",
+    "type": "Electr",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "358",
+    "name": "Wake-Up Slap",
+    "type": "Fight",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "55",
+    "name": "Water Gun",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "25",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "518",
+    "name": "Water Pledge",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "352",
+    "name": "Water Pulse",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "594",
+    "name": "Water Shuriken",
+    "type": "Water",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "346",
+    "name": "Water Sport",
+    "type": "Water",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "15",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "323",
+    "name": "Water Spout",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "All Nearby Foes"
+  },
+  {
+    "tmNum": "127",
+    "name": "Waterfall",
+    "type": "Water",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "311",
+    "name": "Weather Ball",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "250",
+    "name": "Whirlpool",
+    "type": "Water",
+    "category": "Special",
+    "power": "",
+    "accuracy": "85%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "18",
+    "name": "Whirlwind",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "469",
+    "name": "Wide Guard",
+    "type": "Rock",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "User's Field"
+  },
+  {
+    "tmNum": "528",
+    "name": "Wild Charge",
+    "type": "Electr",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "261",
+    "name": "Will-O-Wisp",
+    "type": "Fire",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "85%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "17",
+    "name": "Wing Attack",
+    "type": "Flying",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "35",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "273",
+    "name": "Wish",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Self"
+  },
+  {
+    "tmNum": "110",
+    "name": "Withdraw",
+    "type": "Water",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "40",
+    "target": "Self"
+  },
+  {
+    "tmNum": "472",
+    "name": "Wonder Room",
+    "type": "Psychc",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "Whole Field"
+  },
+  {
+    "tmNum": "452",
+    "name": "Wood Hammer",
+    "type": "Grass",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "526",
+    "name": "Work Up",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "30",
+    "target": "Self"
+  },
+  {
+    "tmNum": "388",
+    "name": "Worry Seed",
+    "type": "Grass",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "100%",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "35",
+    "name": "Wrap",
+    "type": "Normal",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "20",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "378",
+    "name": "Wring Out",
+    "type": "Normal",
+    "category": "Special",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "404",
+    "name": "X-Scissor",
+    "type": "Bug",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "100%",
+    "pp": "15",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "281",
+    "name": "Yawn",
+    "type": "Normal",
+    "category": "Status or Support",
+    "power": "--",
+    "accuracy": "--",
+    "pp": "10",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "192",
+    "name": "Zap Cannon",
+    "type": "Electr",
+    "category": "Special",
+    "power": "",
+    "accuracy": "50%",
+    "pp": "5",
+    "target": "One Nearby"
+  },
+  {
+    "tmNum": "428",
+    "name": "Zen Headbutt",
+    "type": "Psychc",
+    "category": "Physical",
+    "power": "",
+    "accuracy": "90%",
+    "pp": "15",
+    "target": "One Nearby"
+  }
+]
