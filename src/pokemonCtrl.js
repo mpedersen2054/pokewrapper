@@ -9,7 +9,7 @@ var Pokemon = (function() {
       return +p.natNum;
     });
     return {
-      by: sorted
+      data: sorted
     }
   }
 
@@ -18,8 +18,9 @@ var Pokemon = (function() {
     var sorted  = _.sortBy(pokemon, function(p) {
       return p.name;
     });
+
     return {
-      by: sorted
+      data: sorted
     }
   }
 
@@ -33,7 +34,8 @@ var Pokemon = (function() {
         if (_.includes(p.types, types[0]) && _.includes(p.types, types[1])) {
           return p;
         }
-      } else {
+      }
+      else {
         if (_.includes(p.types, types[0])) {
           return p;
         }
@@ -41,8 +43,9 @@ var Pokemon = (function() {
     })
     // show stronger first
     var sorted = _.reverse(_.sortBy(filtered, 'bst'));
+
     return {
-      by: sorted
+      data: sorted
     }
   }
 
@@ -50,8 +53,9 @@ var Pokemon = (function() {
     var pokemon = _.clone(pokeData);
     // show stronger first
     var sorted  = _.reverse(_.sortBy(pokemon, stat));
+
     return {
-      by: sorted
+      data: sorted
     }
   }
 

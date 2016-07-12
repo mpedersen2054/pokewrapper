@@ -7,8 +7,9 @@ var Moves  = (function() {
   var all = function() {
     var moves  = _.clone(moveData);
     var sorted = _.sortedUniq(moves);
+
     return {
-      by: sorted
+      data: sorted
     }
   }
 
@@ -17,8 +18,9 @@ var Moves  = (function() {
   var byTm = function() {
     var moves  = _.clone(moveData);
     var sorted = _.sortBy(moves, function(m) { return +m.tmNum });
+
     return {
-      by: sorted
+      data: sorted
     }
   }
 
@@ -29,9 +31,10 @@ var Moves  = (function() {
     var moves  = _.clone(moveData);
     var sorted = _.filter(moves, function(m) {
       return m.type === _.capitalize(type);
-    })
+    });
+
     return {
-      by: sorted
+      data: sorted
     }
   }
 
@@ -43,7 +46,7 @@ var Moves  = (function() {
   //   });
   //   var sorted = _.sortBy(filtered, 'power');
   //   return {
-  //     by: _.reverse(sorted)
+  //     data: _.reverse(sorted)
   //   }
   // }
 
