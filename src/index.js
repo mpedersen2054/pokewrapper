@@ -10,21 +10,21 @@ var Moves       = require('./movesCtrl.js');
 // exported when people require the module
 module.exports = {
   pokemon: {
-    all:            Pokemon.all,
-    byAlphabetical: Pokemon.byAlphabetical,
-    byType:         Pokemon.byType,
-    byStat:         Pokemon.byStat
+    all:            Pokemon.all,            // pokewrapper.pokemon.all()
+    byAlphabetical: Pokemon.byAlphabetical, // pokewrapper.pokemon.byAlphabetical()
+    byType:         Pokemon.byType,         // pokewrapper.pokemon.byType(['water'])
+    byStat:         Pokemon.byStat          // pokewrapper.pokemon.byStat(['sAt'])
   },
 
   items: {
-    all:            Items.all,
-    byAlphabetical: Items.byAlphabetical
+    all:            Items.all,              // pokewrapper.items.all()
+    byAlphabetical: Items.byAlphabetical    // pokewrapper.items.byAlphabetical()
   },
 
   moves: {
-    all:      Moves.all,
-    byTm:     Moves.byTm,
-    byType:   Moves.byType,
-    byDamage: Moves.byDamage
+    all:            Moves.all,              // pokewrapper.moves.all()
+    byTm:           Moves.byTm,             // pokewrapper.moves.byTm()
+    byType:         Moves.byType,           // pokewrapper.moves.byType('water')
+    byDamage:       Moves.byDamage          // pokewrapper.moves.byDamage()
   }
 }
