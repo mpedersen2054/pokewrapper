@@ -3,15 +3,15 @@
 
 ### API Calls
 
-pokewrapper.pokemon.all()
-pokewrapper.pokemon.byAlphabetical()
-pokewrapper.pokemon.byType(['water'])
-pokewrapper.pokemon.byStat(['sAt'])
+pokewrapper.pokemon.all() <br />
+pokewrapper.pokemon.byAlphabetical() <br />
+pokewrapper.pokemon.byType(['water']) <br />
+pokewrapper.pokemon.byStat(['sAt']) <br />
 
-pokewrapper.items.all()
-pokewrapper.items.byAlphabetical()
+pokewrapper.items.all() <br />
+pokewrapper.items.byAlphabetical() <br />
 
-pokewrapper.moves.all()
-pokewrapper.moves.byTm()
-pokewrapper.moves.byType('water')
-pokewrapper.moves.byDamage()
+pokewrapper.moves.all() <br />
+pokewrapper.moves.byTm() <br />
+pokewrapper.moves.byType('water') <br />
+pokewrapper.moves.byDamage() <br />
